@@ -14,6 +14,20 @@ This project is a 3D-printed Eclipson Vortex RC airplane. The goal is to documen
 
 This repository documents my build experience using the existing Eclipson design.
 
+### How the project started — January to February 2026
+
+I've been interested in FPV drones for a while and enjoy flying and learning how they work. After losing my drone in December 2025, I decided not to immediately replace it. Instead, I wanted to dedicate my free time to a project that would challenge me and teach me something new.
+
+In January 2026, I started watching YouTube videos about different kinds of RC aircraft. What began as casual research turned into a growing interest in custom-built airplanes, especially gliders. I liked the idea of building something myself and eventually getting it into the air.
+
+My original goal was to design and fly an airplane completely from scratch. After looking into the cost, materials, and time involved, though, I realized that taking on a full aircraft design as my first airplane project wasn't realistic for my budget or experience at the time.
+
+That led me to [Eclipson](https://www.eclipson-airplanes.com/), a company that sells downloadable designs for 3D-printed model airplanes. I spent roughly two weeks researching the components, electronics, materials, and other considerations involved in building one of their models. By mid-February 2026, I had chosen the **Eclipson Vortex** and purchased its design files.
+
+From there, I worked on the project gradually, experimenting with printing materials, learning about electronics and mechanical control systems, and figuring out how the components fit together. For me, the project became as much about learning the engineering process as it was about eventually flying the airplane.
+
+**Design credit:** The Vortex aircraft design and supplied CAD/3D-print files were created by Eclipson, **not by me**. My work on this project is the research, material experimentation, printing, hardware selection, integration, assembly, and documentation of my own build. You can explore Eclipson's aircraft designs on [their website](https://www.eclipson-airplanes.com/).
+
 ### Progress: April 22–May 29, 2026
 
 During this period I worked on the printed airframe, gathered the electronics and control hardware, and prepared the parts needed for assembly. The purchases included the motor and ESC, servos and extensions, pushrods and connectors, folding propeller, adhesives, fasteners, receivers, and carbon-fiber reinforcement.
@@ -52,17 +66,25 @@ Prices are the actual item prices shown in the purchase records. The table does 
 
 The documented subtotal uses item prices before tax and shipping. It is not the full project cost: the radio transmitter and all 3D-printing filament are excluded.
 
+### Current project update — October 30, 2026
+
+The project is currently **paused, but organized and ready to resume**. I've packed the printed fuselage, wing sections, other airframe parts, reinforcement rods, and electronics together so I can pick up the build again when I have time.
+
+The photo from this update shows the main printed components and supplies laid out before storage. This is a snapshot of the project's current state, **not a completed or flight-ready airplane**. Final assembly, electronics installation, and testing are still ahead.
+
+I still intend to finish the Vortex, with the **end of summer 2027** as my current goal.
+
 ### Current state
 
 - Airframe parts have been printed and prepared for assembly.
 - Major electronics and control hardware have been purchased.
 - The ER6 was replaced by the ER8 to provide enough channels.
-- Carbon-fiber reinforcement remains a schedule-critical item because of the stolen shipment.
+- The stolen carbon-fiber shipment caused a major delay; the parts are now packed together for a future restart.
 - Final assembly, setup, and flight testing are still pending.
 
 ### Next steps
 
-- [ ] Replace the missing carbon-fiber reinforcement.
+- [ ] Check the stored carbon-fiber reinforcement against the required parts list and replace anything still missing.
 - [ ] Complete airframe assembly.
 - [ ] Install the motor, ESC, servos, pushrods, and ER8 receiver.
 - [ ] Configure controls and verify control-surface direction and travel.
@@ -101,6 +123,10 @@ The documented subtotal uses item prices before tax and shipping. It is not the 
 <img src="media/orders/IMG_2936-redacted.png" alt="Replacement ER8 receiver receipt with order number redacted" width="420">
 
 </details>
+
+### Latest photo — October 30, 2026
+
+The current-day photo shows the Vortex components packed together and ready for work to resume. The image is awaiting addition to the repository's media folder.
 
 ### Build highlights
 

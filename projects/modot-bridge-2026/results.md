@@ -1,6 +1,6 @@
 # Testing & results
 
-[Project home](README.md) · [Build story](build-log.md) · [Photos](photos.md) · [Videos](videos.md) · [Results](results.md) · [Sources & next steps](sources.md)
+[All projects](../../README.md) · [Project home](README.md) · [Build story](build-log.md) · [Photos](photos.md) · [Videos](videos.md) · [Results](results.md) · [Sources](sources.md)
 
 **Construction is complete. Inspection, measured performance, and placing are pending.**
 
@@ -35,3 +35,5 @@ Competition photos/video: **Not available yet.** The existing recordings are pro
 Open this file on GitHub, select the pencil icon, replace the blank fields with confirmed values, and commit the changes. Include units and the score recorded by the competition. Add test media separately from construction media. Then update the status on the project home page.
 
 **Do not enter optimizer estimates as measured bridge mass, capacity, or official results.**
+
+[All projects](../../README.md) · [Project home](README.md)

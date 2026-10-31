@@ -1,6 +1,6 @@
 # Build log
 
-[Home](../README.md) · **Build log** · [Photos](../media/progress/photos.md) · [Videos](../media/progress/videos.md) · [Parts & costs](parts-and-costs.md) · [Receipts](../media/orders/README.md)
+[All projects](../../README.md) · [Project home](README.md) · [Build log](build-log.md) · [Photos](photos.md) · [Videos](videos.md) · [Parts & costs](parts-and-costs.md) · [Receipts](receipts.md)
 
 The project story and dated updates. For images, choose Photos or Videos from the menu.
 
@@ -22,7 +22,7 @@ From there, I worked on the project gradually, experimenting with printing mater
 
 ## April 22–May 29, 2026: Printing and assembly
 
-I worked on printed airframe sections, wing assembly, and the electronics and control hardware needed for the build. The [Photos](../media/progress/photos.md) and [Videos](../media/progress/videos.md) pages contain two photos and 21 videos captured on May 22, 26, and 27.
+I worked on printed airframe sections, wing assembly, and the electronics and control hardware needed for the build. The [Photos](photos.md) and [Videos](videos.md) pages contain two photos and 21 videos captured on May 22, 26, and 27.
 
 ### Carbon-fiber shipment delay
 
@@ -38,6 +38,4 @@ The project is paused, with the printed fuselage, wing sections, other airframe 
 
 My current goal is to finish by the end of summer 2027.
 
----
-
-[Home](../README.md) · **Build log** · [Photos](../media/progress/photos.md) · [Videos](../media/progress/videos.md) · [Parts & costs](parts-and-costs.md) · [Receipts](../media/orders/README.md)
+[All projects](../../README.md) · [Project home](README.md)

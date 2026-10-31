@@ -1,6 +1,6 @@
 # My bridge build story
 
-[Project home](README.md) · [Build story](build-log.md) · [Photos](photos.md) · [Videos](videos.md) · [Results](results.md) · [Sources & next steps](sources.md)
+[All projects](../../README.md) · [Project home](README.md) · [Build story](build-log.md) · [Photos](photos.md) · [Videos](videos.md) · [Results](results.md) · [Sources](sources.md)
 
 *Based on my updated October 30, 2026 outline. Results are pending.*
 
@@ -65,3 +65,5 @@ Next year, I want to start earlier and be better prepared. I hope to get extra t
 I am also interested in scholarship opportunities connected to the competition because I am working toward attending Missouri S&T. After checking the published information, I cannot yet say that I will be eligible for an S&T competition scholarship next year. I still value the experience, effort, and learning that this project represents.
 
 [See all construction photos](photos.md) · [Record testing results](results.md)
+
+[All projects](../../README.md) · [Project home](README.md)

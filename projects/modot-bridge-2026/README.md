@@ -1,6 +1,6 @@
 # MoDOT Bridge — 2026
 
-[Project home](README.md) · [Build story](build-log.md) · [Photos](photos.md) · [Videos](videos.md) · [Results](results.md) · [Sources & next steps](sources.md)
+[All projects](../../README.md) · [Project home](README.md) · [Build story](build-log.md) · [Photos](photos.md) · [Videos](videos.md) · [Results](results.md) · [Sources](sources.md)
 
 My first MoDOT bridge competition: researching designs, drawing my own plans, and building a balsa bridge under time and material constraints.
 
@@ -14,11 +14,11 @@ My first MoDOT bridge competition: researching designs, drawing my own plans, an
 | --- | --- |
 | [Build story](build-log.md) | My thought process, design changes, construction, and lessons |
 | [Scrolling photo gallery](photos.md) | Build photos in approximate filename order |
-| [Videos](videos.md) | Both original project recordings |
+| [Videos](videos.md) | Links to both saved originals; GitHub upload pending |
 | [Testing & results](results.md) | Event details and blank fields for measured results |
 | [Sources & next steps](sources.md) | Official references, scholarship notes, and details still to add |
 
-[<img src="media/IMG_2860.jpeg" alt="Completed bridge with balsa frame and diagonal string bracing" width="800">](photos.md)
+[<img src="media/photos/IMG_2860.jpeg" alt="Completed bridge with balsa frame and diagonal string bracing" width="800">](photos.md)
 
 *Full bridge view. Open the image to browse the construction gallery.*
 
@@ -37,4 +37,4 @@ I made the majority of the design and reviewed the suggestions myself. ChatGPT h
 - [ ] Document where failure begins and what I would change.
 - [ ] Identify the final paper drawings and matching cleaned-up blueprints.
 
-[Back to Engineering Projects](../README.md)
+[Media inventory & file details](media/README.md) · [All projects](../../README.md)

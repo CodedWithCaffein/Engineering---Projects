@@ -1,6 +1,6 @@
 # Sources & next steps
 
-[Project home](README.md) · [Build story](build-log.md) · [Photos](photos.md) · [Videos](videos.md) · [Results](results.md) · [Sources & next steps](sources.md)
+[All projects](../../README.md) · [Project home](README.md) · [Build story](build-log.md) · [Photos](photos.md) · [Videos](videos.md) · [Results](results.md) · [Sources](sources.md)
 
 ## Source of the project story
 
@@ -31,8 +31,10 @@ I am a junior with mechanical/aerospace interests. Being a senior next year woul
 
 ## Media ordering
 
-The original uploaded copies have no readable capture dates in the source outline. Filename sequence is used as an approximate order; upload dates are not construction dates. No exact build day is assigned. Identical photos appear once in the main gallery; all 25 original photo uploads are retained separately. The two original videos remain linked from the Videos page.
+The original uploaded copies have no readable capture dates in the source outline. Filename sequence is used as an approximate order; upload dates are not construction dates. No exact build day is assigned. The gallery and media folder contain 19 unique photos. Six byte-identical duplicate uploads have been consolidated; original upload names, source identities, and checksums remain in the [media manifest](media/manifest.json). The two original videos remain linked from the Videos page.
 
 ## Next year
 
 I want to start earlier, obtain extra materials for experiments, compare joint strength and member sizes, and use physical testing to improve strength relative to weight.
+
+[All projects](../../README.md) · [Project home](README.md)

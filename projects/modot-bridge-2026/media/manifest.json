@@ -6,189 +6,254 @@
       "bytes": 535885,
       "sha256": "2ad81fbf839395a6ed1ccddf8aca551ef5639e5a6ba47b793e902df51a481682",
       "library_file_id": "libfile_5027ecb4f2fc81918df5bf22d1c52a1a",
-      "repository_status": "original uploaded"
+      "repository_status": "original hosted without recompression",
+      "repository_path": "photos/IMG_2805.jpeg",
+      "git_blob_sha": "bdbee51818c6c300ab9aa4c97730e9d50ede7663"
     },
     {
       "name": "IMG_2805(1).jpeg",
       "bytes": 535885,
       "sha256": "2ad81fbf839395a6ed1ccddf8aca551ef5639e5a6ba47b793e902df51a481682",
       "library_file_id": "libfile_e5b207b92dc081919ad8ef27585de485",
-      "repository_status": "original uploaded"
+      "repository_status": "byte-identical duplicate consolidated into repository_path",
+      "repository_path": "photos/IMG_2805.jpeg",
+      "git_blob_sha": "bdbee51818c6c300ab9aa4c97730e9d50ede7663",
+      "duplicate_of": "IMG_2805.jpeg"
     },
     {
       "name": "IMG_2806.jpeg",
       "bytes": 842457,
       "sha256": "8f3e752b21420946af54875dd5285b74d065bc81d175d8551de1e21ffd714213",
       "library_file_id": "libfile_0310e7388a98819189135dcdf9900746",
-      "repository_status": "original uploaded"
+      "repository_status": "original hosted without recompression",
+      "repository_path": "photos/IMG_2806.jpeg",
+      "git_blob_sha": "5c7e48f699711655734799bd4e08deaca36ef8dc"
     },
     {
       "name": "IMG_2807.jpeg",
       "bytes": 445141,
       "sha256": "e848d34ef9f7d37012d8651ab6a7edd37bf8711c01d420c61438444bc7b503df",
       "library_file_id": "libfile_aa7cf6df48c881919e73512ad6d300cf",
-      "repository_status": "original uploaded"
+      "repository_status": "original hosted without recompression",
+      "repository_path": "photos/IMG_2807.jpeg",
+      "git_blob_sha": "ace613dbb415896fe9a8ca07a261737c9c5fe869"
     },
     {
       "name": "IMG_2828.mp4",
       "bytes": 18788493,
       "sha256": "4ed02bd1ebc6610c00e8b3c192761ff365ad9fd6412660a6ca42a4c84ea62487",
       "library_file_id": "libfile_0e42a2364db881919b9eda24d0717104",
-      "repository_status": "external original linked from videos.md; upload pending"
+      "repository_status": "external original; not hosted in repository",
+      "repository_path": null,
+      "planned_repository_path": "videos/IMG_2828.mp4",
+      "source_url": "https://chatgpt.com/library?file_id=libfile_0e42a2364db881919b9eda24d0717104&account_id=personal"
     },
     {
       "name": "IMG_2828(1).mp4",
       "bytes": 18798342,
       "sha256": "b1b8264330bbf7b1bf9c7599d995be8b395a84618c3ca2019e60b7b4f4b94a05",
       "library_file_id": "libfile_8fc563b8cbe4819185bcc8b3f58312ab",
-      "repository_status": "external original linked from videos.md; upload pending"
+      "repository_status": "external original; not hosted in repository",
+      "repository_path": null,
+      "planned_repository_path": "videos/IMG_2828(1).mp4",
+      "source_url": "https://chatgpt.com/library?file_id=libfile_8fc563b8cbe4819185bcc8b3f58312ab&account_id=personal"
     },
     {
       "name": "IMG_2831.jpeg",
       "bytes": 529463,
       "sha256": "63fcf950ddef5d41879f8bbee39c6511d41bb762331b3f3b14ee056255ecb923",
       "library_file_id": "libfile_8d0364f561088191ab22069b2cdcd9fa",
-      "repository_status": "original uploaded"
+      "repository_status": "original hosted without recompression",
+      "repository_path": "photos/IMG_2831.jpeg",
+      "git_blob_sha": "1a2e5fce03821fd5a4293d0fa1c5a57df48a2658"
     },
     {
       "name": "IMG_2832.jpeg",
       "bytes": 290731,
       "sha256": "e333dd0f6c154a9fa3d70afe3d628e95ea3bae497b68eede4ad672dfceeb4bd1",
       "library_file_id": "libfile_7781a2aaa1e481918fdb4ff0d2e3376c",
-      "repository_status": "original uploaded"
+      "repository_status": "original hosted without recompression",
+      "repository_path": "photos/IMG_2832.jpeg",
+      "git_blob_sha": "02591e6474739653ce21c86b7151b6dc48725fa1"
     },
     {
       "name": "IMG_2832(1).jpeg",
       "bytes": 290731,
       "sha256": "e333dd0f6c154a9fa3d70afe3d628e95ea3bae497b68eede4ad672dfceeb4bd1",
       "library_file_id": "libfile_ed53f86a690c81919aeb93410055700f",
-      "repository_status": "original uploaded"
+      "repository_status": "byte-identical duplicate consolidated into repository_path",
+      "repository_path": "photos/IMG_2832.jpeg",
+      "git_blob_sha": "02591e6474739653ce21c86b7151b6dc48725fa1",
+      "duplicate_of": "IMG_2832.jpeg"
     },
     {
       "name": "IMG_2833.jpeg",
       "bytes": 600945,
       "sha256": "6fd2e1fb0dcf2a5ebb6d1db020179e66a142889ed083e2076ff7e64c0b0aa12c",
       "library_file_id": "libfile_531a99b8b9b88191a243340ed1fe3511",
-      "repository_status": "original uploaded"
+      "repository_status": "original hosted without recompression",
+      "repository_path": "photos/IMG_2833.jpeg",
+      "git_blob_sha": "5696abcd905020c63e369e9af1b1771ff90c6721"
     },
     {
       "name": "IMG_2833(1).jpeg",
       "bytes": 600945,
       "sha256": "6fd2e1fb0dcf2a5ebb6d1db020179e66a142889ed083e2076ff7e64c0b0aa12c",
       "library_file_id": "libfile_7340ad93244c819194af2038007750f2",
-      "repository_status": "original uploaded"
+      "repository_status": "byte-identical duplicate consolidated into repository_path",
+      "repository_path": "photos/IMG_2833.jpeg",
+      "git_blob_sha": "5696abcd905020c63e369e9af1b1771ff90c6721",
+      "duplicate_of": "IMG_2833.jpeg"
     },
     {
       "name": "IMG_2836.jpeg",
       "bytes": 399996,
       "sha256": "f53e5f2c17536153776f7ed8cec73826f48c7a005866c84d90971faf44b30afc",
       "library_file_id": "libfile_781238eecb088191adc32d686a9bcb22",
-      "repository_status": "original uploaded"
+      "repository_status": "original hosted without recompression",
+      "repository_path": "photos/IMG_2836.jpeg",
+      "git_blob_sha": "ae2796c00932412e284252b27006620a47ddbe98"
     },
     {
       "name": "IMG_2837.jpeg",
       "bytes": 550642,
       "sha256": "783a5843ad54f7254805423aab10d01a68ec14f755d637d7d64a56fec23ce767",
       "library_file_id": "libfile_aa23d9ba203c81918bf99fbbae4f7892",
-      "repository_status": "original uploaded"
+      "repository_status": "original hosted without recompression",
+      "repository_path": "photos/IMG_2837.jpeg",
+      "git_blob_sha": "b16ea6a4bab50227e033b3d3b5b98f1d06d512f3"
     },
     {
       "name": "IMG_2843.jpeg",
       "bytes": 339887,
       "sha256": "b9dbbd1e37746a47d01cc5e6ae6fc65237e7ba71079d858afd0270217572be01",
       "library_file_id": "libfile_2399156c191c81919ce679f158f80ca2",
-      "repository_status": "original uploaded"
+      "repository_status": "original hosted without recompression",
+      "repository_path": "photos/IMG_2843.jpeg",
+      "git_blob_sha": "9d512ff30848ab08a55b81400062cbecc3ce070a"
     },
     {
       "name": "IMG_2848.jpeg",
       "bytes": 368441,
       "sha256": "b99054030895b4c577e516a13dacaa2de4593a564d5dce7c8695a563fe7fc1a2",
       "library_file_id": "libfile_dd4b761a24a48191a6b5b5488c43c20a",
-      "repository_status": "original uploaded"
+      "repository_status": "original hosted without recompression",
+      "repository_path": "photos/IMG_2848.jpeg",
+      "git_blob_sha": "6104cb20091cdc98f6bb1e57deb53a2ba213034b"
     },
     {
       "name": "IMG_2848(1).jpeg",
       "bytes": 368441,
       "sha256": "b99054030895b4c577e516a13dacaa2de4593a564d5dce7c8695a563fe7fc1a2",
       "library_file_id": "libfile_0f62601c651481919ded9d9839353fb9",
-      "repository_status": "original uploaded"
+      "repository_status": "byte-identical duplicate consolidated into repository_path",
+      "repository_path": "photos/IMG_2848.jpeg",
+      "git_blob_sha": "6104cb20091cdc98f6bb1e57deb53a2ba213034b",
+      "duplicate_of": "IMG_2848.jpeg"
     },
     {
       "name": "IMG_2849.jpeg",
       "bytes": 435223,
       "sha256": "ab94cb955bfbda548ea83e42bef9f59cb528d6c7b5f4c4e58e1d4d39a9e12e8f",
       "library_file_id": "libfile_246a999327648191bd107dd0963ea142",
-      "repository_status": "original uploaded"
+      "repository_status": "original hosted without recompression",
+      "repository_path": "photos/IMG_2849.jpeg",
+      "git_blob_sha": "9cb83c9a573738110072d679d16de6b0c6a72888"
     },
     {
       "name": "IMG_2849(1).jpeg",
       "bytes": 435223,
       "sha256": "ab94cb955bfbda548ea83e42bef9f59cb528d6c7b5f4c4e58e1d4d39a9e12e8f",
       "library_file_id": "libfile_c4f547ef726881919f7e89c608e26f30",
-      "repository_status": "original uploaded"
+      "repository_status": "byte-identical duplicate consolidated into repository_path",
+      "repository_path": "photos/IMG_2849.jpeg",
+      "git_blob_sha": "9cb83c9a573738110072d679d16de6b0c6a72888",
+      "duplicate_of": "IMG_2849.jpeg"
     },
     {
       "name": "IMG_2850.jpeg",
       "bytes": 577293,
       "sha256": "94492d50f450daba7e93324af7b002a4e5bd021e918ee8ad1bda66ab848844cd",
       "library_file_id": "libfile_38b7b7c8ccc08191a633fa792ab7b634",
-      "repository_status": "original uploaded"
+      "repository_status": "original hosted without recompression",
+      "repository_path": "photos/IMG_2850.jpeg",
+      "git_blob_sha": "edd822a3d9549cda6fadbe894f3546c7d92e1549"
     },
     {
       "name": "IMG_2850(1).jpeg",
       "bytes": 577293,
       "sha256": "94492d50f450daba7e93324af7b002a4e5bd021e918ee8ad1bda66ab848844cd",
       "library_file_id": "libfile_3db74f8748548191ab0e8ddcc55058d3",
-      "repository_status": "original uploaded"
+      "repository_status": "byte-identical duplicate consolidated into repository_path",
+      "repository_path": "photos/IMG_2850.jpeg",
+      "git_blob_sha": "edd822a3d9549cda6fadbe894f3546c7d92e1549",
+      "duplicate_of": "IMG_2850.jpeg"
     },
     {
       "name": "IMG_2853.jpeg",
       "bytes": 551074,
       "sha256": "dc01835f69ad1585ee1bc7d2f10957e858778ac3368929b3ba3da3f969eb4b1b",
       "library_file_id": "libfile_03804c1cd7008191a7b91c39eb23cf48",
-      "repository_status": "original uploaded"
+      "repository_status": "original hosted without recompression",
+      "repository_path": "photos/IMG_2853.jpeg",
+      "git_blob_sha": "7337e456aecf8d72831fc4a572b19e7abb2446dd"
     },
     {
       "name": "IMG_2854.jpeg",
       "bytes": 398621,
       "sha256": "4aa839df8a346b2d355c3dc51dd3ea05df77b97d7dbd17aafdd315b9f1454ae3",
       "library_file_id": "libfile_1645ceff01ec8191aec7437a921d6665",
-      "repository_status": "original uploaded"
+      "repository_status": "original hosted without recompression",
+      "repository_path": "photos/IMG_2854.jpeg",
+      "git_blob_sha": "09b8bf2818e5ad06c9fddd28f079413b746bbb02"
     },
     {
       "name": "IMG_2856.jpeg",
       "bytes": 678588,
       "sha256": "ece36ec5fae582a2256c8e6d0fff7e81f128c043e744df15c2894b21b2168421",
       "library_file_id": "libfile_c146f5589ed08191baf4f7e0a729057d",
-      "repository_status": "original uploaded"
+      "repository_status": "original hosted without recompression",
+      "repository_path": "photos/IMG_2856.jpeg",
+      "git_blob_sha": "9084828f818e72e4b165b0e95ce1277a505fc3ce"
     },
     {
       "name": "IMG_2857.jpeg",
       "bytes": 633885,
       "sha256": "9aaf4d7d5d8478081443b349b8071730bee7a6fe3f775aafd767bf3721f98561",
       "library_file_id": "libfile_4db473e912dc8191baa8e7a9cac398bc",
-      "repository_status": "original uploaded"
+      "repository_status": "original hosted without recompression",
+      "repository_path": "photos/IMG_2857.jpeg",
+      "git_blob_sha": "84903e9e25dda29dca38db69fee4576d69ef0634"
     },
     {
       "name": "IMG_2858.jpeg",
       "bytes": 425260,
       "sha256": "d0dded0c0bf95a731e86491fb49b431889874dc4dbed3aba45256ea835fa32c6",
       "library_file_id": "libfile_f243303f31908191a0fcb02896be58d9",
-      "repository_status": "original uploaded"
+      "repository_status": "original hosted without recompression",
+      "repository_path": "photos/IMG_2858.jpeg",
+      "git_blob_sha": "36864d61b76da0c46d686c850dbde89137a14e51"
     },
     {
       "name": "IMG_2859.jpeg",
       "bytes": 696777,
       "sha256": "9bf762d1609d1f0335883ac59c5bba63367ddf48a08e36ac83d7b3f59d73dd64",
       "library_file_id": "libfile_5347bd42c994819185082c8503738499",
-      "repository_status": "original uploaded"
+      "repository_status": "original hosted without recompression",
+      "repository_path": "photos/IMG_2859.jpeg",
+      "git_blob_sha": "84fca24b183cc06d4ad0e7042505072dc5499233"
     },
     {
       "name": "IMG_2860.jpeg",
       "bytes": 680431,
       "sha256": "b216b6469d6f4fb6b09b01e2e53e7054471232edd6e1b05345ac9cbb3a8cde1e",
       "library_file_id": "libfile_083e35b8ba508191a4c8ebef0962cf32",
-      "repository_status": "original uploaded"
+      "repository_status": "original hosted without recompression",
+      "repository_path": "photos/IMG_2860.jpeg",
+      "git_blob_sha": "92bb83ea336b0a825cd3b40d93bd52bfb1d21cf4"
     }
-  ]
+  ],
+  "schema_version": 1,
+  "project_id": "modot-bridge-2026",
+  "paths_relative_to": "this manifest's directory"
 }

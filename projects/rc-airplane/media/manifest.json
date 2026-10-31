@@ -1,0 +1,486 @@
+{
+  "schema_version": 1,
+  "project_id": "rc-airplane",
+  "paths_relative_to": "this manifest's directory",
+  "notes": [
+    "Original byte counts and sha256 values describe source files, not the JPEG or MP4 viewing copies.",
+    "21 distinct video viewing copies are retained, including recordings that may overlap.",
+    "IMG_1453-9.jpg, IMG_1453-12.jpg, and IMG_1453-13.jpg were byte-identical; the three clips now share one thumbnail.",
+    "Receipt files are the existing published copies; original private receipts have not been added."
+  ],
+  "files": [
+    {
+      "original": "IMG_1434.HEIC",
+      "bytes": 3165204,
+      "sha256": "abb7a13b9b055749e8c0cf520dda91865d164606250f7e1c69e9eeace6719fd6",
+      "date": "2026:05:22 14:47:51",
+      "preview": "photos/IMG_1434.jpg",
+      "original_repository_status": "source original not included; metadata retained",
+      "original_preview_filename": "IMG_1434.jpg",
+      "preview_git_blob_sha": "dd53a79041479ac86d165cbc14a3c24b551aced2"
+    },
+    {
+      "original": "IMG_1434.MOV",
+      "bytes": 4003419,
+      "sha256": "ed951ac9c1722fdc5c031890b3c3bfbf3cd74ba477cd7419e2bfbb6ecdd332ce",
+      "seconds": 2.35,
+      "creation_time": [
+        "2026-05-22T19:47:52.000000Z"
+      ],
+      "live_photo_pair": true,
+      "preview": "photos/IMG_1434.jpg",
+      "original_repository_status": "source original not included; metadata retained",
+      "original_preview_filename": "IMG_1434.jpg",
+      "preview_git_blob_sha": "dd53a79041479ac86d165cbc14a3c24b551aced2"
+    },
+    {
+      "original": "IMG_1437.MOV",
+      "bytes": 52867715,
+      "sha256": "8d4a026008db350a96119a23edcc7dd301c90f4614ad3d15b3889fbb95775d2b",
+      "seconds": 5.05,
+      "creation_time": [
+        "2026-05-26T20:14:57.000000Z"
+      ],
+      "live_photo_pair": false,
+      "preview": "thumbnails/IMG_1437.jpg",
+      "viewing_copy": "videos/IMG_1437.mp4",
+      "viewing_bytes": 83914,
+      "original_repository_status": "source original not included; metadata retained",
+      "original_preview_filename": "IMG_1437.jpg",
+      "preview_git_blob_sha": "2a070a9c9f8254daf3b65981f61b2e0bce41faa0",
+      "viewing_git_blob_sha": "f5c81fe88c585d31b2f1c13d6ef06da569b97e2a"
+    },
+    {
+      "original": "IMG_1438.MOV",
+      "bytes": 146894841,
+      "sha256": "28a1fbade0bbab42fefbb86300b67c456a0b542929a7b9891b37743f6226f59a",
+      "seconds": 14.02,
+      "creation_time": [
+        "2026-05-26T20:16:42.000000Z"
+      ],
+      "live_photo_pair": false,
+      "preview": "thumbnails/IMG_1438.jpg",
+      "viewing_copy": "videos/IMG_1438.mp4",
+      "viewing_bytes": 219176,
+      "original_repository_status": "source original not included; metadata retained",
+      "original_preview_filename": "IMG_1438.jpg",
+      "preview_git_blob_sha": "93c7c059146c9d995770316933f603f46833d517",
+      "viewing_git_blob_sha": "e62f7a06a320b18c2780e203f4fd7e5a6c0029cb"
+    },
+    {
+      "original": "IMG_1439.MOV",
+      "bytes": 49950193,
+      "sha256": "2b12a95bb49aacdd85edf3a2dd75f54fb31e96988e6d448f6ecb45ccd9e565a0",
+      "seconds": 5.99,
+      "creation_time": [
+        "2026-05-26T20:17:08.000000Z"
+      ],
+      "live_photo_pair": false,
+      "preview": "thumbnails/IMG_1439.jpg",
+      "viewing_copy": "videos/IMG_1439.mp4",
+      "viewing_bytes": 112491,
+      "original_repository_status": "source original not included; metadata retained",
+      "original_preview_filename": "IMG_1439.jpg",
+      "preview_git_blob_sha": "f077efb0c62be1a298e92de3c5c7b5f5e8405eb1",
+      "viewing_git_blob_sha": "32a347242f80285f64c7e6303491fc65bc2686bf"
+    },
+    {
+      "original": "IMG_1441.MOV",
+      "bytes": 1311157935,
+      "sha256": "3c8dca63f69dd11ca78c2d04e032677a39dcee67439d5ee35059131d3b76d6ab",
+      "seconds": 177.1,
+      "creation_time": [
+        "2026-05-26T21:14:37.000000Z"
+      ],
+      "live_photo_pair": false,
+      "preview": "thumbnails/IMG_1441.jpg",
+      "viewing_copy": "videos/IMG_1441.mp4",
+      "viewing_bytes": 3312177,
+      "original_repository_status": "source original not included; metadata retained",
+      "original_preview_filename": "IMG_1441.jpg",
+      "preview_git_blob_sha": "93d0a226c7cc04d053d7355ca85b804c391afb89",
+      "viewing_git_blob_sha": "81b1303470ffd286d0cc9be985a77d34a8206b19"
+    },
+    {
+      "original": "IMG_1442.HEIC",
+      "bytes": 2788580,
+      "sha256": "a935113c21bddeebd0841b33b00d1e18ad63ae3b3469a782b45c4efc165ef4f8",
+      "date": "2026:05:26 16:46:00",
+      "preview": "photos/IMG_1442.jpg",
+      "original_repository_status": "source original not included; metadata retained",
+      "original_preview_filename": "IMG_1442.jpg",
+      "preview_git_blob_sha": "3002e36d02ed4f6830c7f557b823ce189eac4f9a"
+    },
+    {
+      "original": "IMG_1442.MOV",
+      "bytes": 3660073,
+      "sha256": "22476578470c39ea685e7742875b55e5b4f6f7d49c936118345d33081e3eff60",
+      "seconds": 2.24,
+      "creation_time": [
+        "2026-05-26T21:46:00.000000Z"
+      ],
+      "live_photo_pair": true,
+      "preview": "photos/IMG_1442.jpg",
+      "original_repository_status": "source original not included; metadata retained",
+      "original_preview_filename": "IMG_1442.jpg",
+      "preview_git_blob_sha": "3002e36d02ed4f6830c7f557b823ce189eac4f9a"
+    },
+    {
+      "original": "IMG_1449.MOV",
+      "bytes": 512165826,
+      "sha256": "4da4524858c1fe6b477c4f6f20aa984a7224d6e53454dea4596b086debbf3275",
+      "seconds": 59.62,
+      "creation_time": [
+        "2026-05-28T02:43:28.000000Z"
+      ],
+      "live_photo_pair": false,
+      "preview": "thumbnails/IMG_1449.jpg",
+      "viewing_copy": "videos/IMG_1449.mp4",
+      "viewing_bytes": 1105926,
+      "original_repository_status": "source original not included; metadata retained",
+      "original_preview_filename": "IMG_1449.jpg",
+      "preview_git_blob_sha": "46d973450d37d599f56d4524cdc4171e79381dec",
+      "viewing_git_blob_sha": "939939951069ae9cca471a8d78641972cc05f79e"
+    },
+    {
+      "original": "IMG_1450.MOV",
+      "bytes": 364182444,
+      "sha256": "e1e2a1d120725909d40ee9f09ba7f1e79cceba2a0c1875790ac9d622dee090c7",
+      "seconds": 49.46,
+      "creation_time": [
+        "2026-05-28T03:00:55.000000Z"
+      ],
+      "live_photo_pair": false,
+      "preview": "thumbnails/IMG_1450.jpg",
+      "viewing_copy": "videos/IMG_1450.mp4",
+      "viewing_bytes": 975961,
+      "original_repository_status": "source original not included; metadata retained",
+      "original_preview_filename": "IMG_1450.jpg",
+      "preview_git_blob_sha": "19564ffa8cda5e4ad3f25f0b5f1ba48ba6bac9d7",
+      "viewing_git_blob_sha": "69d2ad5f98f20a1c2bb61d7cb848e446ac23ba1f"
+    },
+    {
+      "original": "IMG_1451.MOV",
+      "bytes": 52487689,
+      "sha256": "48de7c6c83da23b06a70afecd274cc3c8cd75c9d0980f454b51bc8132abd83f2",
+      "seconds": 7.94,
+      "creation_time": [
+        "2026-05-28T03:02:56.000000Z"
+      ],
+      "live_photo_pair": false,
+      "preview": "thumbnails/IMG_1451.jpg",
+      "viewing_copy": "videos/IMG_1451.mp4",
+      "viewing_bytes": 157662,
+      "original_repository_status": "source original not included; metadata retained",
+      "original_preview_filename": "IMG_1451.jpg",
+      "preview_git_blob_sha": "9a9be8c1f92d803dac8e3369c4375df0359f4fde",
+      "viewing_git_blob_sha": "59009c8666c87634c9b76594e88186088e0148e3"
+    },
+    {
+      "original": "IMG_1452.MOV",
+      "bytes": 357867669,
+      "sha256": "8312e8b232d0f3ec55bfcad7c0d24ed6fe1953efd1ac11836a55ceb959c30302",
+      "seconds": 50.78,
+      "creation_time": [
+        "2026-05-28T03:03:09.000000Z"
+      ],
+      "live_photo_pair": false,
+      "preview": "thumbnails/IMG_1452.jpg",
+      "viewing_copy": "videos/IMG_1452.mp4",
+      "viewing_bytes": 1072640,
+      "original_repository_status": "source original not included; metadata retained",
+      "original_preview_filename": "IMG_1452.jpg",
+      "preview_git_blob_sha": "c15cf9d2cf0dd329cae5d86c6d34e882065307ab",
+      "viewing_git_blob_sha": "c1225c55dfef0a402844d02f6ac86162b9a9207f"
+    },
+    {
+      "original": "IMG_1453 10.MOV",
+      "bytes": 1375891142,
+      "sha256": "6111bdbf4cb1b22337e3672c0bac27d7884a353e418a94df2b238f9d7519421a",
+      "seconds": 181.99,
+      "creation_time": [
+        "2026-05-28T03:39:46.000000Z"
+      ],
+      "live_photo_pair": false,
+      "preview": "thumbnails/IMG_1453-10.jpg",
+      "viewing_copy": "videos/IMG_1453-10.mp4",
+      "viewing_bytes": 3594477,
+      "original_repository_status": "source original not included; metadata retained",
+      "original_preview_filename": "IMG_1453-10.jpg",
+      "preview_git_blob_sha": "8cc7d5f8c3c2cb7ee1be20064db102086db310ce",
+      "viewing_git_blob_sha": "0915a1b679f410809611120523cbdbe3df3f5eb1"
+    },
+    {
+      "original": "IMG_1453 11.MOV",
+      "bytes": 1708979942,
+      "sha256": "e74cc1463bec02229f099ebe1cccde331bd34735cb7425bbbd9f84f517229222",
+      "seconds": 181.36,
+      "creation_time": [
+        "2026-05-28T03:39:19.000000Z"
+      ],
+      "live_photo_pair": false,
+      "preview": "thumbnails/IMG_1453-11.jpg",
+      "viewing_copy": "videos/IMG_1453-11.mp4",
+      "viewing_bytes": 4072514,
+      "original_repository_status": "source original not included; metadata retained",
+      "original_preview_filename": "IMG_1453-11.jpg",
+      "preview_git_blob_sha": "007dc1ada01bab0d644f756815089af4ff585a53",
+      "viewing_git_blob_sha": "0d4c47d1e3d63cf545a01fdfb1e7fe5b4e7b7d60"
+    },
+    {
+      "original": "IMG_1453 12.MOV",
+      "bytes": 1263616370,
+      "sha256": "c6fe35886798e2ba39bd729103e8cbed6dc3ee7053ab894babb0f8dbbbd900a2",
+      "seconds": 179.86,
+      "creation_time": [
+        "2026-05-28T03:38:13.000000Z"
+      ],
+      "live_photo_pair": false,
+      "preview": "thumbnails/IMG_1453-9.jpg",
+      "viewing_copy": "videos/IMG_1453-12.mp4",
+      "viewing_bytes": 3435081,
+      "original_repository_status": "source original not included; metadata retained",
+      "original_preview_filename": "IMG_1453-12.jpg",
+      "preview_git_blob_sha": "ba7341588296f0d63a669144f8bdee90fd499ea4",
+      "viewing_git_blob_sha": "6d22f214ac21e55d919c913da1ec764a3540e9e6"
+    },
+    {
+      "original": "IMG_1453 13.MOV",
+      "bytes": 4321727745,
+      "sha256": "14ae2efd1534f9a3f562b4ac04b2f573dee156ab7c68296bb3b9e8102db1cf76",
+      "seconds": 540.69,
+      "creation_time": [
+        "2026-05-28T03:10:44.000000Z"
+      ],
+      "live_photo_pair": false,
+      "preview": "thumbnails/IMG_1453-9.jpg",
+      "viewing_copy": "videos/IMG_1453-13.mp4",
+      "viewing_bytes": 11041795,
+      "original_repository_status": "source original not included; metadata retained",
+      "original_preview_filename": "IMG_1453-13.jpg",
+      "preview_git_blob_sha": "ba7341588296f0d63a669144f8bdee90fd499ea4",
+      "viewing_git_blob_sha": "0e673fa854b14a13c94a0df08c70eb66d1d6e703"
+    },
+    {
+      "original": "IMG_1453 2.MOV",
+      "bytes": 428994962,
+      "sha256": "e06e40be286ce4c2b3683d29765a7e0683c6d8fda44997de495444544a385af6",
+      "seconds": 60.95,
+      "creation_time": [
+        "2026-05-28T04:37:34.000000Z"
+      ],
+      "live_photo_pair": false,
+      "preview": "thumbnails/IMG_1453-2.jpg",
+      "viewing_copy": "videos/IMG_1453-2.mp4",
+      "viewing_bytes": 1077900,
+      "original_repository_status": "source original not included; metadata retained",
+      "original_preview_filename": "IMG_1453-2.jpg",
+      "preview_git_blob_sha": "2f82e707c1774563fa527fd98e759f85a035f887",
+      "viewing_git_blob_sha": "bd6f68a509e767605d2f33250e5146457e082311"
+    },
+    {
+      "original": "IMG_1453 3.MOV",
+      "bytes": 485645792,
+      "sha256": "11dbfaa7be385216ad7c88dd1abd694276a474122aba449a85f499be9159e240",
+      "seconds": 60.95,
+      "creation_time": [
+        "2026-05-28T04:36:56.000000Z"
+      ],
+      "live_photo_pair": false,
+      "preview": "thumbnails/IMG_1453-3.jpg",
+      "viewing_copy": "videos/IMG_1453-3.mp4",
+      "viewing_bytes": 1352897,
+      "original_repository_status": "source original not included; metadata retained",
+      "original_preview_filename": "IMG_1453-3.jpg",
+      "preview_git_blob_sha": "f6458ee79f409c62320be9152fc8e60aec10ffce",
+      "viewing_git_blob_sha": "24223e8d671ba0c7e19b65f442063f1aa15c652c"
+    },
+    {
+      "original": "IMG_1453 4.MOV",
+      "bytes": 655722660,
+      "sha256": "9f8af42e47330292ff550c3f55d082b4af673808aca82c2148dfe7929a426d43",
+      "seconds": 61.2,
+      "creation_time": [
+        "2026-05-28T04:36:12.000000Z"
+      ],
+      "live_photo_pair": false,
+      "preview": "thumbnails/IMG_1453-4.jpg",
+      "viewing_copy": "videos/IMG_1453-4.mp4",
+      "viewing_bytes": 1317495,
+      "original_repository_status": "source original not included; metadata retained",
+      "original_preview_filename": "IMG_1453-4.jpg",
+      "preview_git_blob_sha": "5299c9d72b233f61bf2bc5cc05cacd9d8b4c9749",
+      "viewing_git_blob_sha": "209c4fbb8015f71fd747cff8b2bce85e79ac0746"
+    },
+    {
+      "original": "IMG_1453 5.MOV",
+      "bytes": 435221593,
+      "sha256": "2834d06c64edde52ac856e0687ec323e7d89dd2ed2c011883a4cc2cea8060600",
+      "seconds": 61.46,
+      "creation_time": [
+        "2026-05-28T04:34:29.000000Z"
+      ],
+      "live_photo_pair": false,
+      "preview": "thumbnails/IMG_1453-5.jpg",
+      "viewing_copy": "videos/IMG_1453-5.mp4",
+      "viewing_bytes": 1396922,
+      "original_repository_status": "source original not included; metadata retained",
+      "original_preview_filename": "IMG_1453-5.jpg",
+      "preview_git_blob_sha": "40dc15350d18ddfaaace180392becb61556caa41",
+      "viewing_git_blob_sha": "03688ea4f98c7ea6431905e97c60ac1166ee6829"
+    },
+    {
+      "original": "IMG_1453 6.MOV",
+      "bytes": 629320908,
+      "sha256": "883f910d217d87dd1e58e6b06f2d97386f28698036df53ec22ac42a4bfdf51b6",
+      "seconds": 59.7,
+      "creation_time": [
+        "2026-05-28T04:30:01.000000Z"
+      ],
+      "live_photo_pair": false,
+      "preview": "thumbnails/IMG_1453-6.jpg",
+      "viewing_copy": "videos/IMG_1453-6.mp4",
+      "viewing_bytes": 1389170,
+      "original_repository_status": "source original not included; metadata retained",
+      "original_preview_filename": "IMG_1453-6.jpg",
+      "preview_git_blob_sha": "f4f1d77832ba3c8278221c52a473455241f3a97b",
+      "viewing_git_blob_sha": "6f6b5cc7cd057d97cd6cafc891a538f7ea7f82ae"
+    },
+    {
+      "original": "IMG_1453 7.MOV",
+      "bytes": 442040553,
+      "sha256": "317470be5ed4d8d95a37a7dac938970b45089ccbcc0c79b723575708b973e1b6",
+      "seconds": 60.95,
+      "creation_time": [
+        "2026-05-28T04:26:27.000000Z"
+      ],
+      "live_photo_pair": false,
+      "preview": "thumbnails/IMG_1453-7.jpg",
+      "viewing_copy": "videos/IMG_1453-7.mp4",
+      "viewing_bytes": 1260666,
+      "original_repository_status": "source original not included; metadata retained",
+      "original_preview_filename": "IMG_1453-7.jpg",
+      "preview_git_blob_sha": "9c05e3b0c0cf71135fad2af01f40546e722c963b",
+      "viewing_git_blob_sha": "f8eabfe3fddd6009425cedec9e3e7e40e821b54b"
+    },
+    {
+      "original": "IMG_1453 8.MOV",
+      "bytes": 313563509,
+      "sha256": "d71ad22c742fbe784a41ee4749854bd16e7324b84a96baca9ef715f65bb363ef",
+      "seconds": 61.08,
+      "creation_time": [
+        "2026-05-28T04:25:53.000000Z"
+      ],
+      "live_photo_pair": false,
+      "preview": "thumbnails/IMG_1453-8.jpg",
+      "viewing_copy": "videos/IMG_1453-8.mp4",
+      "viewing_bytes": 1173797,
+      "original_repository_status": "source original not included; metadata retained",
+      "original_preview_filename": "IMG_1453-8.jpg",
+      "preview_git_blob_sha": "b11932bc1770ce04328f4332fc122a30c994ea63",
+      "viewing_git_blob_sha": "276a30bd45457d32b05e09fc94af77ad1f1aa75e"
+    },
+    {
+      "original": "IMG_1453 9.MOV",
+      "bytes": 531108450,
+      "sha256": "24b2d87c49c10441b0f7f14e433faf581a5dcb3557ec16f56dd4ab41b15985e3",
+      "seconds": 60.2,
+      "creation_time": [
+        "2026-05-28T04:25:28.000000Z"
+      ],
+      "live_photo_pair": false,
+      "preview": "thumbnails/IMG_1453-9.jpg",
+      "viewing_copy": "videos/IMG_1453-9.mp4",
+      "viewing_bytes": 1045627,
+      "original_repository_status": "source original not included; metadata retained",
+      "original_preview_filename": "IMG_1453-9.jpg",
+      "preview_git_blob_sha": "ba7341588296f0d63a669144f8bdee90fd499ea4",
+      "viewing_git_blob_sha": "461924c3f1c6fdafad78b0bc8048a17ba650caf5"
+    },
+    {
+      "original": "IMG_1453.MOV",
+      "bytes": 470273052,
+      "sha256": "4a76e6e2ba199b8cfd3dcb7d4d9e4a5383a02e825a82ad231617f14717a177e4",
+      "seconds": 61.46,
+      "creation_time": [
+        "2026-05-28T04:38:15.000000Z"
+      ],
+      "live_photo_pair": false,
+      "preview": "thumbnails/IMG_1453.jpg",
+      "viewing_copy": "videos/IMG_1453.mp4",
+      "viewing_bytes": 1189557,
+      "original_repository_status": "source original not included; metadata retained",
+      "original_preview_filename": "IMG_1453.jpg",
+      "preview_git_blob_sha": "2f6c6730de3bbc4e04e11b21e29c35cf3716d35d",
+      "viewing_git_blob_sha": "a4ba9bb66fefe790d577e9334883fa49dcb3c95e"
+    }
+  ],
+  "receipts": [
+    {
+      "name": "IMG_2923.jpg",
+      "repository_path": "receipts/IMG_2923.jpg",
+      "bytes": 345485,
+      "git_blob_sha": "08c226a1daae19613ae6b2132234c1012eb0c2c6"
+    },
+    {
+      "name": "IMG_2924.jpg",
+      "repository_path": "receipts/IMG_2924.jpg",
+      "bytes": 357344,
+      "git_blob_sha": "61ff525a2c1c0daa3ae69fd0bdea8c9ea4f56f40"
+    },
+    {
+      "name": "IMG_2925.jpg",
+      "repository_path": "receipts/IMG_2925.jpg",
+      "bytes": 110678,
+      "git_blob_sha": "2755bf8b7e711956623f9edbafe60fd4aed043d8"
+    },
+    {
+      "name": "IMG_2926.jpg",
+      "repository_path": "receipts/IMG_2926.jpg",
+      "bytes": 68775,
+      "git_blob_sha": "70012247ff61abd26f998072ffa0452513184eb3"
+    },
+    {
+      "name": "IMG_2927-redacted.png",
+      "repository_path": "receipts/IMG_2927-redacted.png",
+      "bytes": 1255041,
+      "git_blob_sha": "2c46573d43005ab285a714a00ab045966f5630c8"
+    },
+    {
+      "name": "IMG_2928-redacted.png",
+      "repository_path": "receipts/IMG_2928-redacted.png",
+      "bytes": 1316631,
+      "git_blob_sha": "ec2964ba269177fd52119d8edc3e19a1f15d849f"
+    },
+    {
+      "name": "IMG_2929-redacted.png",
+      "repository_path": "receipts/IMG_2929-redacted.png",
+      "bytes": 1278502,
+      "git_blob_sha": "34644065543b6794efef2f3f13ff835b802f919c"
+    },
+    {
+      "name": "IMG_2932-redacted.png",
+      "repository_path": "receipts/IMG_2932-redacted.png",
+      "bytes": 1348233,
+      "git_blob_sha": "3a2d74644680a1bd48a8014f5388b633158e0e3d"
+    },
+    {
+      "name": "IMG_2934.jpg",
+      "repository_path": "receipts/IMG_2934.jpg",
+      "bytes": 288787,
+      "git_blob_sha": "e13942ba4838ac0aab0fc2966290fc85a7bcf083"
+    },
+    {
+      "name": "IMG_2935-redacted.png",
+      "repository_path": "receipts/IMG_2935-redacted.png",
+      "bytes": 1323698,
+      "git_blob_sha": "6e5cd48eeeac2d9168478b7021079f5a0deb0554"
+    },
+    {
+      "name": "IMG_2936-redacted.png",
+      "repository_path": "receipts/IMG_2936-redacted.png",
+      "bytes": 1366424,
+      "git_blob_sha": "4ce9ada9ac9654acf160057f8bd451a7de3dc6b2"
+    }
+  ]
+}

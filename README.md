@@ -1,5 +1,12 @@
 # Engineering Projects
 
+## Choose a project
+
+| Project | Status | Open |
+| --- | --- | --- |
+| Eclipson Vortex RC Airplane | Paused; target completion summer 2027 | [Airplane overview](#eclipson-vortex-rc-airplane) |
+| MoDOT Bridge — 2026 | Built; competition testing pending | [Bridge project](bridge/README.md) |
+
 **Home** · [Build log](docs/build-log.md) · [Photos](media/progress/photos.md) · [Videos](media/progress/videos.md) · [Parts & costs](docs/parts-and-costs.md) · [Receipts](media/orders/README.md)
 
 ## Eclipson Vortex RC Airplane

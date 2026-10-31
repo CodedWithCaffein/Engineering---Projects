@@ -1,137 +1,32 @@
 # Engineering Projects
 
-A collection of engineering builds, progress notes, costs, and lessons learned.
+My engineering builds, progress, costs, and lessons learned.
 
 ## Eclipson Vortex RC Airplane
 
-**Status:** Work in progress  
-**Documented period:** April 22–May 29, 2026  
+A 3D-printed RC airplane build focused on learning airframe assembly, electronics, and control systems.
+
+**Status:** Paused; parts organized for a future restart  
+**Last update:** October 30, 2026  
 **Target completion:** End of summer 2027
 
-### Project overview
+<img src="media/progress/IMG_1442.jpg" alt="Vortex wing assembly during the May 2026 build" width="620">
 
-This project is a 3D-printed Eclipson Vortex RC airplane. The goal is to document the build from printed airframe parts through electronics installation, ground testing, and the first flight.
+[Build log](docs/build-log.md) · [Photos and videos](media/progress/README.md) · [Parts and costs](docs/parts-and-costs.md) · [Purchase records](media/orders/README.md)
 
-This repository documents my build experience using the existing Eclipson design.
+### Progress
 
-### How the project started — January to February 2026
+I have printed airframe and wing sections and purchased the main electronics and control hardware. The April 22–May 29 update includes photos and recordings captured on May 22, 26, and 27. Final assembly, electronics installation, ground checks, and flight testing are still ahead.
 
-I've been interested in FPV drones for a while and enjoy flying and learning how they work. After losing my drone in December 2025, I decided not to immediately replace it. Instead, I wanted to dedicate my free time to a project that would challenge me and teach me something new.
-
-In January 2026, I started watching YouTube videos about different kinds of RC aircraft. What began as casual research turned into a growing interest in custom-built airplanes, especially gliders. I liked the idea of building something myself and eventually getting it into the air.
-
-My original goal was to design and fly an airplane completely from scratch. After looking into the cost, materials, and time involved, though, I realized that taking on a full aircraft design as my first airplane project wasn't realistic for my budget or experience at the time.
-
-That led me to [Eclipson](https://www.eclipson-airplanes.com/), a company that sells downloadable designs for 3D-printed model airplanes. I spent roughly two weeks researching the components, electronics, materials, and other considerations involved in building one of their models. By mid-February 2026, I had chosen the **Eclipson Vortex** and purchased its design files.
-
-From there, I worked on the project gradually, experimenting with printing materials, learning about electronics and mechanical control systems, and figuring out how the components fit together. For me, the project became as much about learning the engineering process as it was about eventually flying the airplane.
-
-**Design credit:** The Vortex aircraft design and supplied CAD/3D-print files were created by Eclipson, **not by me**. My work on this project is the research, material experimentation, printing, hardware selection, integration, assembly, and documentation of my own build. You can explore Eclipson's aircraft designs on [their website](https://www.eclipson-airplanes.com/).
-
-### Progress: April 22–May 29, 2026
-
-During this period I worked on the printed airframe, gathered the electronics and control hardware, and prepared the parts needed for assembly. The purchases included the motor and ESC, servos and extensions, pushrods and connectors, folding propeller, adhesives, fasteners, receivers, and carbon-fiber reinforcement.
-
-The build did not reach final assembly during this update because key reinforcement material was delayed and the receiver selection had to be corrected.
-
-### Challenges and changes
-
-#### Stolen carbon-fiber shipment
-
-A package containing most of the carbon-fiber tubes needed to reinforce the airframe was stolen. Replacement material was expected to take about two months to arrive, delaying the build past its original schedule. A vacation and the start of school added to the delay.
-
-#### Receiver replacement
-
-I first bought a RadioMaster ER6 six-channel receiver for **$35.56**, but it was too small for the number of connections required by the airplane. I then bought a RadioMaster ER8 eight-channel receiver for **$49.99**. Both purchases are included below so the cost of this correction is visible.
-
-### Purchased parts
-
-Prices are the actual item prices shown in the purchase records. The table does not include the radio transmitter or 3D-printing filament.
-
-| Part | Details | Item price |
-|---|---|---:|
-| Folding propeller | Viloga 10×6 with spinner | $24.99 |
-| Carbon-fiber tubes | WHABEST roll-wrapped tube | $32.80 |
-| Carbon-fiber tubes | WHABEST tube set | $23.99 |
-| Receiver — original | RadioMaster ER6, 6-channel | $35.56 |
-| CA glue and activator | Two 1.7 oz bottles and activator | $15.99 |
-| Self-tapping screws | M2 × 8 mm stainless steel | $8.99 |
-| Stainless-steel rods | YOXMULK 2 mm × 300 mm, 10-pack | $7.99 |
-| Pushrod connectors | AONTOKY 1.3 mm, 20-pack | $7.86 |
-| Servo extension cables | Tecunite 3-pin, 20-piece set | $8.99 |
-| Steel pushrods | uxcell 1.2 mm × 450 mm | $15.69 |
-| Remaining May 11 parts bundle | SG90 servos, carbon-fiber rods, SunnySky X2212 motor, ZTW Beatles G2 50A ESC, and related listed hardware | $67.97 |
-| Receiver — replacement | RadioMaster ER8, 8-channel | $49.99 |
-| **Documented parts subtotal** | **Excludes radio transmitter, filament, tax, and shipping** | **$300.81** |
-
-The documented subtotal uses item prices before tax and shipping. It is not the full project cost: the radio transmitter and all 3D-printing filament are excluded.
-
-### Current project update — October 30, 2026
-
-The project is currently **paused, but organized and ready to resume**. I've packed the printed fuselage, wing sections, other airframe parts, reinforcement rods, and electronics together so I can pick up the build again when I have time.
-
-The photo from this update shows the main printed components and supplies laid out before storage. This is a snapshot of the project's current state, **not a completed or flight-ready airplane**. Final assembly, electronics installation, and testing are still ahead.
-
-I still intend to finish the Vortex, with the **end of summer 2027** as my current goal.
-
-### Current state
-
-- Airframe parts have been printed and prepared for assembly.
-- Major electronics and control hardware have been purchased.
-- The ER6 was replaced by the ER8 to provide enough channels.
-- The stolen carbon-fiber shipment caused a major delay; the parts are now packed together for a future restart.
-- Final assembly, setup, and flight testing are still pending.
+A stolen carbon-fiber shipment delayed the build. I also bought an ER6 receiver that was too small for my build, then purchased an ER8 replacement. Both purchases are included in the **$315.70 documented parts subtotal**, which excludes the radio transmitter, filament, tax, and shipping. See the [cost breakdown](docs/parts-and-costs.md) for the full scope.
 
 ### Next steps
 
-- [ ] Check the stored carbon-fiber reinforcement against the required parts list and replace anything still missing.
-- [ ] Complete airframe assembly.
-- [ ] Install the motor, ESC, servos, pushrods, and ER8 receiver.
-- [ ] Configure controls and verify control-surface direction and travel.
-- [ ] Perform balance, range, and ground checks.
-- [ ] Complete the first flight and document the results.
+- [ ] Inventory the stored parts and replace any missing reinforcement.
+- [ ] Complete airframe assembly and electronics installation.
+- [ ] Configure controls and complete balance, range, and ground checks.
+- [ ] Carry out the first flight and record the results.
 
-### Project media
+### Design credit
 
-[View the dated build gallery and videos](media/progress/README.md) for the April 22–May 29, 2026 update. The supplied recordings cover May 22, 26, and 27, with two photos and 21 full-duration video viewing copies. [Purchase screenshots and redacted receipts](media/orders/README.md) are available below. Order identifiers are covered in the receipt copies; originals are retained separately.
-
-<details>
-<summary>View purchase receipts</summary>
-
-**Folding propeller**
-
-<img src="media/orders/IMG_2927-redacted.png" alt="Folding propeller receipt with order number redacted" width="420">
-
-**Carbon-fiber tubes**
-
-<img src="media/orders/IMG_2928-redacted.png" alt="Carbon-fiber tubes receipt with order number redacted" width="420">
-
-**Original ER6 receiver**
-
-<img src="media/orders/IMG_2929-redacted.png" alt="Original ER6 receiver receipt with order number redacted" width="420">
-
-**CA glue and screws**
-
-<img src="media/orders/IMG_2932-redacted.png" alt="CA glue and screws receipt with order number redacted" width="420">
-
-**Control hardware order**
-
-<img src="media/orders/IMG_2935-redacted.png" alt="Control hardware order receipt with order number redacted" width="420">
-
-**Replacement ER8 receiver**
-
-<img src="media/orders/IMG_2936-redacted.png" alt="Replacement ER8 receiver receipt with order number redacted" width="420">
-
-</details>
-
-### Latest photo — October 30, 2026
-
-The current-day photo shows the Vortex components packed together and ready for work to resume. The image is awaiting addition to the repository's media folder.
-
-### Build highlights
-
-| May 22 — Printed components | May 26 — Wing assembly | May 27 — Bench work |
-|---|---|---|
-| ![Printed airframe sections](media/progress/IMG_1434.jpg) | ![Wing assembly](media/progress/IMG_1442.jpg) | ![Ongoing assembly](media/progress/IMG_1453-13.jpg) |
-
-The original HEIC and MOV files remain unchanged in the source archive. The gallery uses JPEG previews and smaller MP4 viewing copies; Live Photo companion videos are represented by their still photos.
+The Vortex aircraft design and supplied CAD/printing files are by [Eclipson](https://www.eclipson-airplanes.com/). My contribution is researching, printing, selecting and integrating components, assembling, and documenting this build.

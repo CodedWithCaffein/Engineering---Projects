@@ -1,41 +1,69 @@
-# Purchase images
+# Purchase records
 
-Order-list screenshots and privacy-redacted receipt copies for the RC airplane build. Receipt copies were edited to cover order identifiers; original attachments are retained separately and are not uploaded here. Prices in the project table were transcribed from the original screenshots.
+[Project overview](../../README.md) · [Parts and costs](../../docs/parts-and-costs.md)
 
-The ER8 receipt also contains a $19.99 phone accessory, which is excluded from the airplane total. Order totals include tax, shipping, discounts, or gift-card/reward payments and therefore differ from the item-price subtotal.
+Edited receipt copies have order identifiers covered. Item prices were verified against the original supplied screenshots; originals remain private. The documented parts subtotal is **$315.70**, before tax and shipping.
 
-## Order lists
+The ER8 receipt also includes a $19.99 phone accessory that is excluded from the project total. See the [cost notes](../../docs/parts-and-costs.md) for how order totals and payment adjustments are handled.
 
-![IMG_2923 order list](IMG_2923.jpg)
+<details>
+<summary>Folding propeller</summary>
 
-![IMG_2924 order list](IMG_2924.jpg)
+<img src="IMG_2927-redacted.png" alt="Folding propeller purchase record" width="520">
 
-![IMG_2925 order list](IMG_2925.jpg)
+</details>
 
-![IMG_2926 order list](IMG_2926.jpg)
+<details>
+<summary>Carbon-fiber tubes</summary>
 
-## Receipts
+<img src="IMG_2928-redacted.png" alt="Carbon-fiber tubes purchase record" width="520">
 
-### Folding propeller
+</details>
 
-![Redacted receipt](IMG_2927-redacted.png)
+<details>
+<summary>Original ER6 receiver</summary>
 
-### Carbon-fiber tubes
+<img src="IMG_2929-redacted.png" alt="Original ER6 receiver purchase record" width="520">
 
-![Redacted receipt](IMG_2928-redacted.png)
+</details>
 
-### Original ER6 receiver
+<details>
+<summary>CA glue and screws</summary>
 
-![Redacted receipt](IMG_2929-redacted.png)
+<img src="IMG_2932-redacted.png" alt="CA glue and screws purchase record" width="520">
 
-### CA glue and screws
+</details>
 
-![Redacted receipt](IMG_2932-redacted.png)
+<details>
+<summary>Control hardware</summary>
 
-### Control hardware order
+<img src="IMG_2935-redacted.png" alt="Control hardware purchase record" width="520">
 
-![Redacted receipt](IMG_2935-redacted.png)
+</details>
 
-### Replacement ER8 receiver
+<details>
+<summary>Replacement ER8 receiver</summary>
 
-![Redacted receipt](IMG_2936-redacted.png)
+<img src="IMG_2936-redacted.png" alt="Replacement ER8 receiver purchase record" width="520">
+
+</details>
+
+<details>
+<summary>Motor, ESC, and servos</summary>
+
+<img src="IMG_2934.jpg" alt="Motor, ESC, and servos purchase record" width="520">
+
+</details>
+
+<details>
+<summary>Original order-list screenshots</summary>
+
+<img src="IMG_2923.jpg" alt="Order list 2923" width="520">
+
+<img src="IMG_2924.jpg" alt="Order list 2924" width="520">
+
+<img src="IMG_2925.jpg" alt="Order list 2925" width="520">
+
+<img src="IMG_2926.jpg" alt="Order list 2926" width="520">
+
+</details>

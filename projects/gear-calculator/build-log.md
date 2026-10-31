@@ -4,8 +4,7 @@
 
 In late September 2026, my Principles of Engineering class at CTC got me interested in gear ratios and how they affect torque and speed. I wanted to understand what happens when you change gear sizes or connect several gears together, so I thought a simple calculator would be a fun project.
 
-I knew there were websites that could already do this. My original goal was to try building something by hand and get more firsthand coding experience. The version included here was put together with ChatGPT assistance.
-
+I knew there were websites that could already do this. My original goal was to try building something by hand and get more firsthand coding experience. The entirety of this project was hand made with no use of ai. Only Google and some Reddit discussions were used to help with code and math equations. 
 ## The idea
 
 Choose between two and nine gears, enter their tooth counts or pitch diameters, and enter the input torque and RPM. The output shows the total ratio, speed, torque, and direction. It also lists the values at each gear.

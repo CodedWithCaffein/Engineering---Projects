@@ -1,58 +1,74 @@
 # Engineering Projects
 
-A collection of my engineering projects, build progress, parts, costs, and lessons learned.
+A collection of engineering builds, progress notes, costs, and lessons learned.
 
-## Eclipson Vortex — RC Plane Build
+## Eclipson Vortex RC Airplane
 
-**Status: Work in progress**  
-**Target completion: End of summer 2027**
+**Status:** Work in progress  
+**Documented period:** April 22–May 29, 2026  
+**Target completion:** End of summer 2027
 
-### About the project
+### Project overview
 
-This is my ongoing Eclipson Vortex RC plane build. I’m documenting the parts, what I paid for them, my build progress, and the problems I’ve run into along the way. As I continue working on it, I’ll add pictures, changes, and eventually flight-test results.
+This project is a 3D-printed Eclipson Vortex RC airplane. The goal is to document the build from printed airframe parts through electronics installation, ground testing, and the first flight.
 
-I’m building from an existing Eclipson design. This repository documents my own build and experience.
+This repository documents my build experience using the existing Eclipson design.
 
-### Progress and delays
+### Progress: April 22–May 29, 2026
 
-I originally planned to finish the plane before the last school year started, but someone stole a package containing most of the carbon fiber tubes I needed. Without those materials, I had to postpone the build, and replacements were going to take another two months to arrive.
+During this period I worked on the printed airframe, gathered the electronics and control hardware, and prepared the parts needed for assembly. The purchases included the motor and ESC, servos and extensions, pushrods and connectors, folding propeller, adhesives, fasteners, receivers, and carbon-fiber reinforcement.
 
-Between that delay, a vacation, and school starting right after I got back, I wasn’t able to finish it on my original schedule. The project is still in progress, and I’m now working toward finishing it by the end of summer 2027.
+The build did not reach final assembly during this update because key reinforcement material was delayed and the receiver selection had to be corrected.
 
-### Work completed
+### Challenges and changes
 
-*I’ll update this section with the parts I’ve printed, assembled, installed, and tested so far.*
+#### Stolen carbon-fiber shipment
 
-### Parts and costs
+A package containing most of the carbon-fiber tubes needed to reinforce the airframe was stolen. Replacement material was expected to take about two months to arrive, delaying the build past its original schedule. A vacation and the start of school added to the delay.
 
-These will be the actual prices I paid, rather than current retail prices. TBD means the details or price still need to be added.
+#### Receiver replacement
 
-| Part | Model or details | Quantity | Total paid |
-|---|---|---|---|
-| Airframe design | Eclipson Vortex | — | TBD |
-| Printing material | TBD | TBD | TBD |
-| Motor | TBD | TBD | TBD |
-| Electronic speed controller (ESC) | TBD | TBD | TBD |
-| Servos | TBD | TBD | TBD |
-| Receiver | TBD | TBD | TBD |
-| Propeller and mounting hardware | TBD | TBD | TBD |
-| Battery | TBD | TBD | TBD |
-| Carbon fiber tubes | TBD | TBD | TBD |
-| Adhesives and other hardware | TBD | TBD | TBD |
+I first bought a RadioMaster ER6 six-channel receiver for **$35.56**, but it was too small for the number of connections required by the airplane. I then bought a RadioMaster ER8 eight-channel receiver for **$49.99**. Both purchases are included below so the cost of this correction is visible.
 
-**Total spent:** To be calculated.
+### Purchased parts
 
-I’ll track replacement costs separately so the cost of the finished plane is clear.
+Prices are the actual item prices shown in the purchase records. The table does not include the radio transmitter or 3D-printing filament.
 
-### Build photos
+| Part | Details | Item price |
+|---|---|---:|
+| Folding propeller | Viloga 10×6 with spinner | $24.99 |
+| Carbon-fiber tubes | WHABEST roll-wrapped tube | $32.80 |
+| Carbon-fiber tubes | WHABEST tube set | $23.99 |
+| Receiver — original | RadioMaster ER6, 6-channel | $35.56 |
+| CA glue and activator | Two 1.7 oz bottles and activator | $15.99 |
+| Self-tapping screws | M2 × 8 mm stainless steel | $8.99 |
+| Stainless-steel rods | YOXMULK 2 mm × 300 mm, 10-pack | $7.99 |
+| Pushrod connectors | AONTOKY 1.3 mm, 20-pack | $7.86 |
+| Servo extension cables | Tecunite 3-pin, 20-piece set | $8.99 |
+| Steel pushrods | uxcell 1.2 mm × 450 mm | $15.69 |
+| Remaining May 11 parts bundle | SG90 servos, carbon-fiber rods, SunnySky X2212 motor, ZTW Beatles G2 50A ESC, and related listed hardware | $67.97 |
+| Receiver — replacement | RadioMaster ER8, 8-channel | $49.99 |
+| **Documented parts subtotal** | **Excludes radio transmitter, filament, tax, and shipping** | **$300.81** |
 
-*Photos and captions will be added here to show the build process and current condition.*
+The documented subtotal uses item prices before tax and shipping. It is not the full project cost: the radio transmitter and all 3D-printing filament are excluded.
+
+### Current state
+
+- Airframe parts have been printed and prepared for assembly.
+- Major electronics and control hardware have been purchased.
+- The ER6 was replaced by the ER8 to provide enough channels.
+- Carbon-fiber reinforcement remains a schedule-critical item because of the stolen shipment.
+- Final assembly, setup, and flight testing are still pending.
 
 ### Next steps
 
-- [ ] Update the completed-work section and parts list.
-- [ ] Add build photos and captions.
-- [ ] Document the remaining assembly and installation work.
-- [ ] Complete setup and ground checks.
-- [ ] Perform initial flight testing when the plane is ready.
-- [ ] Record results and any changes needed.
+- [ ] Replace the missing carbon-fiber reinforcement.
+- [ ] Complete airframe assembly.
+- [ ] Install the motor, ESC, servos, pushrods, and ER8 receiver.
+- [ ] Configure controls and verify control-surface direction and travel.
+- [ ] Perform balance, range, and ground checks.
+- [ ] Complete the first flight and document the results.
+
+### Project media
+
+Original build photos and videos from April 22–May 29, 2026 will be added here in chronological order. Purchase screenshots are not published because they contain private order information.

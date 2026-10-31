@@ -13,7 +13,7 @@
 | `templates/project/README.md` | Starting point for a new project |
 | `AGENTS.md` | Instructions for ChatGPT and other coding assistants |
 
-The current project IDs are `rc-airplane` and `modot-bridge-2026`. Each project is self-contained. The front page stays a short selection page.
+The current project IDs are `rc-airplane`, `modot-bridge-2026`, and `gear-calculator`. Each project is self-contained. The front page stays a short selection page.
 
 ## Add a project
 

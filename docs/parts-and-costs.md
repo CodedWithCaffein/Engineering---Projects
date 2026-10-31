@@ -1,6 +1,8 @@
-# Vortex parts and costs
+# Parts & costs
 
-[Project overview](../README.md) · [Purchase records](../media/orders/README.md)
+[Home](../README.md) · [Build log](build-log.md) · [Photos](../media/progress/photos.md) · [Videos](../media/progress/videos.md) · **Parts & costs** · [Receipts](../media/orders/README.md)
+
+The component list and price breakdown. Choose Receipts for purchase screenshots.
 
 **Documented item-price subtotal: $315.70 USD**
 
@@ -35,8 +37,12 @@ The original ER6 cost $35.56 and the replacement ER8 cost $49.99. Both remain in
 
 ## Source notes
 
-Prices were checked against the original supplied screenshots. Motor, ESC, and servo prices appear in IMG_2934; the carbon-fiber rod price appears in IMG_2933, whose full receipt is retained privately because it contains an order identifier. Other published records are in the [purchase gallery](../media/orders/README.md).
+Prices were checked against the original supplied screenshots. Motor, ESC, and servo prices appear in IMG_2934; the carbon-fiber rod price appears in IMG_2933, whose full receipt is retained privately because it contains an order identifier. Other published records are in the [Receipts](../media/orders/README.md).
 
 Detailed order summaries show May 11, 2026 for the initial purchases and May 26 for the ER8. Some order-list screenshots label the initial purchases May 12; the detailed summaries are used for purchase dates.
 
 This record corrects an earlier $300.81 subtotal that omitted the $14.89 carbon-fiber rods.
+
+---
+
+[Home](../README.md) · [Build log](build-log.md) · [Photos](../media/progress/photos.md) · [Videos](../media/progress/videos.md) · **Parts & costs** · [Receipts](../media/orders/README.md)

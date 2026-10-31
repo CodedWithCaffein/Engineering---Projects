@@ -1,6 +1,10 @@
-# Vortex build log
+# Build log
 
-[Project overview](../README.md) · [Photos and videos](../media/progress/README.md)
+[Home](../README.md) · **Build log** · [Photos](../media/progress/photos.md) · [Videos](../media/progress/videos.md) · [Parts & costs](parts-and-costs.md) · [Receipts](../media/orders/README.md)
+
+The project story and dated updates. For images, choose Photos or Videos from the menu.
+
+[Getting started](#januaryfebruary-2026-getting-started) · [Spring build](#april-22may-29-2026-printing-and-assembly) · [Latest status](#october-30-2026-paused-and-organized)
 
 ## January–February 2026: Getting started
 
@@ -16,10 +20,9 @@ From there, I worked on the project gradually, experimenting with printing mater
 
 **Design credit:** The Vortex aircraft design and supplied CAD/3D-print files were created by Eclipson, **not by me**. My work on this project is the research, material experimentation, printing, hardware selection, integration, assembly, and documentation of my own build. You can explore Eclipson's aircraft designs on [their website](https://www.eclipson-airplanes.com/).
 
-
 ## April 22–May 29, 2026: Printing and assembly
 
-I worked on printed airframe sections, wing assembly, and the electronics and control hardware needed for the build. The [dated media gallery](../media/progress/README.md) contains two photos and 21 videos captured on May 22, 26, and 27.
+I worked on printed airframe sections, wing assembly, and the electronics and control hardware needed for the build. The [Photos](../media/progress/photos.md) and [Videos](../media/progress/videos.md) pages contain two photos and 21 videos captured on May 22, 26, and 27.
 
 ### Carbon-fiber shipment delay
 
@@ -34,3 +37,7 @@ I first bought a RadioMaster ER6 six-channel receiver for $35.56, but it was too
 The project is paused, with the printed fuselage, wing sections, other airframe parts, reinforcement rods, and electronics packed together for a future restart. Final assembly, electronics installation, and testing are still ahead.
 
 My current goal is to finish by the end of summer 2027.
+
+---
+
+[Home](../README.md) · **Build log** · [Photos](../media/progress/photos.md) · [Videos](../media/progress/videos.md) · [Parts & costs](parts-and-costs.md) · [Receipts](../media/orders/README.md)

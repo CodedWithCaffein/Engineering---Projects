@@ -12,7 +12,7 @@ This repository is Michael Polanczyk's engineering project portfolio. Keep it ea
 ## Structure and navigation
 
 - The root README is a title page and project selector only. Do not embed a full build story, project gallery, autoplay media, or an automatically selected project there.
-- Keep each project under projects/<project-id>/. The current IDs are rc-airplane and modot-bridge-2026.
+- Keep each project under projects/<project-id>/. The current IDs are rc-airplane, modot-bridge-2026, and gear-calculator.
 - Keep project details and media in that project's folder. Use stable lowercase IDs and relative links.
 - Every project page should offer All projects and Project home navigation. Use the project's README as its entry point.
 - Add new projects using templates/project/README.md and one new row in the root table. Create supporting pages and media subfolders only when needed.

@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Gear Calculator</title>
+<style>
+body { margin: 12px; background: #eeeeee; color: black; max-width: 680px; }
+h1 { font-size: 27px; margin: 22px 0 13px 5px; }
+h2 { font-size: 21px; }
+fieldset { padding: 9px; margin-bottom: 13px; }
+fieldset:first-child { max-width: 540px; }
+fieldset:nth-child(2) { margin-left: 7px; }
+label { display: inline-block; margin: 4px 8px 9px 0; }
+input { width: 73px; }
+#torque { width: 90px; } #speed { width: 65px; }
+#unit { position: relative; top: 3px; }
+button { margin-right: 8px; }
+#example { position: relative; top: 4px; }
+#reset { margin-left: 16px; }
+table { border-spacing: 9px 5px; }
+th { text-align: left; font-weight: normal; }
+td { padding-right: 10px; }
+tr:nth-child(even) .size { margin-left: 4px; width: 69px; }
+#results { margin: 23px 0 0 4px; border-top: 1px solid #999; }
+#results p { margin: 8px 0; }
+#error { color: #a00000; }
+.scroll { overflow-x: auto; }
+.note { font-size: 13px; }
+</style>
+</head>
+<body>
+<h1>Gear Calculator</h1>
+<p>gear 1 = input. last gear = output.</p>
+<form id="calculator" novalidate>
+<fieldset><legend>Setup</legend>
+<label>Gears <select id="count" aria-label="Number of gears"></select></label>
+<label>Use <select id="mode"><option value="teeth">Teeth</option><option value="diameter">Pitch diameter</option></select></label>
+
+<label>Input torque <input id="torque" type="number" min="0" step="any" value="1"></label>
+<label>Unit <select id="unit"><option>N*m</option><option>lb*in</option><option>lb*ft</option></select></label>
+<label>Input speed (RPM) <input id="speed" type="number" min="0" step="any" value="100"></label>
+</fieldset>
+<fieldset><legend>Gears</legend>
+
+<div class="scroll"><table><thead><tr><th>Gear</th><th id="sizeHeading">Teeth</th><th>Connection</th></tr></thead><tbody id="gears"></tbody></table></div>
+</fieldset>
+<button type="submit">Calculate</button><button type="button" id="example">example</button><button type="button" id="reset">Reset</button>
+<p id="error" role="alert"></p>
+</form>
+<section id="results" aria-live="polite" hidden></section>
+
+<p class="note">No friction losses included. Diameters = pitch diameters, all in the same unit.</p>
+<script>// Ideal gear train calculations. Each connection describes how a gear is driven.
+function calculateTrain(sizes, connections, torque, speed) {
+  let ratio = 1;
+  let direction = 1;
+  const stages = [{ ratio: 1, torque, speed, direction }];
+  for (let i = 1; i < sizes.length; i++) {
+    if (connections[i - 1] !== 'shaft') ratio *= sizes[i] / sizes[i - 1];
+    if (connections[i - 1] === 'mesh') direction *= -1;
+    stages.push({ ratio, torque: torque * ratio, speed: speed / ratio, direction });
+  }
+  return stages;
+}
+
+if (typeof module !== 'undefined') module.exports = { calculateTrain };
+if (typeof document !== 'undefined') {
+  const byId = id => document.getElementById(id);
+  const count = byId('count');
+  const mode = byId('mode');
+  for (let n = 2; n <= 9; n++) count.add(new Option(n, n));
+  function clearResults() { byId('results').hidden = true; byId('error').textContent = ''; }
+  function render() {
+    const oldSizes = [...document.querySelectorAll('.size')].map(el => el.value);
+    const oldLinks = [...document.querySelectorAll('.connection')].map(el => el.value);
+    byId('gears').innerHTML = '';
+    byId('sizeHeading').textContent = mode.value === 'teeth' ? 'Teeth' : 'Pitch diameter';
+    for (let i = 0; i < Number(count.value); i++) {
+      const row = document.createElement('tr');
+      row.innerHTML = `<td>${i + 1}${i === 0 ? ' (input)' : i === Number(count.value) - 1 ? ' (output)' : ''}</td><td><input class="size" aria-label="Gear ${i + 1} size" type="number" min="0" step="${mode.value === 'teeth' ? '1' : 'any'}"></td><td>${i === 0 ? '—' : `<select class="connection" aria-label="Connection to gear ${i + 1}"><option value="mesh">Mesh</option><option value="shaft">Same shaft</option><option value="chain">Chain</option></select>`}</td>`;
+      row.querySelector('.size').value = oldSizes[i] ?? (i === 0 ? 20 : 40);
+      if (i > 0) row.querySelector('.connection').value = oldLinks[i - 1] ?? 'mesh';
+      byId('gears').append(row);
+    }
+    clearResults();
+  }
+  function calculate(event) {
+    if (event) event.preventDefault();
+    clearResults();
+    const fields = [...document.querySelectorAll('.size')];
+    const sizes = fields.map(el => Number(el.value));
+    const connections = [...document.querySelectorAll('.connection')].map(el => el.value);
+    const torque = Number(byId('torque').value);
+    const speed = Number(byId('speed').value);
+    let error = '';
+    if (sizes.some(n => !Number.isFinite(n) || n <= 0)) error = 'Enter a size greater than zero for every gear.';
+    else if (mode.value === 'teeth' && sizes.some(n => !Number.isInteger(n))) error = 'Tooth counts must be whole numbers.';
+    else if (mode.value === 'diameter' && connections.includes('chain')) error = 'Use teeth mode for chain-connected sprockets.';
+    else if ([torque, speed].some(n => !Number.isFinite(n) || n < 0) || byId('torque').value === '' || byId('speed').value === '') error = 'Enter input torque and RPM of zero or greater.';
+    if (error) { byId('error').textContent = error; return; }
+    const stages = calculateTrain(sizes, connections, torque, speed);
+    if (stages.some(s => ![s.ratio, s.torque, s.speed].every(Number.isFinite) || s.ratio <= 0)) { byId('error').textContent = 'Those values are too large or too small. Use a more practical range.'; return; }
+    const last = stages[stages.length - 1];
+    const f = n => Number(n.toPrecision(6)).toLocaleString('en-US', { maximumSignificantDigits: 6 });
+    const unit = byId('unit').value;
+    byId('results').innerHTML = `<h2>Output</h2><p>Ratio (in : out): <output>${f(last.ratio)} : 1</output></p><p>Output torque: <output>${f(last.torque)} ${unit}</output></p><p>Output speed: <output>${f(last.speed)} RPM</output></p><p>Direction: <output>${last.direction === 1 ? 'Same as input' : 'Opposite to input'}</output></p><div class="scroll"><table><thead><tr><th>Gear</th><th>Torque (${unit})</th><th>RPM</th><th>Direction</th></tr></thead><tbody>${stages.map((s, i) => `<tr><td>${i + 1}</td><td>${f(s.torque)}</td><td>${f(s.speed)}</td><td>${s.direction === 1 ? 'Same' : 'Opposite'}</td></tr>`).join('')}</tbody></table></div>`;
+    byId('results').hidden = false;
+  }
+  count.addEventListener('change', render);
+  mode.addEventListener('change', render);
+  byId('calculator').addEventListener('input', clearResults);
+  byId('calculator').addEventListener('submit', calculate);
+  byId('example').addEventListener('click', () => {
+    count.value = '4'; mode.value = 'teeth'; render();
+    document.querySelectorAll('.size').forEach((el, i) => el.value = [12, 36, 10, 40][i]);
+    document.querySelectorAll('.connection').forEach((el, i) => el.value = ['mesh', 'shaft', 'mesh'][i]);
+    byId('torque').value = 1; byId('speed').value = 120; calculate();
+  });
+  byId('reset').addEventListener('click', () => {
+    count.value = '2'; mode.value = 'teeth'; byId('gears').innerHTML = '';
+    byId('torque').value = 1; byId('speed').value = 100; byId('unit').selectedIndex = 0; render();
+  });
+  render();
+}
+</script>
+</body>
+</html>

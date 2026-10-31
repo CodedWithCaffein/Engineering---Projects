@@ -71,7 +71,7 @@ The documented subtotal uses item prices before tax and shipping. It is not the 
 
 ### Project media
 
-Original build photos and videos from April 22–May 29, 2026 will be added here in chronological order. [Purchase screenshots and redacted receipts](media/orders/README.md) are available below. Order identifiers are covered in the receipt copies; originals are retained separately.
+[View the dated build gallery and videos](media/progress/README.md) for the April 22–May 29, 2026 update. The supplied recordings cover May 22, 26, and 27, with two photos and 21 full-duration video viewing copies. [Purchase screenshots and redacted receipts](media/orders/README.md) are available below. Order identifiers are covered in the receipt copies; originals are retained separately.
 
 <details>
 <summary>View purchase receipts</summary>
@@ -101,3 +101,11 @@ Original build photos and videos from April 22–May 29, 2026 will be added here
 <img src="media/orders/IMG_2936-redacted.png" alt="Replacement ER8 receiver receipt with order number redacted" width="420">
 
 </details>
+
+### Build highlights
+
+| May 22 — Printed components | May 26 — Wing assembly | May 27 — Bench work |
+|---|---|---|
+| ![Printed airframe sections](media/progress/IMG_1434.jpg) | ![Wing assembly](media/progress/IMG_1442.jpg) | ![Ongoing assembly](media/progress/IMG_1453-13.jpg) |
+
+The original HEIC and MOV files remain unchanged in the source archive. The gallery uses JPEG previews and smaller MP4 viewing copies; Live Photo companion videos are represented by their still photos.

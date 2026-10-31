@@ -8,6 +8,20 @@ I have a web workspace that I use from my phone and connected workflows for work
 
 I have not completed a full feature test or measured how much time Clear saves. Costs have not been compiled into a verified project total.
 
+## Read-only checks completed
+
+**Checked:** October 31, 2026.
+
+I checked existing records through the connected Clear interface. No records were added, edited, deleted, imported, or resynced for these checks. Only the methods and outcomes are published here.
+
+| Check | Method | Observed result |
+| --- | --- | --- |
+| Ledger arithmetic | Independently sum returned income and expenses in integer cents; compare income, expense, net, opening-balance-adjusted balance, and each chronological running balance with Clear's returned summary | Passed: all compared amounts matched exactly; all transaction amounts were integer cents |
+| Workspace read consistency | Read the workspace twice, sort each response by record ID, and compare the complete records | Passed: the two responses were identical, including existing fields and completion states |
+| Health record structure | Inspect saved check-ins for valid YYYY-MM-DD date format, unique dates, nonempty source labels, and explicit nulls for unavailable measurements | Passed for the returned records: date-format, uniqueness, and source checks passed; unavailable fields were represented as null |
+
+These checks cover the records returned during this session. They do not prove that writes preserve fields, imports prevent duplicates, readings are medically accurate, notifications arrive, or background sync works. No account-isolation or iPhone UI test was performed. The health check validates date format, not every possible calendar-date edge case.
+
 ## Checks still to complete
 
 | Check | Expected behavior | Result |
@@ -33,4 +47,4 @@ These are planned checks, not completed test results.
 
 ## Media
 
-No screenshots or recordings are published yet. I plan to add a main-screen view, a phone walkthrough, and a sample task or purchase workflow using fictional data. Any demonstration will be labeled as such.
+See the [pictures and media page](photos.md) for the planned gallery and capture status. No private records or live application links are published.

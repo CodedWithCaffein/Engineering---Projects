@@ -14,6 +14,7 @@ A personal web app I created to bring everyday information into one workspace an
 - [Features and how they work](features.md)
 - [Progress, testing, and future plans](results.md)
 - [Technical documentation and references](sources.md)
+- [Pictures and media](photos.md)
 
 ## Why I started
 
@@ -24,6 +25,8 @@ I currently use it as a website opened from my phone's home screen. Eventually, 
 ## Where it stands
 
 The web version is in use, and the connected workspace supports several types of records. Outside workflows can bring information into Clear, but direct background syncing and native iOS access are still areas for development.
+
+Three read-only checks are recorded in the [testing page](results.md): ledger arithmetic, workspace read consistency, and health record structure.
 
 This project page documents the idea, features, and development goals. The live workspace, application source, and personal records are not included.
 

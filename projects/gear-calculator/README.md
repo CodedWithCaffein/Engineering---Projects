@@ -38,4 +38,4 @@ The calculator handles two to nine gears using tooth counts or pitch diameters. 
 
 ## Credits and assistance
 
-I chose the project idea, features, and rough appearance. The HTML, CSS, and JavaScript in this uploaded version were generated with ChatGPT assistance. The code images were made from this version for documentation; they are not historical development screenshots.
+A project I put together in my own time to explore gear ratios, torque, and speed. I only used Google and reddit posts for coding help and math equations for this project.

@@ -71,4 +71,33 @@ The documented subtotal uses item prices before tax and shipping. It is not the 
 
 ### Project media
 
-Original build photos and videos from April 22–May 29, 2026 will be added here in chronological order. Purchase screenshots are not published because they contain private order information.
+Original build photos and videos from April 22–May 29, 2026 will be added here in chronological order. [Purchase screenshots and redacted receipts](media/orders/README.md) are available below. Order identifiers are covered in the receipt copies; originals are retained separately.
+
+<details>
+<summary>View purchase receipts</summary>
+
+**Folding propeller**
+
+<img src="media/orders/IMG_2927-redacted.png" alt="Folding propeller receipt with order number redacted" width="420">
+
+**Carbon-fiber tubes**
+
+<img src="media/orders/IMG_2928-redacted.png" alt="Carbon-fiber tubes receipt with order number redacted" width="420">
+
+**Original ER6 receiver**
+
+<img src="media/orders/IMG_2929-redacted.png" alt="Original ER6 receiver receipt with order number redacted" width="420">
+
+**CA glue and screws**
+
+<img src="media/orders/IMG_2932-redacted.png" alt="CA glue and screws receipt with order number redacted" width="420">
+
+**Control hardware order**
+
+<img src="media/orders/IMG_2935-redacted.png" alt="Control hardware order receipt with order number redacted" width="420">
+
+**Replacement ER8 receiver**
+
+<img src="media/orders/IMG_2936-redacted.png" alt="Replacement ER8 receiver receipt with order number redacted" width="420">
+
+</details>

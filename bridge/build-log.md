@@ -22,19 +22,13 @@ I went through many designs before deciding what to build. Early on, I used Chat
 
 The saved planning discussions also explored paired side trusses, a Pratt-style option, and an 18-inch braced queen-post proposal. Those were ideas to consider, rather than a record of exactly what I eventually built.
 
-
 ## 4. Visualizing the options and recognizing my limits
 
 I asked for a three-view rendering so I could understand the proposed bridge in three dimensions. I also requested a private optimizer to compare dimensions, member sizes, material weights, loads, and different truss arrangements. The saved optimizer included queen-post, Pratt, Howe, and Warren layouts. Its estimates were planning information, not measurements of my bridge.
 
-
-
-
-
 The biggest limitation was that I did not have enough time or extra materials to test all the ideas. Extra test materials were not issued to us, so I would probably have needed to get those myself. I could research possible solutions, but I could not thoroughly compare joint strength, load distribution, different shapes, which pieces would snap, or how thick individual members needed to be.
 
 I wanted to minimize weight while keeping the bridge's shape, stability, and strength. Without enough physical testing, I could not confidently work out all those details. That led me toward a simpler design.
-
 
 ### Drawing my own final design and preparing printable blueprints
 
@@ -44,13 +38,11 @@ Once I had my drawings, I uploaded them to ChatGPT and asked it to clean them up
 
 I want to be open about the help I received. My own rough estimate is that ChatGPT assisted with around 30% of the project, including the research, some measurements, and preparing clearer blueprints from my drawings. That is an estimate, not a measured breakdown of the work. I triple-checked everything myself. The majority of the design was made by me, and I was responsible for reviewing the suggestions and deciding what to use. My checks do not replace the competition's official inspection or physical testing.
 
-
 ## 5. Preparing materials and starting construction
 
 Before building, I spent time planning which pieces I would use and how to get the most usable sticks out of the material available. Some of the photos may show this preparation before construction actually started.
 
 The photos of the build cover roughly four to four and a half days, from starting construction to finishing the bridge. That is the approximate construction window, not the total time I spent thinking about the project or exploring designs. The uploaded copies contain no readable capture dates, so the gallery uses original filename sequence as an approximate timeline. Upload timestamps are not treated as build dates.
-
 
 ## 6. Choosing a simpler bridge and strengthening the base
 
@@ -60,20 +52,16 @@ I was also unfamiliar with the competition rules and how quickly I needed to fin
 
 I did not push the strength-to-weight balance as far as I wanted this year. I was working with limited time and without spare material for experiments, so I had to make decisions without first testing every connection or member size. Next year, I want to prepare earlier and use testing to make those decisions more carefully.
 
-
 ## 7. Finished construction and current status
 
 I have finished building the bridge, but I do not have its measured weight or competition results yet. I also do not know whether it has passed inspection. Finishing construction is one stage of the project; the test will show what the bridge can actually do.
 
-
-## 9. What I am taking from this year and planning for next year
+## 8. What I am taking from this year and planning for next year
 
 This is my first year doing the competition, and I still have another chance next year. Even before testing, I have a better idea of how much preparation goes into a bridge like this. Researching a shape is only part of it. I also need time to test connections, compare member sizes, think about load distribution, and decide where extra material is worth the added weight.
 
 Next year, I want to start earlier and be better prepared. I hope to get extra test materials so I can compare ideas before committing to a final bridge. I want to do a better job of keeping the bridge light while maintaining its strength, instead of relying mainly on making important sections stronger.
 
 I am also interested in scholarship opportunities connected to the competition because I am working toward attending Missouri S&T. After checking the published information, I cannot yet say that I will be eligible for an S&T competition scholarship next year. I still value the experience, effort, and learning that this project represents.
-
-
 
 [See all construction photos](photos.md) · [Record testing results](results.md)

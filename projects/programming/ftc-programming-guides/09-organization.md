@@ -1,6 +1,6 @@
 # 09 · Code organization
 
-[All projects](../../../README.md) · [Project home](README.md) · [Guides](guides.md) · [Examples](examples/README.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
+[All projects](../../../README.md) · [Project home](README.md) · [Guides](guides.md) · [Examples](examples/README.md) · [Blocks pictures](blocks.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
 
 **Question:** How do I reuse robot code without duplicating everything?
 
@@ -47,6 +47,15 @@ Inside an OpMode, after mapping the servo:
 Claw claw = new Claw(hardwareMap.get(Servo.class, "claw"), 0.55, 0.45);
 ```
 Call `claw.open()` from a button edge or autonomous state. The example positions still require physical calibration.
+
+
+## Blocks-style picture
+
+This illustration shows the equivalent control logic. Recreate it with FTC Blocks; expand the written expressions into Math and Logic blocks.
+
+![Reusable claw functions block-style diagram](media/drawings/functions.svg)
+
+[Open full-size picture](media/drawings/functions.svg) · [Blocks picture guide](blocks.md#functions)
 
 ## Try it
 

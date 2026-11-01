@@ -1,6 +1,6 @@
 # 01 · Robot setup and your first OpMode
 
-[All projects](../../../README.md) · [Project home](README.md) · [Guides](guides.md) · [Examples](examples/README.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
+[All projects](../../../README.md) · [Project home](README.md) · [Guides](guides.md) · [Examples](examples/README.md) · [Blocks pictures](blocks.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
 
 **Question:** Where does Java code go, and how do I run it?
 
@@ -30,6 +30,15 @@ You need Android Studio, an FTC Robot Controller project, a powered Control Hub 
 | `while (opModeIsActive())` | Repeats while running and permits STOP to end the loop |
 
 An iterative `OpMode` instead provides `init()`, `start()`, `loop()`, and `stop()` methods. Do not paste a LinearOpMode's outer while loop into iterative `loop()`.
+
+
+## Blocks-style picture
+
+This illustration shows the equivalent control logic. Recreate it with FTC Blocks; expand the written expressions into Math and Logic blocks.
+
+![First OpMode and telemetry block-style diagram](media/drawings/telemetry.svg)
+
+[Open full-size picture](media/drawings/telemetry.svg) · [Blocks picture guide](blocks.md#telemetry)
 
 ## Try it
 

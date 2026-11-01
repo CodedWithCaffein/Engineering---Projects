@@ -1,6 +1,6 @@
 # 07 · IMU and field-centric driving
 
-[All projects](../../../README.md) · [Project home](README.md) · [Guides](guides.md) · [Examples](examples/README.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
+[All projects](../../../README.md) · [Project home](README.md) · [Guides](guides.md) · [Examples](examples/README.md) · [Blocks pictures](blocks.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
 
 **Question:** How do I use heading without mixing degrees and radians?
 
@@ -33,6 +33,23 @@ double forward = -fieldRight * Math.sin(heading)
         + fieldForward * Math.cos(heading);
 ```
 This is an integration fragment, not a standalone OpMode. Add the IMU imports, initialization, and deliberate yaw reset from ImuReadout, then replace the translation input lines in MecanumTeleOp. Leave the turn input and normalization intact.
+
+
+## Blocks-style picture
+
+This illustration shows the equivalent control logic. Recreate it with FTC Blocks; expand the written expressions into Math and Logic blocks.
+
+![ImuReadout block-style diagram](media/drawings/imu.svg)
+
+[Open full-size picture](media/drawings/imu.svg) · [Blocks picture guide](blocks.md#imu)
+
+## Field-centric Blocks fragment
+
+Standard FTC Blocks Math trigonometry uses degrees, while the Java fragment uses radians. The picture explicitly converts the IMU yaw before using the Blocks sin/cos blocks. Keep the remaining mecanum wheel mix unchanged.
+
+![Field-centric input rotation in block-style notation](media/drawings/field-centric.svg)
+
+[Open full-size picture](media/drawings/field-centric.svg)
 
 ## Try it
 

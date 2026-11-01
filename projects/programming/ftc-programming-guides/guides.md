@@ -1,6 +1,6 @@
 # Choose an FTC programming guide
 
-[All projects](../../../README.md) · [Project home](README.md) · [Guides](guides.md) · [Examples](examples/README.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
+[All projects](../../../README.md) · [Project home](README.md) · [Guides](guides.md) · [Examples](examples/README.md) · [Blocks pictures](blocks.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
 
 Read in order for a first robot, or jump to the question you need.
 
@@ -24,3 +24,7 @@ Read in order for a first robot, or jump to the question you need.
 Read **Before you start**, follow **Step by step**, then use **Try it** to check the result. **If it does not work** gives the first things to inspect. Standalone examples have their own hardware list in [Examples](examples/README.md).
 
 SDK examples use Java and the FTC SDK only. Pedro lessons use the Pedro 3 API listed on the project home. Older `FollowerBuilder`, `FConstants`, `LConstants`, and `followPath` examples are not interchangeable with this baseline.
+
+## Prefer pictures?
+
+Each lesson now includes a Blocks-style image. The [picture guide](blocks.md) collects all twelve visuals, and the [example index](examples/README.md#blocks-style-pictures) pairs the eight Java files with their pictures. Pedro diagrams explain the Java workflow rather than suggesting native Blocks support.

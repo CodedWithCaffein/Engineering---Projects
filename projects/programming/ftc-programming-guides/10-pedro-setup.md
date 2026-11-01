@@ -1,6 +1,6 @@
 # 10 · Pedro Pathing installation and tuning
 
-[All projects](../../../README.md) · [Project home](README.md) · [Guides](guides.md) · [Examples](examples/README.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
+[All projects](../../../README.md) · [Project home](README.md) · [Guides](guides.md) · [Examples](examples/README.md) · [Blocks pictures](blocks.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
 
 **Question:** How do I make Pedro match the real robot?
 
@@ -46,6 +46,15 @@ return new Follower(
 );
 ```
 This fragment belongs inside `Constants.create(HardwareMap h)`. The three configuration variables must be real, tuned configurations, with the corresponding imports. Use the appropriate localizer and drivetrain for your hardware. Do not substitute made-up constants or copy another robot's offsets.
+
+
+## Block-style logic picture
+
+This is a conceptual diagram of the Java workflow, not native FTC Blocks.
+
+![Pedro preparation workflow block-style diagram](media/drawings/pedro-setup.svg)
+
+[Open full-size picture](media/drawings/pedro-setup.svg) · [Blocks picture guide](blocks.md#pedro-setup)
 
 ## Try it
 

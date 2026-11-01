@@ -1,6 +1,6 @@
 # 12 · Debugging and match preparation
 
-[All projects](../../../README.md) · [Project home](README.md) · [Guides](guides.md) · [Examples](examples/README.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
+[All projects](../../../README.md) · [Project home](README.md) · [Guides](guides.md) · [Examples](examples/README.md) · [Blocks pictures](blocks.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
 
 **Question:** How do I find a failure and check the fix?
 
@@ -41,6 +41,15 @@ Save the current code and reproduce the symptom with the smallest possible test.
 3. Verify controls and emergency STOP behavior in a clear area.
 4. Run the intended autonomous from the exact starting setup; one lucky run is not enough.
 5. Keep a known working commit available. Avoid untested last-minute changes.
+
+
+## Blocks-style picture
+
+This illustration shows the equivalent control logic. Recreate it with FTC Blocks; expand the written expressions into Math and Logic blocks.
+
+![Motor diagnostic loop block-style diagram](media/drawings/debugging.svg)
+
+[Open full-size picture](media/drawings/debugging.svg) · [Blocks picture guide](blocks.md#debugging)
 
 ## Try it
 

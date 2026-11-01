@@ -1,6 +1,6 @@
 # 02 · Telemetry
 
-[All projects](../../../README.md) · [Project home](README.md) · [Guides](guides.md) · [Examples](examples/README.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
+[All projects](../../../README.md) · [Project home](README.md) · [Guides](guides.md) · [Examples](examples/README.md) · [Blocks pictures](blocks.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
 
 **Question:** How do I see what the robot thinks it is doing?
 
@@ -33,6 +33,15 @@ This is a fragment for your active loop. For a complete file, use the linked exa
 ## Use telemetry to answer a question
 
 Suppose an intake will not move. Show both the trigger value and requested power. If both stay zero, investigate the controller input or condition. If requested power changes but the motor does not, inspect mapping, wiring, mode, and the mechanism. A reported power is a command, not proof of rotation.
+
+
+## Blocks-style picture
+
+This illustration shows the equivalent control logic. Recreate it with FTC Blocks; expand the written expressions into Math and Logic blocks.
+
+![TelemetryBasics block-style diagram](media/drawings/telemetry.svg)
+
+[Open full-size picture](media/drawings/telemetry.svg) · [Blocks picture guide](blocks.md#telemetry)
 
 ## Try it
 

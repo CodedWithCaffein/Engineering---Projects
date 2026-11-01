@@ -1,6 +1,6 @@
 # 05 · Mecanum TeleOp
 
-[All projects](../../../README.md) · [Project home](README.md) · [Guides](guides.md) · [Examples](examples/README.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
+[All projects](../../../README.md) · [Project home](README.md) · [Guides](guides.md) · [Examples](examples/README.md) · [Blocks pictures](blocks.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
 
 **Question:** How do I combine forward, sideways, and turning inputs?
 
@@ -30,6 +30,15 @@ Use [MecanumTeleOp.java](examples/MecanumTeleOp.java), four correctly installed 
 Forward and strafe together can request a magnitude greater than one. If each motor independently clips its command, the wheel ratios change. Dividing every command by the same denominator retains the intended mix.
 
 This lesson is robot-centric: forward on the stick means the robot's own front. Field-centric control is an extension in the IMU lesson.
+
+
+## Blocks-style picture
+
+This illustration shows the equivalent control logic. Recreate it with FTC Blocks; expand the written expressions into Math and Logic blocks.
+
+![MecanumTeleOp block-style diagram](media/drawings/mecanum.svg)
+
+[Open full-size picture](media/drawings/mecanum.svg) · [Blocks picture guide](blocks.md#mecanum)
 
 ## Try it
 

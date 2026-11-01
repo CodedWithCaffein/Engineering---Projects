@@ -1,6 +1,6 @@
 # Sources and credits
 
-[All projects](../../../README.md) · [Project home](README.md) · [Guides](guides.md) · [Examples](examples/README.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
+[All projects](../../../README.md) · [Project home](README.md) · [Guides](guides.md) · [Examples](examples/README.md) · [Blocks pictures](blocks.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
 
 Documentation and upstream source were checked on November 1, 2026. The lessons explain the concepts in their own sequence; official documentation remains the reference for API behavior and later changes.
 
@@ -38,3 +38,14 @@ The Pedro example uses the Pedro 3 API. Examples for older versions may use diff
 Michael requested and directed this collection. ChatGPT drafted the explanations and example code, with references to the sources above. These files are teaching examples; they are not presented as Michael's independently authored competition code or as tested team results.
 
 The repository's [license](../../../LICENSE) covers its original documentation subject to third-party terms. FIRST's SDK, Pedro Pathing, REV materials, and other dependencies retain their own licenses and attribution requirements. No third-party project or library source distribution is included in this folder.
+
+## Blocks illustrations
+
+ChatGPT prepared the original diagrams for this collection. They use block-style shapes and condensed text; they are not copied screenshots or exports from a robot. Long expressions and grouped motor operations need to be expanded into native editor blocks.
+
+- [FIRST Blocks OpMode tutorial](https://ftc-docs.firstinspires.org/en/latest/programming_resources/tutorial_specific/blocks/creating_op_modes/Writing-an-Op-Mode-with-FTC-Blocks.html): editor concepts and telemetry.
+- [FIRST IMU guide](https://ftc-docs.firstinspires.org/en/latest/programming_resources/imu/imu.html): Blocks IMU parameters, orientation, angle getters, and yaw reset.
+- [FIRST example for telemetry settings](https://ftc-docs.firstinspires.org/en/latest/programming_resources/shared/myblocks/telem_example/telem-example.html): Java customization exposed through myBlocks. The illustrated telemetry example omits the Java transmission-interval customization.
+- [OpenFTC SDK Blocks telemetry definitions](https://github.com/OpenFTC/OpenRC-Turbo/blob/master/Blocks/src/main/assets/blocks/telemetry.js): supporting reference for standard telemetry blocks. This older source is used only for stable block concepts, not as the current IMU or SDK version reference.
+
+- [Blockly JavaScript math generator bundled with OpenFTC](https://github.com/OpenFTC/OpenRC-Turbo/blob/master/Blocks/src/main/assets/blockly/javascript_compressed.js): its standard sin/cos blocks convert degrees to radians before calling JavaScript Math. This is why the Blocks field-centric picture explicitly converts the IMU yaw to degrees.

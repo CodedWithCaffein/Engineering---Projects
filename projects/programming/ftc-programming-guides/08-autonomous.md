@@ -1,6 +1,6 @@
 # 08 · Autonomous and state machines
 
-[All projects](../../../README.md) · [Project home](README.md) · [Guides](guides.md) · [Examples](examples/README.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
+[All projects](../../../README.md) · [Project home](README.md) · [Guides](guides.md) · [Examples](examples/README.md) · [Blocks pictures](blocks.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
 
 **Question:** How do I run a sequence without freezing the loop?
 
@@ -24,6 +24,15 @@ Use [SequenceDemo.java](examples/SequenceDemo.java). It has no moving hardware: 
 A state machine checks a condition and returns to the main loop immediately. It does not sit inside `while (motor.isBusy())` or `sleep(2000)` while other tasks need updates. A simple isolated encoder test can use a guarded wait; a combined autonomous needs regular updates to every active subsystem.
 
 In a real routine, replace the demo's time-based transition with a sensor, encoder, or follower completion condition. Start an action once when entering a state; do not repeatedly reset its target or restart its path every loop.
+
+
+## Blocks-style picture
+
+This illustration shows the equivalent control logic. Recreate it with FTC Blocks; expand the written expressions into Math and Logic blocks.
+
+![SequenceDemo block-style diagram](media/drawings/sequence.svg)
+
+[Open full-size picture](media/drawings/sequence.svg) · [Blocks picture guide](blocks.md#sequence)
 
 ## Try it
 

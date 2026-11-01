@@ -1,6 +1,6 @@
 # 11 · Pedro Pathing autonomous
 
-[All projects](../../../README.md) · [Project home](README.md) · [Guides](guides.md) · [Examples](examples/README.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
+[All projects](../../../README.md) · [Project home](README.md) · [Guides](guides.md) · [Examples](examples/README.md) · [Blocks pictures](blocks.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
 
 **Question:** How do I follow a path and add mechanism actions?
 
@@ -37,6 +37,15 @@ Use a small state sequence: FOLLOW → ACTUATE → DONE.
 5. Enter DONE and stop or intentionally hold the drivetrain.
 
 Use your mechanism class from lesson 09. Do not place blocking sleeps inside follower updates. If you choose Ivy instead, install it separately and follow Pedro's official scheduler example; this collection's standalone path example does not require it.
+
+
+## Block-style logic picture
+
+This is a conceptual diagram of the Java workflow, not native FTC Blocks.
+
+![PedroFirstPath logic block-style diagram](media/drawings/pedro.svg)
+
+[Open full-size picture](media/drawings/pedro.svg) · [Blocks picture guide](blocks.md#pedro)
 
 ## Try it
 

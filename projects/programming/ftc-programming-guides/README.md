@@ -1,6 +1,6 @@
 # FTC Programming Guides
 
-[All projects](../../../README.md) · [Project home](README.md) · [Guides](guides.md) · [Examples](examples/README.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
+[All projects](../../../README.md) · [Project home](README.md) · [Guides](guides.md) · [Examples](examples/README.md) · [Blocks pictures](blocks.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
 
 A practical FTC Java reference for setting up a robot, understanding its code, and building toward autonomous path following. Pick a subject, follow the steps, then try the matching example.
 
@@ -21,6 +21,7 @@ A practical FTC Java reference for setting up a robot, understanding its code, a
 | --- | --- |
 | [Guides](guides.md) | Twelve subjects in a suggested learning order |
 | [Examples](examples/README.md) | Complete Java files and exact setup requirements |
+| [Blocks pictures](blocks.md) | Block-style logic images for every example and additional lesson fragments |
 | [Results](results.md) | What has been checked and what still needs robot testing |
 | [Sources](sources.md) | Official references, version details, and credits |
 
@@ -30,7 +31,7 @@ As the programmer for FTC team 3665, I wanted a place to keep useful coding expl
 
 ## Approach
 
-Each subject answers a practical question, lists what you need, walks through the steps, and explains what to look for when testing. Start with [setup](01-setup.md), then [telemetry](02-telemetry.md). If you already have working Java code, choose a subject from the guide index.
+Each subject includes a Blocks-style logic picture and answers a practical question, lists what you need, walks through the steps, and explains what to look for when testing. Start with [setup](01-setup.md), then [telemetry](02-telemetry.md). If you already have working Java code, choose a subject from the guide index.
 
 ## Use this collection
 

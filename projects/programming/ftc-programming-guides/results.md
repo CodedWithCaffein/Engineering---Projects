@@ -1,6 +1,6 @@
 # Checks and limits
 
-[All projects](../../../README.md) · [Project home](README.md) · [Guides](guides.md) · [Examples](examples/README.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
+[All projects](../../../README.md) · [Project home](README.md) · [Guides](guides.md) · [Examples](examples/README.md) · [Blocks pictures](blocks.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
 
 ## Review scope
 
@@ -9,6 +9,8 @@ This is a written reference and set of teaching examples. It does not yet docume
 | Check | Status |
 | --- | --- |
 | Twelve subjects and eight standalone Java examples | Included |
+| Twelve Blocks-style illustrations covering all eight examples and additional lesson fragments | Included; SVGs rendered and inspected for layout |
+| Blocks editor imports or execution | Not performed; pictures are illustrations, not .blk programs |
 | Project navigation, relative file links, and guide order | Checked before publication |
 | Pedro API names and constructor order | Compared with current official docs and inspected upstream source |
 | Robot-specific motor directions, servo range, and localization calibration | Must be configured on the actual robot |

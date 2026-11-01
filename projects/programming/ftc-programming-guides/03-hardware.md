@@ -1,6 +1,6 @@
 # 03 · Hardware mapping and motor tests
 
-[All projects](../../../README.md) · [Project home](README.md) · [Guides](guides.md) · [Examples](examples/README.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
+[All projects](../../../README.md) · [Project home](README.md) · [Guides](guides.md) · [Examples](examples/README.md) · [Blocks pictures](blocks.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
 
 **Question:** How do I connect a variable to the correct physical device?
 
@@ -26,6 +26,15 @@ Use [MotorCheck.java](examples/MotorCheck.java), one unloaded test motor, and an
 `FORWARD` and `REVERSE` describe the software direction. They do not mean the robot's physical forward direction automatically. Mirrored drivetrain motors often need different settings.
 
 `BRAKE` resists motion at zero power; it does not actively hold a raised arm against gravity. `FLOAT` allows more coasting. `RUN_WITHOUT_ENCODER` still allows encoder readings; it simply does not use the hub's encoder speed controller for power commands.
+
+
+## Blocks-style picture
+
+This illustration shows the equivalent control logic. Recreate it with FTC Blocks; expand the written expressions into Math and Logic blocks.
+
+![MotorCheck block-style diagram](media/drawings/motor-check.svg)
+
+[Open full-size picture](media/drawings/motor-check.svg) · [Blocks picture guide](blocks.md#motor-check)
 
 ## Try it
 

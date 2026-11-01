@@ -1,6 +1,6 @@
 # 04 · Gamepads, buttons, and servos
 
-[All projects](../../../README.md) · [Project home](README.md) · [Guides](guides.md) · [Examples](examples/README.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
+[All projects](../../../README.md) · [Project home](README.md) · [Guides](guides.md) · [Examples](examples/README.md) · [Blocks pictures](blocks.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
 
 **Question:** How do I make a button act once instead of every loop?
 
@@ -30,6 +30,15 @@ double input = -gamepad1.left_stick_y;
 if (Math.abs(input) < 0.05) input = 0;
 ```
 This fragment makes a zero region; it does not rescale the remaining range.
+
+
+## Blocks-style picture
+
+This illustration shows the equivalent control logic. Recreate it with FTC Blocks; expand the written expressions into Math and Logic blocks.
+
+![ServoToggle block-style diagram](media/drawings/servo-toggle.svg)
+
+[Open full-size picture](media/drawings/servo-toggle.svg) · [Blocks picture guide](blocks.md#servo-toggle)
 
 ## Try it
 

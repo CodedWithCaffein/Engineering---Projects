@@ -1,0 +1,79 @@
+{
+  "updated": "2026-11-01",
+  "creator": "ChatGPT at Michael's request",
+  "description": "Original teaching illustrations, not editor screenshots or importable FTC Blocks programs. Pedro images are conceptual Java workflows.",
+  "files": [
+    {
+      "path": "drawings/debugging.svg",
+      "sha256": "6cd4aadd933cb97167213fb4177f0b8d7145281266eecd18cb0fc5fb3cedff93",
+      "kind": "generated-blocks-style-illustration",
+      "robot_tested": false
+    },
+    {
+      "path": "drawings/encoder.svg",
+      "sha256": "ab1b9db75b42ac5cd20232639ad1ba50e490f3995a9e0942d246b1ca22ff1278",
+      "kind": "generated-blocks-style-illustration",
+      "robot_tested": false
+    },
+    {
+      "path": "drawings/field-centric.svg",
+      "sha256": "143fd1d993f02cc21aa15f68b373b628258a7a21ed09f14e87d4acc15787b474",
+      "kind": "generated-blocks-style-illustration",
+      "robot_tested": false
+    },
+    {
+      "path": "drawings/functions.svg",
+      "sha256": "2afa4f736af63196a341e0e6dfef8f86a19592325a6899702690d57f9328f138",
+      "kind": "generated-blocks-style-illustration",
+      "robot_tested": false
+    },
+    {
+      "path": "drawings/imu.svg",
+      "sha256": "08b351cd0dc57b68a49e92a1231c29d99802ec6ed09971b60d14dd063d01cb72",
+      "kind": "generated-blocks-style-illustration",
+      "robot_tested": false
+    },
+    {
+      "path": "drawings/mecanum.svg",
+      "sha256": "cdeeb62375799d4d010ea637e7c9045d7bbf1fee9d40384e7b4d0f7af335d817",
+      "kind": "generated-blocks-style-illustration",
+      "robot_tested": false
+    },
+    {
+      "path": "drawings/motor-check.svg",
+      "sha256": "4d4442fd7454eb54852d786c1cbaa5b08bfa0a8cfd433498f74027de5d48afc0",
+      "kind": "generated-blocks-style-illustration",
+      "robot_tested": false
+    },
+    {
+      "path": "drawings/pedro-setup.svg",
+      "sha256": "ac3185222d22240c29210edf2c7e0b07b4dcdab284aebf63bb18bfd42267b2a7",
+      "kind": "generated-blocks-style-illustration",
+      "robot_tested": false
+    },
+    {
+      "path": "drawings/pedro.svg",
+      "sha256": "a9c2160010285e067fbd1c48aefaea6b69ffbf8d3e4d4b4ef4c94c4edefded9c",
+      "kind": "generated-blocks-style-illustration",
+      "robot_tested": false
+    },
+    {
+      "path": "drawings/sequence.svg",
+      "sha256": "51981b77e203705bc9007583e588e678536ba81068ff597530de96aca7c85d64",
+      "kind": "generated-blocks-style-illustration",
+      "robot_tested": false
+    },
+    {
+      "path": "drawings/servo-toggle.svg",
+      "sha256": "121cc8bd58e0f463ae7ade1bb1d29d7f7982e5ee4906912ea4a963918bed1573",
+      "kind": "generated-blocks-style-illustration",
+      "robot_tested": false
+    },
+    {
+      "path": "drawings/telemetry.svg",
+      "sha256": "5b45a691a796dd14688b7558f1d7280db82d08f4cde08fc258f4908031f4a421",
+      "kind": "generated-blocks-style-illustration",
+      "robot_tested": false
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 # 06 · Encoders and position control
 
-[All projects](../../../README.md) · [Project home](README.md) · [Guides](guides.md) · [Examples](examples/README.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
+[All projects](../../../README.md) · [Project home](README.md) · [Guides](guides.md) · [Examples](examples/README.md) · [Blocks pictures](blocks.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
 
 **Question:** How do I move a motor to a repeatable target?
 
@@ -24,6 +24,15 @@ For a wheel with no additional gearing:
 `ticks = distance / (Math.PI × wheelDiameter) × ticksPerWheelRevolution`.
 
 Use the same length unit for distance and diameter. If the encoder specification describes ticks per motor output revolution and there are two motor revolutions per wheel revolution, multiply by two. Check whether a vendor's published encoder number already includes its gearbox.
+
+
+## Blocks-style picture
+
+This illustration shows the equivalent control logic. Recreate it with FTC Blocks; expand the written expressions into Math and Logic blocks.
+
+![EncoderMove block-style diagram](media/drawings/encoder.svg)
+
+[Open full-size picture](media/drawings/encoder.svg) · [Blocks picture guide](blocks.md#encoder)
 
 ## Try it
 

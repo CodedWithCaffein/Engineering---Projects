@@ -47,4 +47,4 @@ These are planned checks, not completed test results.
 
 ## Media
 
-The [pictures and media page](photos.md) now links reviewed desktop and mobile website views. Personal record content is blurred in edited copies. Images remain externally stored and require an authorized ChatGPT account; repository transfer is pending.
+The [pictures and media page](photos.md) now links reviewed desktop and mobile website views. Personal record content is blurred in edited copies. All 12 reviewed images are now hosted in the repository and can be viewed without a ChatGPT account.

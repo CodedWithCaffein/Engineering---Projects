@@ -4,34 +4,64 @@
 
 These views show Clear on a computer and on a phone. Both are versions of the website; the mobile views do not show a separate native iOS app.
 
-**Image access:** The images are linked to saved ChatGPT files and require an authorized account. They are not hosted in this repository and will not appear as public inline GitHub images. File transfer to the repository is still pending.
+All 12 images are stored in this repository. Select an image to open the full-size file.
 
-Privacy-edited copies hide personal record content. The image editor also resized and slightly changed the appearance of edited copies, so they are visual references rather than exact pixel-for-pixel originals. Unedited images are identified below. No live workspace link is included.
+Privacy-edited copies hide personal record content. The image editor also resized and slightly changed the appearance of edited copies, so they are visual references rather than exact pixel-for-pixel originals. The three otherwise unchanged mobile views have extra metadata removed. No live workspace link is included.
 
 ## Website Version
 
-Desktop website views. The following are privacy-edited copies; private originals are not linked here.
+Desktop website views. These are privacy-edited copies.
 
-| View | Open image | Details |
-| --- | --- | --- |
-| Summary | [Open summary image](https://chatgpt.com/library?file_id=libfile_1f60ff98dfb881918f8b67cae4bf07a3&account_id=personal) | Overview and quick actions; personal values and upcoming records blurred. |
-| Health tracker | [Open health tracker image](https://chatgpt.com/library?file_id=libfile_7efc5a43116481918b22035c426621a6&account_id=personal) | Metric cards; values and check-in details blurred. |
-| Mail connections | [Open mail connections image](https://chatgpt.com/library?file_id=libfile_16c9efff8e5c8191869c4064e18b36a7&account_id=personal) | Connected inbox layout; account details and message previews blurred. |
-| Finances | [Open finances image](https://chatgpt.com/library?file_id=libfile_7131c4d123dc8191951e0711348bbb3b&account_id=personal) | Ledger layout; amounts and transaction details blurred. |
-| Browse | [Open browse image](https://chatgpt.com/library?file_id=libfile_119985480a548191b940384c71739b7e&account_id=personal) | Category navigation; personal profile details blurred. |
-| Calendar | [Open calendar image](https://chatgpt.com/library?file_id=libfile_88fa817ed0e88191b6cc2757be79d213&account_id=personal) | Calendar layout; personal event details blurred. |
-| Reminders | [Open reminders image](https://chatgpt.com/library?file_id=libfile_7c58a705b91c8191a4185b54dae31f10&account_id=personal) | Reminder controls; private title and due time blurred. |
+### Summary
+
+[<img src="media/photos/website-summary.png" alt="Clear desktop website — Summary (privacy edited)" width="720">](media/photos/website-summary.png)
+
+### Health tracker
+
+[<img src="media/photos/website-health.png" alt="Clear desktop website — Health tracker (privacy edited)" width="720">](media/photos/website-health.png)
+
+### Mail connections
+
+[<img src="media/photos/website-mail.png" alt="Clear desktop website — Mail connections (privacy edited)" width="720">](media/photos/website-mail.png)
+
+### Finances
+
+[<img src="media/photos/website-finances.png" alt="Clear desktop website — Finances (privacy edited)" width="720">](media/photos/website-finances.png)
+
+### Browse
+
+[<img src="media/photos/website-browse.png" alt="Clear desktop website — Browse (privacy edited)" width="720">](media/photos/website-browse.png)
+
+### Calendar
+
+[<img src="media/photos/website-calendar.png" alt="Clear desktop website — Calendar (privacy edited)" width="720">](media/photos/website-calendar.png)
+
+### Reminders
+
+[<img src="media/photos/website-reminders.png" alt="Clear desktop website — Reminders (privacy edited)" width="720">](media/photos/website-reminders.png)
 
 ## Mobile Version
 
-Mobile website views opened on an iPhone. Summary and Goals use privacy-edited copies. Scan & Import, Browse, and Assistant are the supplied originals, reviewed for visible private records.
+Mobile website views on an iPhone. Summary and Goals are privacy-edited. Scan & Import, Browse, and Assistant show the reviewed interface without private record content.
 
-| View | Open image | Details |
-| --- | --- | --- |
-| Summary | [Open summary image](https://chatgpt.com/library?file_id=libfile_9320f3ae0574819194ada9d47a1199ad&account_id=personal) | Privacy-edited: balance, health value, reminder details, and counts blurred. |
-| Goals | [Open goals image](https://chatgpt.com/library?file_id=libfile_1cc9120d036c819185250c696d3f656d&account_id=personal) | Privacy-edited: personal goal and milestone details blurred. |
-| Scan & Import | [Open scan & import image](https://chatgpt.com/library?file_id=libfile_fb37881f52e08191884e395715ee6113&account_id=personal) | Reviewed original: empty scanner form with no imported document or extracted text. |
-| Browse | [Open browse image](https://chatgpt.com/library?file_id=libfile_9d9e27356e548191882f9ee75d2633ba&account_id=personal) | Reviewed original: category list and navigation. |
-| Assistant | [Open assistant image](https://chatgpt.com/library?file_id=libfile_679a6c0e0a2c819193e5ae254d6c43b7&account_id=personal) | Reviewed original: connection information and generic suggested prompts. |
+### Summary
+
+[<img src="media/photos/mobile-summary.png" alt="Clear mobile website — Summary (privacy edited)" width="360">](media/photos/mobile-summary.png)
+
+### Goals
+
+[<img src="media/photos/mobile-goals.png" alt="Clear mobile website — Goals (privacy edited)" width="360">](media/photos/mobile-goals.png)
+
+### Scan & Import
+
+[<img src="media/photos/mobile-scan-import.png" alt="Clear mobile website — Scan & Import" width="360">](media/photos/mobile-scan-import.png)
+
+### Browse
+
+[<img src="media/photos/mobile-browse.png" alt="Clear mobile website — Browse" width="360">](media/photos/mobile-browse.png)
+
+### Assistant
+
+[<img src="media/photos/mobile-assistant.png" alt="Clear mobile website — Assistant" width="360">](media/photos/mobile-assistant.png)
 
 The supplied views were provided together on October 31, 2026. Upload dates are not treated as verified capture timestamps. These images document the interface, not a completed test of the features shown.

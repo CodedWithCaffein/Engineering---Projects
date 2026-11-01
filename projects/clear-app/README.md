@@ -28,13 +28,13 @@ The web version is in use, and the connected workspace supports several types of
 
 Three read-only checks are recorded in the [testing page](results.md): ledger arithmetic, workspace read consistency, and health record structure.
 
-The [media page](photos.md) links the reviewed Website Version and Mobile Version images. Edited copies hide private record content. The image links require an authorized ChatGPT account; the live workspace and application source are not included.
+The [media page](photos.md) links the reviewed Website Version and Mobile Version images. Edited copies hide private record content. All 12 images are hosted directly in the repository; the live workspace and application source are not included.
 
 ## Next steps
 
 - [ ] Improve update status and reliability.
 - [ ] Test repeated imports and partial updates.
-- [ ] Transfer the reviewed images into the repository for public viewing.
+- [x] Add the reviewed desktop and mobile images to the public gallery.
 - [ ] Prepare a demonstration with fictional data.
 - [ ] Review the implementation for a source guide.
 - [ ] Explore low-cost iOS options.

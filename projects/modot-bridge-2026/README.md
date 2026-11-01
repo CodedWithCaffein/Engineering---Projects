@@ -14,7 +14,7 @@ My first MoDOT bridge competition: researching designs, drawing my own plans, an
 | --- | --- |
 | [Build story](build-log.md) | My thought process, design changes, construction, and lessons |
 | [Scrolling photo gallery](photos.md) | Build photos in approximate filename order |
-| [Videos](videos.md) | Links to both saved originals; GitHub upload pending |
+| [Videos](videos.md) | Reserved for future bridge testing footage |
 | [Testing & results](results.md) | Event details and blank fields for measured results |
 | [Sources & next steps](sources.md) | Official references, scholarship notes, and details still to add |
 

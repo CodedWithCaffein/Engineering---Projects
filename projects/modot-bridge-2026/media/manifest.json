@@ -43,20 +43,16 @@
       "bytes": 18788493,
       "sha256": "4ed02bd1ebc6610c00e8b3c192761ff365ad9fd6412660a6ca42a4c84ea62487",
       "library_file_id": "libfile_0e42a2364db881919b9eda24d0717104",
-      "repository_status": "external original; not hosted in repository",
-      "repository_path": null,
-      "planned_repository_path": "videos/IMG_2828.mp4",
-      "source_url": "https://chatgpt.com/library?file_id=libfile_0e42a2364db881919b9eda24d0717104&account_id=personal"
+      "repository_status": "excluded from publication at owner's request",
+      "repository_path": null
     },
     {
       "name": "IMG_2828(1).mp4",
       "bytes": 18798342,
       "sha256": "b1b8264330bbf7b1bf9c7599d995be8b395a84618c3ca2019e60b7b4f4b94a05",
       "library_file_id": "libfile_8fc563b8cbe4819185bcc8b3f58312ab",
-      "repository_status": "external original; not hosted in repository",
-      "repository_path": null,
-      "planned_repository_path": "videos/IMG_2828(1).mp4",
-      "source_url": "https://chatgpt.com/library?file_id=libfile_8fc563b8cbe4819185bcc8b3f58312ab&account_id=personal"
+      "repository_status": "excluded from publication at owner's request",
+      "repository_path": null
     },
     {
       "name": "IMG_2831.jpeg",

@@ -12,9 +12,17 @@ Choose a project below for the story, media, costs, and results. My [personal po
 | --- | --- | --- |
 | [Eclipson Vortex RC Airplane](projects/rc-airplane/README.md) | A 3D-printed airplane build, from printing and assembly to electronics and flight preparation. | Paused · target: end of summer 2027 |
 | [MoDOT Bridge — 2026](projects/modot-bridge-2026/README.md) | A balsa bridge competition build, including design decisions, construction, and testing. | Built · testing pending |
-| [Gear Ratio and Torque Calculator](projects/gear-calculator/README.md) | A small calculator for exploring gear ratios, torque, speed, and direction. | Working · calculation checks passed |
 | [Custom PC Build](projects/custom-pc/README.md) | A compact PC build, from component research and assembly to an RTX 3080 upgrade. | Built and in use |
+
+## Programming projects
+
+[Browse programming projects](projects/programming/README.md)
+
+| Project | Focus | Status |
+| --- | --- | --- |
+| [Gear Ratio and Torque Calculator](projects/gear-calculator/README.md) | A small calculator for exploring gear ratios, torque, speed, and direction. | Working · calculation checks passed |
 | [Clear — Your Everyday Space](projects/clear-app/README.md) | A personal web workspace for everyday information, tasks, and records. | In use · ongoing development |
+| [FTC Programming Guides](projects/programming/ftc-programming-guides/README.md) | Step-by-step FTC Java guides and example code, from telemetry to Pedro Pathing. | Written reference · robot testing pending |
 
 ## How the projects are organized
 

@@ -20,4 +20,4 @@ Choose a project below for the story, media, costs, and results. My [personal po
 
 Each project opens with a short overview and links to its supporting pages. Stories explain the decisions; media shows the work; results separate completed checks from plans and untested ideas.
 
-[Project template](templates/project/README.md) · [Adding and updating projects](docs/maintaining-projects.md) · [License](LICENSE)
+[License](LICENSE)

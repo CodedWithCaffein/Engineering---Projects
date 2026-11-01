@@ -5,12 +5,12 @@
 | Collection | Available here |
 | --- | --- |
 | [Photos](photos/) | 19 unique original JPEGs, without recompression |
-| [Videos](../videos.md) | Two distinct saved originals linked externally; GitHub upload pending |
+| [Videos](../videos.md) | Reserved for future testing footage |
 | [Manifest](manifest.json) | All 27 source uploads, filenames, sizes, checksums, source IDs, and current paths |
 
 The six duplicate photo uploads have been consolidated into their identical originals. No unique photo was removed. Capture dates are unavailable; the gallery uses approximate filename order.
 
-The two videos have different checksums and remain separate. Their links require access to Michael's ChatGPT account. Future GitHub video uploads belong in `media/videos/`; create that folder when the files are added.
+The two earlier recordings are excluded from publication at Michael's request. The `media/videos/` folder is reserved for future bridge testing footage.
 
 ## Consolidated duplicate photos
 

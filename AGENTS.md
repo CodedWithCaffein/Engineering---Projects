@@ -47,3 +47,7 @@ This repository is Michael Polanczyk's engineering project portfolio. Keep it ea
 - Inspect the current branch before publishing. Preserve unrelated changes and use a normal commit; do not rewrite history.
 - Report the completed change and material limitations concisely.
 - If available usage runs out, pause as Michael requested. Save a short checkpoint with the commit/branch, completed work, remaining tasks, and blocked uploads when possible. Never claim a background retry or automatic resumption unless it is actually configured.
+
+## Shared portfolio style
+
+Keep the personal portfolio as the main introduction and this repository as the detailed project library. Preserve mutual links and separate licenses. Use the shared presentation standard in docs/maintaining-projects.md. The project overview uses At a glance and Project guide tables, then background, approach/progress, actual results where available, next steps, and credits. Do not add empty sections to existing projects. Keep selector statuses synchronized with the personal portfolio when editing them. Optional supporting templates live in templates/project/ and are starting points, not finished projects.

@@ -1,6 +1,6 @@
 # My bridge build story
 
-[All projects](../../README.md) · [Project home](README.md) · [Build story](build-log.md) · [Photos](photos.md) · [Videos](videos.md) · [Results](results.md) · [Sources](sources.md)
+[All projects](../../README.md) · [Project home](README.md) · [Story](build-log.md) · [Photos](photos.md) · [Videos](videos.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
 
 *Based on my updated October 30, 2026 outline. Results are pending.*
 

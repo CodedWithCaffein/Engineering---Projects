@@ -1,6 +1,6 @@
 # Testing & results
 
-[All projects](../../README.md) · [Project home](README.md) · [Build story](build-log.md) · [Photos](photos.md) · [Videos](videos.md) · [Results](results.md) · [Sources](sources.md)
+[All projects](../../README.md) · [Project home](README.md) · [Story](build-log.md) · [Photos](photos.md) · [Videos](videos.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
 
 **Construction is complete. Inspection, measured performance, and placing are pending.**
 
@@ -28,12 +28,5 @@ Sources: [MoDOT 2026 announcement](https://www.modot.org/node/96071) · [Competi
 
 ## Test media
 
-Competition photos/video: **Not available yet.** The existing recordings are project media and are not labeled as official load tests.
+No competition photos or testing videos have been published. The [Videos page](videos.md) is reserved for future test footage.
 
-## How to update this page
-
-Open this file on GitHub, select the pencil icon, replace the blank fields with confirmed values, and commit the changes. Include units and the score recorded by the competition. Add test media separately from construction media. Then update the status on the project home page.
-
-**Do not enter optimizer estimates as measured bridge mass, capacity, or official results.**
-
-[All projects](../../README.md) · [Project home](README.md)

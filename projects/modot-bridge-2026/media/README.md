@@ -1,6 +1,6 @@
 # Bridge media inventory
 
-[All projects](../../../README.md) · [Project home](../README.md) · [Build story](../build-log.md) · [Photos](../photos.md) · [Videos](../videos.md) · [Results](../results.md) · [Sources](../sources.md)
+[All projects](../../../README.md) · [Project home](../README.md) · [Story](../build-log.md) · [Photos](../photos.md) · [Videos](../videos.md) · [Results](../results.md) · [Sources](../sources.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
 
 | Collection | Available here |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Videos
 
-[All projects](../../README.md) · [Project home](README.md) · [Build log](build-log.md) · [Photos](photos.md) · [Videos](videos.md) · [Parts & costs](parts-and-costs.md) · [Receipts](receipts.md)
+[All projects](../../README.md) · [Project home](README.md) · [Story](build-log.md) · [Parts & costs](parts-and-costs.md) · [Photos](photos.md) · [Videos](videos.md) · [Receipts](receipts.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
 
 All 21 video files from the spring build update. Labels describe the subject shown in each preview. Select a thumbnail or its Watch link to open the same clip. Lengths are shown as minutes:seconds. For still images, choose Photos.
 

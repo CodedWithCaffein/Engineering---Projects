@@ -1,6 +1,6 @@
 # Build log
 
-[All projects](../../README.md) · [Project home](README.md) · [Build log](build-log.md) · [Photos](photos.md) · [Videos](videos.md) · [Parts & costs](parts-and-costs.md) · [Receipts](receipts.md)
+[All projects](../../README.md) · [Project home](README.md) · [Story](build-log.md) · [Parts & costs](parts-and-costs.md) · [Photos](photos.md) · [Videos](videos.md) · [Receipts](receipts.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
 
 The project story and dated updates. For images, choose Photos or Videos from the menu.
 

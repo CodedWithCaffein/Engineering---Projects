@@ -1,6 +1,6 @@
 # Checks and limitations
 
-[All projects](../../README.md) · [Project home](README.md) · [Project story](build-log.md) · [Code images](photos.md) · [Checks](results.md) · [References](sources.md)
+[All projects](../../README.md) · [Project home](README.md) · [Story](build-log.md) · [Code images](photos.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
 
 Calculation checks run on the JavaScript extracted from the downloadable HTML file.
 

@@ -1,6 +1,6 @@
 # Photos
 
-[All projects](../../README.md) · [Project home](README.md) · [Build log](build-log.md) · [Photos](photos.md) · [Videos](videos.md) · [Parts & costs](parts-and-costs.md) · [Receipts](receipts.md)
+[All projects](../../README.md) · [Project home](README.md) · [Story](build-log.md) · [Parts & costs](parts-and-costs.md) · [Photos](photos.md) · [Videos](videos.md) · [Receipts](receipts.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
 
 Two build photos from the April 22–May 29, 2026 update. Select a photo to open its full-size image. For recordings, choose Videos.
 

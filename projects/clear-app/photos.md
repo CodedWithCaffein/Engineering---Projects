@@ -1,6 +1,6 @@
 # Clear — Pictures and Media
 
-[All projects](../../README.md) · [Project home](README.md) · [Project story](build-log.md) · [Features](features.md) · [Testing & plans](results.md) · [Sources](sources.md) · [Media](photos.md) · [Website Version](photos.md#website-version) · [Mobile Version](photos.md#mobile-version)
+[All projects](../../README.md) · [Project home](README.md) · [Story](build-log.md) · [Features](features.md) · [Photos](photos.md) · [Website Version](photos.md#website-version) · [Mobile Version](photos.md#mobile-version) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
 
 These views show Clear on a computer and on a phone. Both are versions of the website; the mobile views do not show a separate native iOS app.
 

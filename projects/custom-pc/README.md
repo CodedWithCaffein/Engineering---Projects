@@ -1,26 +1,33 @@
 # Custom PC Build
 
-[All projects](../../README.md) · [Project home](README.md) · [Build story](build-log.md) · [Parts & costs](parts-and-costs.md) · [Photos](photos.md) · [Receipts](receipts.md) · [Verification](verification.md)
+[All projects](../../README.md) · [Project home](README.md) · [Story](build-log.md) · [Parts & costs](parts-and-costs.md) · [Photos](photos.md) · [Receipts](receipts.md) · [Verification](verification.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
 
 I researched and built a compact desktop PC to learn how the hardware and software work together. It started with an Intel Arc A770, and I later upgraded to an RTX 3080 while keeping the original card.
 
-**Status:** Built and in use  
-**Last project update:** October 31, 2026  
-**Goal:** Build a capable compact PC while balancing compatibility, cost, cooling, and room for upgrades.
+## At a glance
 
-## Explore the project
+| Field | Details |
+| --- | --- |
+| Status | Built and in use |
+| Project updated | October 31, 2026 |
+| Goal | Balance compatibility, cost, cooling, and room for upgrades in a compact PC. |
+| My role | Component research, selection, assembly, and upgrades. |
 
-- [Build story and timeline](build-log.md)
-- [Parts and actual costs](parts-and-costs.md)
-- [Photos and research images](photos.md)
-- [Purchase records](receipts.md)
-- [Verification and remaining details](verification.md)
+## Project guide
 
-## Why I started
+| Section | What you'll find |
+| --- | --- |
+| [Story](build-log.md) | Background, decisions, progress, and lessons |
+| [Parts & costs](parts-and-costs.md) | Components, purchase prices, and scoped totals |
+| [Photos](photos.md) | Project photos and reviewed viewing copies |
+| [Receipts](receipts.md) | Redacted purchase records |
+| [Verification](verification.md) | Evidence and details still to confirm |
+
+## Background
 
 I wanted to understand what goes into a PC instead of just picking a finished system. I spent many months researching the CPU, GPU, motherboard, memory, storage, power supply, cooling, and software before ordering parts. Fitting everything into a compact case made compatibility and layout especially important.
 
-## Where it stands
+## Progress
 
 The PC is assembled and in use. The current configuration uses a Ryzen 5 9600X, ASUS ROG Strix B650E-I Gaming WiFi motherboard, 32 GB of Kingston FURY Beast memory, a 1 TB SK hynix Platinum P41 SSD, and an MSI RTX 3080 Gaming Z Trio LHR 10 GB in a Mechanic Master Cool Cube C28 case.
 
@@ -34,6 +41,10 @@ The original orders totaled **$1,290.61** after the recorded tax and rewards adj
 - [ ] Confirm the installed case-fan count and configured memory speed.
 - [ ] Add assembly and GPU installation dates if I can verify them.
 
-## Credits and assistance
+## Credits
 
 I researched the parts and assembled the PC. ChatGPT helped organize this write-up, check the receipts, and collect system information.
+
+---
+
+[All projects](../../README.md) · [Personal portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)

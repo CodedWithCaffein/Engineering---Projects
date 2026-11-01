@@ -62,7 +62,7 @@ These are optional. Avoid creating empty pages just to fill out the list.
 
 Start with its README and the relevant page. Add new information in that project only, then update its overview and the root table if its status changes. Preserve the first-person story, design credits, uncertain dates, and blank results until confirmed information is available.
 
-For the bridge, update `results.md` after testing. The existing two videos are externally linked; upload destinations are documented in its media inventory.
+For the bridge, update `results.md` after testing. Do not upload or link the canceled recordings IMG_2828.mp4 and IMG_2828(1).mp4. Keep the Videos page and video folder ready for future test footage. Record measured values with units; do not substitute optimizer predictions. Update the project overview and both project selectors when its status changes.
 
 For the airplane, keep actual purchase prices and the documented subtotal separate from estimates, taxes, shipping, and undocumented costs.
 
@@ -83,3 +83,19 @@ For the airplane, keep actual purchase prices and the documented subtotal separa
 ## If usage becomes unavailable
 
 Pause and record the current branch/commit, completed changes, remaining work, and any blocked uploads before stopping, if a write is still possible. Resume from that checkpoint once access is available; check the current repository state before repeating a write.
+
+## Shared presentation standard
+
+The personal portfolio is the main introduction; this repository holds detailed engineering records. Keep the repositories linked, not duplicated or merged. Retain their separate licensing.
+
+- Every project overview follows: title and navigation, short summary, At a glance, Project guide, Background, Approach when documented, Progress, Results when documented, lessons when available, Next steps, Credits.
+- Use a two-column At a glance table for Status, Project updated, Goal, and My role. Add confirmed dates, budget, or tools only when helpful.
+- Use the same navigation labels and order on every page within a project. Prefer Story, Features, Parts & costs, Photos / Code images, Videos, Results, Sources, Receipts, Verification; omit absent pages. End with a Portfolio link. Clear retains Website Version and Mobile Version.
+- Keep visitor instructions for using a tool with that tool. Keep maintainer instructions here.
+- Copy optional templates only when their content is needed. Replace prompts and navigation before publication. Short projects can stay on one page.
+- Preserve the one-page personal photography gallery and its all-rights-reserved notice.
+- When status changes, update the root selector, project overview, and the personal portfolio's engineering selector together.
+
+### Optional starting pages
+
+[Story](../templates/project/build-log.md) · [Results](../templates/project/results.md) · [Parts & costs](../templates/project/parts-and-costs.md) · [Photos](../templates/project/photos.md) · [Sources](../templates/project/sources.md)

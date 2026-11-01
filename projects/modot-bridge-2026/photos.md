@@ -1,6 +1,6 @@
 # Construction photo gallery
 
-[All projects](../../README.md) · [Project home](README.md) · [Build story](build-log.md) · [Photos](photos.md) · [Videos](videos.md) · [Results](results.md) · [Sources](sources.md)
+[All projects](../../README.md) · [Project home](README.md) · [Story](build-log.md) · [Photos](photos.md) · [Videos](videos.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
 
 **19 unique photos**, shown on one scrolling page in approximate original filename order. The build took roughly four to four and a half days, but capture dates are unavailable; exact days and intermediate stages have not been assigned. Select any photo to open its original.
 

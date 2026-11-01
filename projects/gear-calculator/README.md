@@ -17,10 +17,10 @@ A small calculator for trying gear combinations and seeing how they change torqu
 
 | Section | What you'll find |
 | --- | --- |
-| [Story](build-log.md) | Background, decisions, progress, and lessons |
-| [Code images](photos.md) | Illustrations from the current source |
-| [Results](results.md) | Checks, observations, and limits |
-| [Sources](sources.md) | References and attribution |
+| [Story](build-log.md) | Why I built the calculator and what I learned |
+| [Code images](photos.md) | Code illustrations made from the current source |
+| [Results](results.md) | Calculation checks, assumptions, and physical testing still to do |
+| [Sources](sources.md) | Equation references and coding resources |
 
 ## Use the calculator
 

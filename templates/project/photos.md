@@ -1,6 +1,6 @@
 # Project name — Photos
 
-[All projects](../../README.md) · [Project home](README.md)
+[All projects](../../README.md) · [Project home](README.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
 
 <!-- Optional supporting template. Replace prompts and use the project's full navigation before publishing. -->
 

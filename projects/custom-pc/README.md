@@ -17,11 +17,11 @@ I researched and built a compact desktop PC to learn how the hardware and softwa
 
 | Section | What you'll find |
 | --- | --- |
-| [Story](build-log.md) | Background, decisions, progress, and lessons |
-| [Parts & costs](parts-and-costs.md) | Components, purchase prices, and scoped totals |
-| [Photos](photos.md) | Project photos and reviewed viewing copies |
+| [Story](build-log.md) | Component research, assembly, and the GPU upgrade |
+| [Parts & costs](parts-and-costs.md) | Original parts, the replacement GPU, and documented spending |
+| [Photos](photos.md) | Hardware and build photos |
 | [Receipts](receipts.md) | Redacted purchase records |
-| [Verification](verification.md) | Evidence and details still to confirm |
+| [Verification](verification.md) | Component evidence and specifications still to confirm |
 
 ## Background
 

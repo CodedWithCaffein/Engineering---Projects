@@ -17,11 +17,11 @@ My first MoDOT bridge competition: researching designs, drawing my own plans, an
 
 | Section | What you'll find |
 | --- | --- |
-| [Story](build-log.md) | Background, decisions, progress, and lessons |
-| [Photos](photos.md) | Project photos and reviewed viewing copies |
-| [Videos](videos.md) | Clips and recordings, opened on request |
-| [Results](results.md) | Checks, observations, and limits |
-| [Sources](sources.md) | References and attribution |
+| [Story](build-log.md) | Design choices, paper plans, and balsa construction |
+| [Photos](photos.md) | A scrolling record of the design and construction |
+| [Videos](videos.md) | A place for future testing footage |
+| [Results](results.md) | Test details and measurements to record after testing |
+| [Sources](sources.md) | Competition references, design credits, and unconfirmed details |
 
 [<img src="media/photos/IMG_2860.jpeg" alt="Completed bridge with balsa frame and diagonal string bracing" width="800">](photos.md)
 
@@ -37,7 +37,6 @@ I explored several bridge layouts with ChatGPT, then drew my own final design on
 - [ ] Add the official inspection outcome and competition results.
 - [ ] Document where failure begins and what I would change.
 - [ ] Identify the final paper drawings and matching cleaned-up blueprints.
-
 
 ## Credits
 

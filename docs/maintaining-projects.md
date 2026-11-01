@@ -98,4 +98,20 @@ The personal portfolio is the main introduction; this repository holds detailed 
 
 ### Optional starting pages
 
-[Story](../templates/project/build-log.md) · [Results](../templates/project/results.md) · [Parts & costs](../templates/project/parts-and-costs.md) · [Photos](../templates/project/photos.md) · [Sources](../templates/project/sources.md)
+| Starting page | Use when the project includes |
+| --- | --- |
+| [Overview](../templates/project/README.md) | Every project; short projects can stay on this page |
+| [Story](../templates/project/build-log.md) | A longer build process, decisions, and revisions |
+| [Parts & costs](../templates/project/parts-and-costs.md) | Purchased or reused hardware and a useful budget record |
+| [Photos](../templates/project/photos.md) | Reviewed images, drawings, or clearly labeled code illustrations |
+| [Videos](../templates/project/videos.md) | Recordings, or an explicitly requested future-video page |
+| [Results](../templates/project/results.md) | Measured tests, calculation checks, or a research investigation |
+| [Sources](../templates/project/sources.md) | References, third-party designs, and attribution |
+
+### Before publishing
+
+- Replace template prompts and remove unused sections; keep planned work separate from completed work.
+- Check the overview, top navigation, project guide, and both selectors against the actual pages and current status.
+- For software, include setup, dependencies, a usage example, expected output, and known limits where applicable. For physical builds, include relevant dimensions, materials, assembly decisions, and test conditions. For research, include the question, variables, procedure, data, and uncertainty.
+- Keep prices and totals traceable, distinguish unit prices from line totals, and separate estimates from actual spending.
+- Check relative links, image sources, anchors, media paths, credits, and privacy before publication.

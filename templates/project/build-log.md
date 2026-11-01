@@ -1,6 +1,6 @@
 # Project name — Story
 
-[All projects](../../README.md) · [Project home](README.md)
+[All projects](../../README.md) · [Project home](README.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
 
 <!-- Optional supporting template. Copy only when needed; replace prompts and use the project's full navigation before publishing. -->
 

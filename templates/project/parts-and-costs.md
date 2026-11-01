@@ -6,12 +6,12 @@
 
 State the currency, purchase period, and what this budget includes.
 
-| Item | Quantity | Specification / role | Actual item cost | Source |
+| Item / specification | Quantity | Actual unit price | Actual line total | Source |
 | --- | --- | --- | --- | --- |
 
 ## Cost summary
 
-Separate actual spending from estimates. Explain tax, shipping, discounts, refunds, reused parts, replacement parts, and excluded costs. Do not double count order totals and individual items.
+State whether each amount is a unit price or a line total. Keep estimated or unpurchased items in a separate table from actual purchases. Separate actual spending from estimates. Explain tax, shipping, discounts, refunds, reused parts, replacement parts, and excluded costs. Do not double count order totals and individual items.
 
 ## Design files and components
 

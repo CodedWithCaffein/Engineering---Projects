@@ -17,10 +17,10 @@ My 3D-printed RC airplane build, from printed parts to assembly, electronics set
 
 | Section | What you'll find |
 | --- | --- |
-| [Story](build-log.md) | Background, decisions, progress, and lessons |
-| [Parts & costs](parts-and-costs.md) | Components, purchase prices, and scoped totals |
-| [Photos](photos.md) | Project photos and reviewed viewing copies |
-| [Videos](videos.md) | Clips and recordings, opened on request |
+| [Story](build-log.md) | Aircraft selection, printing, assembly, and build setbacks |
+| [Parts & costs](parts-and-costs.md) | Airframe materials, electronics, purchases, and cost limits |
+| [Photos](photos.md) | Printing and assembly, with capture dates where known |
+| [Videos](videos.md) | Printing and assembly clips with click-to-open links |
 | [Receipts](receipts.md) | Redacted purchase records |
 
 [<img src="media/photos/IMG_1442.jpg" alt="Open Photos: Vortex wing assembly" width="600">](photos.md)

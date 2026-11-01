@@ -17,11 +17,11 @@ A personal web app I created to bring everyday information into one workspace an
 
 | Section | What you'll find |
 | --- | --- |
-| [Story](build-log.md) | Background, decisions, progress, and lessons |
-| [Features](features.md) | Workspace areas and workflows |
-| [Photos](photos.md) | Project photos and reviewed viewing copies |
-| [Results](results.md) | Checks, observations, and limits |
-| [Sources](sources.md) | References and attribution |
+| [Story](build-log.md) | Why I created Clear and how the workspace developed |
+| [Features](features.md) | Workspace sections, connected workflows, and current limits |
+| [Photos](photos.md) | Reviewed desktop and mobile website views |
+| [Results](results.md) | Recorded read-only checks and their limits |
+| [Sources](sources.md) | Development context, assistance, and source availability |
 
 ## Background
 

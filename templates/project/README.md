@@ -1,6 +1,6 @@
 # Project name
 
-[All projects](../../README.md) · [Project home](README.md) · [Overview](#at-a-glance) · [Approach](#approach) · [Results](#results-and-limits) · [Next steps](#next-steps) · [Credits](#credits)
+[All projects](../../README.md) · [Project home](README.md) · [Overview](#at-a-glance) · [Approach](#approach) · [Results](#results-and-limits) · [Next steps](#next-steps) · [Credits](#credits) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
 
 <!-- Copy into projects/<project-id>/README.md. Replace every prompt with confirmed project information. Before publication remove instructional comments and unused sections. Add only supporting pages with real content, and replace the section links above with the same actual page navigation on every project page. Keep All projects, Project home, then the project sections, then Portfolio. -->
 

@@ -1,6 +1,6 @@
 # Purchase records
 
-[All projects](../../README.md) · [Project home](README.md)
+[All projects](../../README.md) · [Project home](README.md) · [Build story](build-log.md) · [Parts & costs](parts-and-costs.md) · [Photos](photos.md) · [Receipts](receipts.md) · [Verification](verification.md)
 
 These reviewed purchase screenshots support the dates and totals in [Parts and actual costs](parts-and-costs.md). Personal information has been blurred where identified. Purchase and delivery dates shown in the screenshots are not image capture or installation dates. Click any image or its link to open it.
 

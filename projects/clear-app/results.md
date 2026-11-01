@@ -1,6 +1,6 @@
 # Clear — Progress and Next Steps
 
-[All projects](../../README.md) · [Project home](README.md)
+[All projects](../../README.md) · [Project home](README.md) · [Project story](build-log.md) · [Features](features.md) · [Testing & plans](results.md) · [Sources](sources.md) · [Media](photos.md) · [Website Version](photos.md#website-version) · [Mobile Version](photos.md#mobile-version)
 
 ## Current progress
 
@@ -47,4 +47,4 @@ These are planned checks, not completed test results.
 
 ## Media
 
-See the [pictures and media page](photos.md) for the planned gallery and capture status. No private records or live application links are published.
+The [pictures and media page](photos.md) now links reviewed desktop and mobile website views. Personal record content is blurred in edited copies. Images remain externally stored and require an authorized ChatGPT account; repository transfer is pending.

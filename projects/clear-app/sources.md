@@ -1,6 +1,6 @@
 # Clear — Technical Documentation and References
 
-[All projects](../../README.md) · [Project home](README.md)
+[All projects](../../README.md) · [Project home](README.md) · [Project story](build-log.md) · [Features](features.md) · [Testing & plans](results.md) · [Sources](sources.md) · [Media](photos.md) · [Website Version](photos.md#website-version) · [Mobile Version](photos.md#mobile-version)
 
 ## Technical documentation
 

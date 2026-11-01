@@ -1,6 +1,6 @@
 # Clear — Features and Workflows
 
-[All projects](../../README.md) · [Project home](README.md)
+[All projects](../../README.md) · [Project home](README.md) · [Project story](build-log.md) · [Features](features.md) · [Testing & plans](results.md) · [Sources](sources.md) · [Media](photos.md) · [Website Version](photos.md#website-version) · [Mobile Version](photos.md#mobile-version)
 
 ## Workspace areas
 

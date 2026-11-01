@@ -1,6 +1,6 @@
 # Code images
 
-[All projects](../../README.md) · [Project home](README.md) · [Source code](Gear_Calculator.html)
+[All projects](../../README.md) · [Project home](README.md) · [Project story](build-log.md) · [Code images](photos.md) · [Checks](results.md) · [References](sources.md)
 
 These images were rendered from the current source on October 31, 2026. They are code illustrations, not browser screenshots or earlier work-in-progress records. No historical development screenshots were supplied.
 

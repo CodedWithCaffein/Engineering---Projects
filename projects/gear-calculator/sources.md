@@ -1,6 +1,6 @@
 # Useful references
 
-[All projects](../../README.md) · [Project home](README.md)
+[All projects](../../README.md) · [Project home](README.md) · [Project story](build-log.md) · [Code images](photos.md) · [Checks](results.md) · [References](sources.md)
 
 These are further-reading links checked on October 31, 2026, not a record of websites used during an earlier build.
 

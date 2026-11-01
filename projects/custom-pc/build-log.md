@@ -1,6 +1,6 @@
 # Build story and timeline
 
-[All projects](../../README.md) · [Project home](README.md)
+[All projects](../../README.md) · [Project home](README.md) · [Build story](build-log.md) · [Parts & costs](parts-and-costs.md) · [Photos](photos.md) · [Receipts](receipts.md) · [Verification](verification.md)
 
 ## Research and original build
 

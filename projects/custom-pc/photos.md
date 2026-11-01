@@ -1,6 +1,6 @@
 # Photos and research images
 
-[All projects](../../README.md) · [Project home](README.md)
+[All projects](../../README.md) · [Project home](README.md) · [Build story](build-log.md) · [Parts & costs](parts-and-costs.md) · [Photos](photos.md) · [Receipts](receipts.md) · [Verification](verification.md)
 
 Capture dates are unconfirmed. The grouping below is approximate. Research screenshots document my research, not current prices or the purchase price. Click any image or its link to open the full-size reviewed viewing copy.
 

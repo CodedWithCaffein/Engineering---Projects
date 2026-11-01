@@ -13,7 +13,7 @@
 | `templates/project/README.md` | Starting point for a new project |
 | `AGENTS.md` | Instructions for ChatGPT and other coding assistants |
 
-The current project IDs are `rc-airplane`, `modot-bridge-2026`, and `gear-calculator`. Each project is self-contained. The front page stays a short selection page.
+The current project IDs are `rc-airplane`, `modot-bridge-2026`, `gear-calculator`, `custom-pc`, and `clear-app`. Each project is self-contained. The front page stays a short selection page.
 
 ## Add a project
 
@@ -24,6 +24,14 @@ The current project IDs are `rc-airplane`, `modot-bridge-2026`, and `gear-calcul
 5. Link the supporting pages from the project overview. Add an **All projects** link back to the root README on every page.
 6. Add one row to the root project table with the project name, brief description, status, and overview link.
 7. Check the new links and images in GitHub before finishing.
+
+## Required top navigation
+
+Put a compact row of Markdown links directly below the title on every project's README and supporting pages, matching the airplane project's style. Start with **All projects** and **Project home**, then include the project's actual sections in a consistent order.
+
+Use the same labels and destinations on every page in that project. Adjust relative paths for nested pages. Link only pages that exist. Keep this navigation at the top even if the README also has an Explore section.
+
+For Clear, include direct **Website Version** and **Mobile Version** links to the two sections of its media page. Mobile views show the mobile website, not a separate native app.
 
 ## Suggested project pages
 

@@ -1,6 +1,6 @@
 # Parts and actual costs
 
-[All projects](../../README.md) · [Project home](README.md)
+[All projects](../../README.md) · [Project home](README.md) · [Build story](build-log.md) · [Parts & costs](parts-and-costs.md) · [Photos](photos.md) · [Receipts](receipts.md) · [Verification](verification.md)
 
 All amounts are USD. Item prices below exclude order-level tax and adjustments. These are historical purchase prices, not current quotes.
 

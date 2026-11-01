@@ -1,27 +1,37 @@
 # Clear — Pictures and Media
 
-[All projects](../../README.md) · [Project home](README.md)
+[All projects](../../README.md) · [Project home](README.md) · [Project story](build-log.md) · [Features](features.md) · [Testing & plans](results.md) · [Sources](sources.md) · [Media](photos.md) · [Website Version](photos.md#website-version) · [Mobile Version](photos.md#mobile-version)
 
-I want this gallery to show the actual Clear interface while keeping the information inside my workspace private.
+These views show Clear on a computer and on a phone. Both are versions of the website; the mobile views do not show a separate native iOS app.
 
-## Capture status
+**Image access:** The images are linked to saved ChatGPT files and require an authorized account. They are not hosted in this repository and will not appear as public inline GitHub images. File transfer to the repository is still pending.
 
-Screenshots are pending. Browser access could not be established during this review, and downloading the saved preview was blocked by a network lookup failure. No screenshots were uploaded, and no illustrations are presented as screenshots.
+Privacy-edited copies hide personal record content. The image editor also resized and slightly changed the appearance of edited copies, so they are visual references rather than exact pixel-for-pixel originals. Unedited images are identified below. No live workspace link is included.
 
-| View | What the image should show | Publication status |
+## Website Version
+
+Desktop website views. The following are privacy-edited copies; private originals are not linked here.
+
+| View | Open image | Details |
 | --- | --- | --- |
-| Main screen | Layout and navigation | Awaiting safe capture |
-| Health tracker | Check-in interface and field labels | Awaiting capture with values and history covered |
-| Gmail connections | Connection controls and status layout | Awaiting capture with account details and mail previews covered |
-| Finances | Ledger layout and input controls | Awaiting capture with amounts, balances, descriptions, and receipts covered |
-| Text scanner | Scanner controls | Awaiting capture with source documents and extracted text covered |
-| Calendar | Calendar interface | Awaiting capture with event details covered |
-| Reminders | Task and reminder interface | Awaiting capture with titles, notes, and dates covered |
+| Summary | [Open summary image](https://chatgpt.com/library?file_id=libfile_1f60ff98dfb881918f8b67cae4bf07a3&account_id=personal) | Overview and quick actions; personal values and upcoming records blurred. |
+| Health tracker | [Open health tracker image](https://chatgpt.com/library?file_id=libfile_7efc5a43116481918b22035c426621a6&account_id=personal) | Metric cards; values and check-in details blurred. |
+| Mail connections | [Open mail connections image](https://chatgpt.com/library?file_id=libfile_16c9efff8e5c8191869c4064e18b36a7&account_id=personal) | Connected inbox layout; account details and message previews blurred. |
+| Finances | [Open finances image](https://chatgpt.com/library?file_id=libfile_7131c4d123dc8191951e0711348bbb3b&account_id=personal) | Ledger layout; amounts and transaction details blurred. |
+| Browse | [Open browse image](https://chatgpt.com/library?file_id=libfile_119985480a548191b940384c71739b7e&account_id=personal) | Category navigation; personal profile details blurred. |
+| Calendar | [Open calendar image](https://chatgpt.com/library?file_id=libfile_88fa817ed0e88191b6cc2757be79d213&account_id=personal) | Calendar layout; personal event details blurred. |
+| Reminders | [Open reminders image](https://chatgpt.com/library?file_id=libfile_7c58a705b91c8191a4185b54dae31f10&account_id=personal) | Reminder controls; private title and due time blurred. |
 
-The requested views are a capture plan, not confirmation that every feature has been visually tested.
+## Mobile Version
 
-## Preparing images
+Mobile website views opened on an iPhone. Summary and Goals use privacy-edited copies. Scan & Import, Browse, and Assistant are the supplied originals, reviewed for visible private records.
 
-Each image will be reviewed before publication. Account names, email addresses, health values, financial records, private text, events, reminders, application addresses, and identifiers must be hidden wherever visible. Cropping or solid covers may be used where blur would leave text readable.
+| View | Open image | Details |
+| --- | --- | --- |
+| Summary | [Open summary image](https://chatgpt.com/library?file_id=libfile_9320f3ae0574819194ada9d47a1199ad&account_id=personal) | Privacy-edited: balance, health value, reminder details, and counts blurred. |
+| Goals | [Open goals image](https://chatgpt.com/library?file_id=libfile_1cc9120d036c819185250c696d3f656d&account_id=personal) | Privacy-edited: personal goal and milestone details blurred. |
+| Scan & Import | [Open scan & import image](https://chatgpt.com/library?file_id=libfile_fb37881f52e08191884e395715ee6113&account_id=personal) | Reviewed original: empty scanner form with no imported document or extracted text. |
+| Browse | [Open browse image](https://chatgpt.com/library?file_id=libfile_9d9e27356e548191882f9ee75d2633ba&account_id=personal) | Reviewed original: category list and navigation. |
+| Assistant | [Open assistant image](https://chatgpt.com/library?file_id=libfile_679a6c0e0a2c819193e5ae254d6c43b7&account_id=personal) | Reviewed original: connection information and generic suggested prompts. |
 
-Published copies will be flattened images with private metadata removed. Captions will identify redactions and known capture dates. The private originals and live workspace address will stay out of the portfolio.
+The supplied views were provided together on October 31, 2026. Upload dates are not treated as verified capture timestamps. These images document the interface, not a completed test of the features shown.

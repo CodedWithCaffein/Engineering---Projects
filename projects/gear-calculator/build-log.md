@@ -1,6 +1,6 @@
 # Project story
 
-[All projects](../../README.md) · [Project home](README.md) · [Code images](photos.md)
+[All projects](../../README.md) · [Project home](README.md) · [Project story](build-log.md) · [Code images](photos.md) · [Checks](results.md) · [References](sources.md)
 
 In late September 2026, my Principles of Engineering class at CTC got me interested in gear ratios and how they affect torque and speed. I wanted to understand what happens when you change gear sizes or connect several gears together, so I thought a simple calculator would be a fun project.
 

@@ -1,6 +1,6 @@
 # Airplane media inventory
 
-[All projects](../../../README.md) · [Project home](../README.md) · [Photos](../photos.md) · [Videos](../videos.md) · [Receipts](../receipts.md)
+[All projects](../../../README.md) · [Project home](../README.md) · [Build log](../build-log.md) · [Photos](../photos.md) · [Videos](../videos.md) · [Parts & costs](../parts-and-costs.md) · [Receipts](../receipts.md)
 
 | Folder or file | Contents |
 | --- | --- |

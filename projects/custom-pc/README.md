@@ -1,6 +1,6 @@
 # Custom PC Build
 
-[All projects](../../README.md) · [Project home](README.md)
+[All projects](../../README.md) · [Project home](README.md) · [Build story](build-log.md) · [Parts & costs](parts-and-costs.md) · [Photos](photos.md) · [Receipts](receipts.md) · [Verification](verification.md)
 
 I researched and built a compact desktop PC to learn how the hardware and software work together. It started with an Intel Arc A770, and I later upgraded to an RTX 3080 while keeping the original card.
 

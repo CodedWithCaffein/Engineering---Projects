@@ -1,0 +1,150 @@
+{
+  "project": "clear-app",
+  "note": "Both sections show the website. Edited copies were resized by the image editor and are not pixel-exact originals. No private original screenshots or live app addresses are included. External image transfer remains pending.",
+  "images": [
+    {
+      "view": "Summary",
+      "section": "Website Version",
+      "source_library_file_id": "libfile_1f60ff98dfb881918f8b67cae4bf07a3",
+      "url": "https://chatgpt.com/library?file_id=libfile_1f60ff98dfb881918f8b67cae4bf07a3&account_id=personal",
+      "hosting": "external-only",
+      "access": "authorized ChatGPT account required",
+      "privacy_status": "privacy-edited copy",
+      "capture_timestamp": null,
+      "sha256": null,
+      "repository_path": null
+    },
+    {
+      "view": "Health tracker",
+      "section": "Website Version",
+      "source_library_file_id": "libfile_7efc5a43116481918b22035c426621a6",
+      "url": "https://chatgpt.com/library?file_id=libfile_7efc5a43116481918b22035c426621a6&account_id=personal",
+      "hosting": "external-only",
+      "access": "authorized ChatGPT account required",
+      "privacy_status": "privacy-edited copy",
+      "capture_timestamp": null,
+      "sha256": null,
+      "repository_path": null
+    },
+    {
+      "view": "Mail connections",
+      "section": "Website Version",
+      "source_library_file_id": "libfile_16c9efff8e5c8191869c4064e18b36a7",
+      "url": "https://chatgpt.com/library?file_id=libfile_16c9efff8e5c8191869c4064e18b36a7&account_id=personal",
+      "hosting": "external-only",
+      "access": "authorized ChatGPT account required",
+      "privacy_status": "privacy-edited copy",
+      "capture_timestamp": null,
+      "sha256": null,
+      "repository_path": null
+    },
+    {
+      "view": "Finances",
+      "section": "Website Version",
+      "source_library_file_id": "libfile_7131c4d123dc8191951e0711348bbb3b",
+      "url": "https://chatgpt.com/library?file_id=libfile_7131c4d123dc8191951e0711348bbb3b&account_id=personal",
+      "hosting": "external-only",
+      "access": "authorized ChatGPT account required",
+      "privacy_status": "privacy-edited copy",
+      "capture_timestamp": null,
+      "sha256": null,
+      "repository_path": null
+    },
+    {
+      "view": "Browse",
+      "section": "Website Version",
+      "source_library_file_id": "libfile_119985480a548191b940384c71739b7e",
+      "url": "https://chatgpt.com/library?file_id=libfile_119985480a548191b940384c71739b7e&account_id=personal",
+      "hosting": "external-only",
+      "access": "authorized ChatGPT account required",
+      "privacy_status": "privacy-edited copy",
+      "capture_timestamp": null,
+      "sha256": null,
+      "repository_path": null
+    },
+    {
+      "view": "Calendar",
+      "section": "Website Version",
+      "source_library_file_id": "libfile_88fa817ed0e88191b6cc2757be79d213",
+      "url": "https://chatgpt.com/library?file_id=libfile_88fa817ed0e88191b6cc2757be79d213&account_id=personal",
+      "hosting": "external-only",
+      "access": "authorized ChatGPT account required",
+      "privacy_status": "privacy-edited copy",
+      "capture_timestamp": null,
+      "sha256": null,
+      "repository_path": null
+    },
+    {
+      "view": "Reminders",
+      "section": "Website Version",
+      "source_library_file_id": "libfile_7c58a705b91c8191a4185b54dae31f10",
+      "url": "https://chatgpt.com/library?file_id=libfile_7c58a705b91c8191a4185b54dae31f10&account_id=personal",
+      "hosting": "external-only",
+      "access": "authorized ChatGPT account required",
+      "privacy_status": "privacy-edited copy",
+      "capture_timestamp": null,
+      "sha256": null,
+      "repository_path": null
+    },
+    {
+      "view": "Summary",
+      "section": "Mobile Version",
+      "source_library_file_id": "libfile_9320f3ae0574819194ada9d47a1199ad",
+      "url": "https://chatgpt.com/library?file_id=libfile_9320f3ae0574819194ada9d47a1199ad&account_id=personal",
+      "hosting": "external-only",
+      "access": "authorized ChatGPT account required",
+      "privacy_status": "privacy-edited copy",
+      "capture_timestamp": null,
+      "sha256": null,
+      "repository_path": null
+    },
+    {
+      "view": "Goals",
+      "section": "Mobile Version",
+      "source_library_file_id": "libfile_1cc9120d036c819185250c696d3f656d",
+      "url": "https://chatgpt.com/library?file_id=libfile_1cc9120d036c819185250c696d3f656d&account_id=personal",
+      "hosting": "external-only",
+      "access": "authorized ChatGPT account required",
+      "privacy_status": "privacy-edited copy",
+      "capture_timestamp": null,
+      "sha256": null,
+      "repository_path": null
+    },
+    {
+      "view": "Scan & Import",
+      "section": "Mobile Version",
+      "source_library_file_id": "libfile_fb37881f52e08191884e395715ee6113",
+      "url": "https://chatgpt.com/library?file_id=libfile_fb37881f52e08191884e395715ee6113&account_id=personal",
+      "hosting": "external-only",
+      "access": "authorized ChatGPT account required",
+      "privacy_status": "reviewed original; no visible private records",
+      "capture_timestamp": null,
+      "sha256": null,
+      "repository_path": null
+    },
+    {
+      "view": "Browse",
+      "section": "Mobile Version",
+      "source_library_file_id": "libfile_9d9e27356e548191882f9ee75d2633ba",
+      "url": "https://chatgpt.com/library?file_id=libfile_9d9e27356e548191882f9ee75d2633ba&account_id=personal",
+      "hosting": "external-only",
+      "access": "authorized ChatGPT account required",
+      "privacy_status": "reviewed original; no visible private records",
+      "capture_timestamp": null,
+      "sha256": null,
+      "repository_path": null
+    },
+    {
+      "view": "Assistant",
+      "section": "Mobile Version",
+      "source_library_file_id": "libfile_679a6c0e0a2c819193e5ae254d6c43b7",
+      "url": "https://chatgpt.com/library?file_id=libfile_679a6c0e0a2c819193e5ae254d6c43b7&account_id=personal",
+      "hosting": "external-only",
+      "access": "authorized ChatGPT account required",
+      "privacy_status": "reviewed original; no visible private records",
+      "capture_timestamp": null,
+      "sha256": null,
+      "repository_path": null
+    }
+  ]
+}

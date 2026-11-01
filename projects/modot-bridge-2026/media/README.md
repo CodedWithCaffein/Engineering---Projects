@@ -1,6 +1,6 @@
 # Bridge media inventory
 
-[All projects](../../../README.md) · [Project home](../README.md) · [Photos](../photos.md) · [Videos](../videos.md)
+[All projects](../../../README.md) · [Project home](../README.md) · [Build story](../build-log.md) · [Photos](../photos.md) · [Videos](../videos.md) · [Results](../results.md) · [Sources](../sources.md)
 
 | Collection | Available here |
 | --- | --- |

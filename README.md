@@ -2,6 +2,8 @@
 
 **Michael Polanczyk**
 
+[← Personal portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
+
 My builds, experiments, and what I learn along the way. Choose a project to see its story, photos, videos, and progress.
 
 ## Choose a project

@@ -36,7 +36,7 @@ This repository is Michael Polanczyk's engineering project portfolio. Keep it ea
 - Remove duplicate file entries only after an exact file-hash match; retain every distinct recording, even if footage overlaps.
 - Update every link and manifest path when moving files. Preserve source names, source IDs, checksum fields, and duplicate mappings.
 - Preserve receipt redactions and never replace them with private originals.
-- The bridge's two original videos are currently external-only and require Michael's ChatGPT account. Do not describe them as hosted on GitHub.
+- Do not upload or link the bridge recordings IMG_2828.mp4 and IMG_2828(1).mp4; Michael canceled their publication. Keep the bridge Videos page and media/videos/ folder available for future testing footage.
 - The airplane's original HEIC/MOV files are not included here; its JPEG/MP4 viewing copies and original metadata are included.
 
 ## Verify and finish

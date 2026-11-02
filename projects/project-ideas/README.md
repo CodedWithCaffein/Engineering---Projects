@@ -21,7 +21,6 @@ Rough ideas for projects I would like to explore, bringing together my interests
 | [Lightweight structure testing](#lightweight-structure-testing) | Compare how different shapes and construction choices affect strength and weight. |
 | [Motorized macro photography rail](#motorized-macro-photography-rail) | Build a tool for making small camera movements during close-up photography. |
 | [Lightweight FPV drone](#lightweight-fpv-drone) | Build a custom drone around a 21700 lithium-ion power source. |
-
 | [Blowdart target-shooting concept](#blowdart-target-shooting-concept) | An early interest in a metal-dart blowgun for controlled target shooting. |
 
 ## Background

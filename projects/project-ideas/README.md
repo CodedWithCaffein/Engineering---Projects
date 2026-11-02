@@ -1,6 +1,6 @@
 # Project Ideas
 
-[All projects](../../README.md) · [Project home](README.md) · [Wind tunnel](#small-wind-tunnel) · [Structure testing](#lightweight-structure-testing) · [Macro rail](#motorized-macro-photography-rail) · [FPV drone](#lightweight-fpv-drone) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
+[All projects](../../README.md) · [Project home](README.md) · [Wind tunnel](#small-wind-tunnel) · [Structure testing](#lightweight-structure-testing) · [Macro rail](#motorized-macro-photography-rail) · [FPV drone](#lightweight-fpv-drone) · [Blowdart concept](#blowdart-target-shooting-concept) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
 
 Rough ideas for projects I would like to explore, bringing together my interests in engineering, aerospace, programming, and photography.
 
@@ -21,6 +21,8 @@ Rough ideas for projects I would like to explore, bringing together my interests
 | [Lightweight structure testing](#lightweight-structure-testing) | Compare how different shapes and construction choices affect strength and weight. |
 | [Motorized macro photography rail](#motorized-macro-photography-rail) | Build a tool for making small camera movements during close-up photography. |
 | [Lightweight FPV drone](#lightweight-fpv-drone) | Build a custom drone around a 21700 lithium-ion power source. |
+
+| [Blowdart target-shooting concept](#blowdart-target-shooting-concept) | An early interest in a metal-dart blowgun for controlled target shooting. |
 
 ## Background
 
@@ -83,6 +85,18 @@ Research the battery and compatible electronics, then choose motors and propelle
 Once built, I would test flight time and handling and revise the design. A comparison with a LiPo setup could be a later part of the project.
 
 **Still to decide:** One cell or a multicell pack, frame size, FPV equipment, and a realistic weight target. Battery connections, charging, protection, and mounting would need to be worked out before building.
+
+## Blowdart target-shooting concept
+
+**The idea**
+
+I am interested in exploring a metal-dart blowgun as a possible future project for controlled target shooting. My initial idea is to investigate simple homemade prototypes before considering whether a compressed-air version would be appropriate. I am interested in the challenge of accurately hitting stationary targets at a distance.
+
+**Rough scope**
+
+This is an early concept, with no design or testing completed. Before deciding whether to pursue it, I would need to consider feasibility, appropriate supervision, and a suitable controlled setting with secure dart containment.
+
+**Still to decide:** Whether to pursue the project, what a responsible scope would be, and where supervised testing could take place.
 
 ## Next steps
 

@@ -24,6 +24,12 @@ Choose a project below for the story, media, costs, and results. My [personal po
 | [Clear — Your Everyday Space](projects/clear-app/README.md) | A personal web workspace for everyday information, tasks, and records. | In use · ongoing development |
 | [FTC Programming Guides](projects/programming/ftc-programming-guides/README.md) | Step-by-step FTC Java guides and example code, from telemetry to Pedro Pathing. | Written reference · robot testing pending |
 
+## Planned projects
+
+| Collection | Focus | Status |
+| --- | --- | --- |
+| [Project Ideas](projects/project-ideas/README.md) | Small wind tunnel, lightweight structure testing, a motorized macro rail, and a 21700-powered FPV drone. | Rough concepts |
+
 ## How the projects are organized
 
 Each project opens with a short overview and links to its supporting pages. Stories explain the decisions; media shows the work; results separate completed checks from plans and untested ideas.

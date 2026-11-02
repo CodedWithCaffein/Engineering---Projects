@@ -1,6 +1,6 @@
 # FTC Programming Guides
 
-[All projects](../../../README.md) · [Project home](README.md) · [Guides](guides.md) · [Examples](examples/README.md) · [Blocks pictures](blocks.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
+[All projects](../../../README.md) · [Project home](README.md) · [Guides](guides.md) · [Examples](examples/README.md) · [Blocks illustrations](blocks.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
 
 A practical FTC Java reference for setting up a robot, understanding its code, and building toward autonomous path following. Pick a subject, follow the steps, then try the matching example.
 
@@ -11,7 +11,7 @@ A practical FTC Java reference for setting up a robot, understanding its code, a
 | Status | Written reference · robot testing pending |
 | Project updated | November 1, 2026 |
 | Goal | Make common FTC programming tasks easier to understand and reuse |
-| My role | I requested the subjects and organization for this collection; ChatGPT drafted the guides and teaching examples using the linked documentation |
+| My role | Subject selection and organization; guide and code drafting credited below |
 | Tools | Java, Android Studio, FTC SDK; Pedro Pathing for the pathing lessons |
 | Version baseline | FTC SDK 12.0.0; Pedro revhub 3.0.2 and tuning 1.0.3 |
 
@@ -21,7 +21,7 @@ A practical FTC Java reference for setting up a robot, understanding its code, a
 | --- | --- |
 | [Guides](guides.md) | Twelve subjects in a suggested learning order |
 | [Examples](examples/README.md) | Complete Java files and exact setup requirements |
-| [Blocks pictures](blocks.md) | Block-style logic images for every example and additional lesson fragments |
+| [Blocks illustrations](blocks.md) | Block-style logic images for every example and additional lesson fragments |
 | [Results](results.md) | What has been checked and what still needs robot testing |
 | [Sources](sources.md) | Official references, version details, and credits |
 
@@ -45,7 +45,7 @@ The files here are source examples; this folder is not a complete Android Studio
 
 ## Results and limits
 
-Examples have not been compiled or run on a physical robot in this session. Motor directions, servo travel, odometry settings, and tuning values must come from the actual robot. See [Results](results.md) for the verification scope.
+Examples have not yet been compiled or run on a physical robot. Motor directions, servo travel, odometry settings, and tuning values must come from the actual robot. See [Results](results.md) for the verification scope.
 
 ## Next steps
 

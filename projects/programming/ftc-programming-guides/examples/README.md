@@ -1,6 +1,6 @@
-# FTC Java examples
+# FTC Programming — Java Examples
 
-[All projects](../../../../README.md) · [Project home](../README.md) · [Guides](../guides.md) · [Examples](README.md) · [Blocks pictures](../blocks.md) · [Results](../results.md) · [Sources](../sources.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
+[All projects](../../../../README.md) · [Project home](../README.md) · [Guides](../guides.md) · [Examples](README.md) · [Blocks illustrations](../blocks.md) · [Results](../results.md) · [Sources](../sources.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
 
 These are complete teaching OpModes, not a standalone robot application. Copy the selected file into `TeamCode/src/main/java/org/firstinspires/ftc/teamcode/` in your FTC Android Studio project. Keep the package line, imports, filename, and public class name together. Deploy from Android Studio, then select the listed OpMode on the Driver Station.
 
@@ -33,7 +33,7 @@ Examples have not been compiled or robot-tested in this session. See [Results](.
 
 ## Blocks-style pictures
 
-Open a picture below to compare the example's logic with its Java file. These are teaching illustrations; see [Blocks pictures](../blocks.md) for the notation and differences from native editor blocks.
+Open a picture below to compare the example's logic with its Java file. These are teaching illustrations; see [Blocks illustrations](../blocks.md) for the notation and differences from native editor blocks.
 
 <details>
 <summary>TelemetryBasics — Blocks-style view</summary>

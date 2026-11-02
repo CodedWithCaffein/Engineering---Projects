@@ -1,6 +1,6 @@
-# Code images
+# Gear Calculator — Code Illustrations
 
-[All projects](../../README.md) · [Project home](README.md) · [Story](build-log.md) · [Code images](photos.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
+[All projects](../../README.md) · [Project home](README.md) · [Story](build-log.md) · [Code illustrations](photos.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
 
 These images were rendered from the current source on October 31, 2026. They are code illustrations, not browser screenshots or earlier work-in-progress records. No historical development screenshots were supplied.
 
@@ -16,4 +16,4 @@ The loop updates the ratio and direction, then records torque and speed for each
 
 The example loads four gears with a shared middle shaft. Its total ratio is 12:1.
 
-[Media inventory](media/README.md) · [Useful references](sources.md)
+[Useful references](sources.md)

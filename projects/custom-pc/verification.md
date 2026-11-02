@@ -1,4 +1,4 @@
-# Verification and remaining details
+# Custom PC Build — Verification
 
 [All projects](../../README.md) · [Project home](README.md) · [Story](build-log.md) · [Parts & costs](parts-and-costs.md) · [Photos](photos.md) · [Receipts](receipts.md) · [Verification](verification.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
 
@@ -20,4 +20,4 @@ The system check reported a Ryzen 5 9600X, ASUS ROG Strix B650E-I Gaming WiFi mo
 
 All 16 supplied images in this reviewed set are linked within this project. Published files are compressed JPEG viewing copies made from privacy-reviewed PNGs at the same pixel dimensions. Personal information identified during review was blurred, and image metadata was removed. Unredacted originals are not published.
 
-The [media manifest](media/manifest.json) maps each viewing copy to its source filename, records the reviewed PNG and published JPEG SHA-256 checksums separately, and marks capture dates unknown. No images were removed as duplicates.
+Capture dates are unknown, so the gallery is grouped by subject rather than presented as a dated build chronology. All 16 reviewed images are retained.

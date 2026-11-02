@@ -1,6 +1,6 @@
 # Clear — Your Everyday Space
 
-[All projects](../../README.md) · [Project home](README.md) · [Story](build-log.md) · [Features](features.md) · [Photos](photos.md) · [Website Version](photos.md#website-version) · [Mobile Version](photos.md#mobile-version) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
+[All projects](../../README.md) · [Project home](README.md) · [Story](build-log.md) · [Features](features.md) · [Screenshots](photos.md) · [Desktop view](photos.md#website-version) · [Mobile view](photos.md#mobile-version) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
 
 A personal web app I created to bring everyday information into one workspace and reduce the need to switch between apps.
 
@@ -19,7 +19,7 @@ A personal web app I created to bring everyday information into one workspace an
 | --- | --- |
 | [Story](build-log.md) | Why I created Clear and how the workspace developed |
 | [Features](features.md) | Workspace sections, connected workflows, and current limits |
-| [Photos](photos.md) | Reviewed desktop and mobile website views |
+| [Screenshots](photos.md) | Reviewed desktop and mobile website views |
 | [Results](results.md) | Recorded read-only checks and their limits |
 | [Sources](sources.md) | Development context, assistance, and source availability |
 
@@ -29,11 +29,11 @@ I wanted one place for notes, tasks, events, and other records. I could not find
 
 I currently use it as a website opened from my phone's home screen. Eventually, I would like to explore a practical iOS version with more dependable syncing.
 
-## Progress
+## Current status
 
 The web version is in use, and the connected workspace supports several types of records. Outside workflows can bring information into Clear, but direct background syncing and native iOS access are still areas for development.
 
-Three read-only checks are recorded in the [testing page](results.md): ledger arithmetic, workspace read consistency, and health record structure.
+Three read-only checks are recorded in the [results page](results.md): ledger arithmetic, workspace read consistency, and health record structure.
 
 The [media page](photos.md) links the reviewed Website Version and Mobile Version images. Edited copies hide private record content. All 12 images are hosted directly in the repository; the live workspace and application source are not included.
 

@@ -1,4 +1,4 @@
-# Construction photo gallery
+# MoDOT Bridge — Construction Photos
 
 [All projects](../../README.md) · [Project home](README.md) · [Story](build-log.md) · [Photos](photos.md) · [Videos](videos.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
 
@@ -80,6 +80,6 @@
 
 [<img src="media/photos/IMG_2860.jpeg" alt="Bridge project photo 19: IMG_2860.jpeg" width="900">](media/photos/IMG_2860.jpeg)
 
-[Back to project home](README.md) · [Original media inventory](media/README.md)
+[Back to project home](README.md)
 
 [All projects](../../README.md) · [Project home](README.md)

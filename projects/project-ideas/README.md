@@ -1,4 +1,4 @@
-# Project Ideas
+# Project Ideas and Planning
 
 [All projects](../../README.md) · [Project home](README.md) · [Wind tunnel](#small-wind-tunnel) · [Structure testing](#lightweight-structure-testing) · [Macro rail](#motorized-macro-photography-rail) · [FPV drone](#lightweight-fpv-drone) · [Blowdart concept](#blowdart-target-shooting-concept) · [Rocketry L1](rocketry-l1.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
 

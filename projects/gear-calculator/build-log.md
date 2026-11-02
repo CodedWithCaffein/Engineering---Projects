@@ -1,10 +1,11 @@
-# Project story
+# Gear Calculator — Build Story
 
-[All projects](../../README.md) · [Project home](README.md) · [Story](build-log.md) · [Code images](photos.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
+[All projects](../../README.md) · [Project home](README.md) · [Story](build-log.md) · [Code illustrations](photos.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
 
 In late September 2026, my Principles of Engineering class at CTC got me interested in gear ratios and how they affect torque and speed. I wanted to understand what happens when you change gear sizes or connect several gears together, so I thought a simple calculator would be a fun project.
 
-I knew there were websites that could already do this. My original goal was to try building something by hand and get more firsthand coding experience. The entirety of this project was hand made with no use of ai. Only Google and some Reddit discussions were used to help with code and math equations. 
+I knew there were websites that could already do this. My original goal was to try building something by hand and get more firsthand coding experience. I made this project by hand without AI, using Google and Reddit discussions for coding questions and equations.
+
 ## The idea
 
 Choose between two and nine gears, enter their tooth counts or pitch diameters, and enter the input torque and RPM. The output shows the total ratio, speed, torque, and direction. It also lists the values at each gear.
@@ -25,6 +26,6 @@ For example, a 12-tooth gear driving a 36-tooth gear gives a 3:1 reduction. A 10
 
 ## The result
 
-The calculator is pretty janky. Some boxes do not line up, the spacing is uneven, and the buttons are basic. That is the rough appearance I wanted for this version. It works for trying combinations and checking the math, but a real mechanism will lose some power to friction.
+The interface is intentionally basic, with uneven spacing and ordinary browser buttons. I kept the focus on learning the code and checking the calculations. It works for trying combinations and checking the math, but a real mechanism will lose some power to friction.
 
 [Download instructions and code](README.md#use-the-calculator)

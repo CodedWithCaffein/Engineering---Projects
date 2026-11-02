@@ -1,6 +1,8 @@
-# Videos
+# Eclipson Vortex — Videos
 
 [All projects](../../README.md) · [Project home](README.md) · [Story](build-log.md) · [Parts & costs](parts-and-costs.md) · [Photos](photos.md) · [Videos](videos.md) · [Receipts](receipts.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
+
+<a id="videos"></a>
 
 All 21 video files from the spring build update. Labels describe the subject shown in each preview. Select a thumbnail or its Watch link to open the same clip. Lengths are shown as minutes:seconds. For still images, choose Photos.
 
@@ -68,7 +70,7 @@ All 21 video files from the spring build update. Labels describe the subject sho
 | 20 | IMG_1453 2.MOV |
 | 21 | IMG_1453.MOV |
 
-All 21 clips retain their full duration. MP4 viewing copies have a maximum dimension of 480 pixels at 15 fps, with audio retained where present. The original MOV files are not included in this repository; the manifest records their source metadata. Dates use America/Chicago time. The numbered IMG_1453 files are retained as supplied, including clips with similar or overlapping footage. See the [media manifest](media/manifest.json) for capture metadata and fingerprints.
+All 21 clips retain their full duration. MP4 viewing copies have a maximum dimension of 480 pixels at 15 fps, with audio retained where present. The original MOV files are not included in this repository. Dates use America/Chicago time. The numbered IMG_1453 files are retained as supplied, including clips with similar or overlapping footage.
 
 </details>
 

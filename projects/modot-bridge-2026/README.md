@@ -27,7 +27,11 @@ My first MoDOT bridge competition: researching designs, drawing my own plans, an
 
 *Full bridge view. Open the image to browse the construction gallery.*
 
-## Progress
+## Background
+
+I wanted to take part in the MoDOT bridge competition and apply what I was learning about design and structures. The build gave me a chance to work within fixed materials and deadlines, from researching layouts to drawing and constructing my own bridge.
+
+## Current status
 
 I explored several bridge layouts with ChatGPT, then drew my own final design on paper. With limited time and no extra supplied material for experiments, I chose a simpler design and emphasized a strong base. Construction took roughly four to four and a half days. I have not yet measured how well the bridge performs.
 
@@ -44,4 +48,4 @@ I made the majority of the design and reviewed the suggestions myself. ChatGPT h
 
 ---
 
-[Media inventory](media/README.md) · [All projects](../../README.md) · [Personal portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
+[All projects](../../README.md) · [Personal portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)

@@ -27,7 +27,7 @@ I researched and built a compact desktop PC to learn how the hardware and softwa
 
 I wanted to understand what goes into a PC instead of just picking a finished system. I spent many months researching the CPU, GPU, motherboard, memory, storage, power supply, cooling, and software before ordering parts. Fitting everything into a compact case made compatibility and layout especially important.
 
-## Progress
+## Current status
 
 The PC is assembled and in use. The current configuration uses a Ryzen 5 9600X, ASUS ROG Strix B650E-I Gaming WiFi motherboard, 32 GB of Kingston FURY Beast memory, a 1 TB SK hynix Platinum P41 SSD, and an MSI RTX 3080 Gaming Z Trio LHR 10 GB in a Mechanic Master Cool Cube C28 case.
 

@@ -1,6 +1,6 @@
-# Checks and limitations
+# Gear Calculator — Results and Limits
 
-[All projects](../../README.md) · [Project home](README.md) · [Story](build-log.md) · [Code images](photos.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
+[All projects](../../README.md) · [Project home](README.md) · [Story](build-log.md) · [Code illustrations](photos.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
 
 Calculation checks run on the JavaScript extracted from the downloadable HTML file.
 

@@ -31,7 +31,7 @@ My 3D-printed RC airplane build, from printed parts to assembly, electronics set
 
 I chose the Eclipson Vortex as my first airplane build after researching the cost and practical limits of designing one from scratch. The project lets me work on printing, assembly, and electronics before taking on a full aircraft design.
 
-## Progress
+## Current status
 
 I have printed airframe and wing sections and purchased the main electronics and control hardware. The April 22–May 29 progress update is documented by photos and videos captured on May 22, 26, and 27.
 
@@ -50,4 +50,4 @@ The aircraft design and supplied CAD/printing files are by [Eclipson](https://ww
 
 ---
 
-[Media inventory](media/README.md) · [All projects](../../README.md) · [Personal portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
+[All projects](../../README.md) · [Personal portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)

@@ -1,4 +1,4 @@
-# Photos
+# Eclipson Vortex — Photos
 
 [All projects](../../README.md) · [Project home](README.md) · [Story](build-log.md) · [Parts & costs](parts-and-costs.md) · [Photos](photos.md) · [Videos](videos.md) · [Receipts](receipts.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
 
@@ -23,7 +23,7 @@ May 26, 2026 — Wing assembly with control-surface details visible.
 <details>
 <summary>About the photo files</summary>
 
-These JPEGs were converted from the original HEIC photos. Each associated Live Photo MOV is represented by its still image here. The original HEIC and Live Photo MOV files are not included in this repository; their filenames and fingerprints are recorded in the [media manifest](media/manifest.json).
+These JPEGs were converted from the original HEIC photos. Each associated Live Photo MOV is represented by its still image here. The original HEIC and Live Photo MOV files are not included in this repository.
 
 </details>
 

@@ -1,4 +1,4 @@
-# Sources & next steps
+# MoDOT Bridge — Sources and Notes
 
 [All projects](../../README.md) · [Project home](README.md) · [Story](build-log.md) · [Photos](photos.md) · [Videos](videos.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
 
@@ -31,7 +31,7 @@ I am a junior with mechanical/aerospace interests. Being a senior next year woul
 
 ## Media ordering
 
-The original uploaded copies have no readable capture dates in the source outline. Filename sequence is used as an approximate order; upload dates are not construction dates. No exact build day is assigned. The gallery and media folder contain 19 unique photos. Six byte-identical duplicate uploads have been consolidated; original upload names, source identities, and checksums remain in the [media manifest](media/manifest.json). The two original videos remain linked from the Videos page.
+The original uploaded copies have no readable capture dates in the source outline. Filename sequence is used as an approximate order; upload dates are not construction dates. No exact build day is assigned. The gallery and media folder contain 19 unique photos. Six byte-identical duplicate uploads were consolidated without removing unique photos. The two earlier recordings are not published; the Videos page is reserved for future testing footage.
 
 ## Next year
 

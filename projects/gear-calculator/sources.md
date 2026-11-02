@@ -1,6 +1,6 @@
-# Useful references
+# Gear Calculator — Sources
 
-[All projects](../../README.md) · [Project home](README.md) · [Story](build-log.md) · [Code images](photos.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
+[All projects](../../README.md) · [Project home](README.md) · [Story](build-log.md) · [Code illustrations](photos.md) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
 
 These are further-reading links checked on October 31, 2026, not a record of websites used during an earlier build.
 

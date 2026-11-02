@@ -1,6 +1,6 @@
-# Clear — Technical Documentation and References
+# Clear — Sources and Development Notes
 
-[All projects](../../README.md) · [Project home](README.md) · [Story](build-log.md) · [Features](features.md) · [Photos](photos.md) · [Website Version](photos.md#website-version) · [Mobile Version](photos.md#mobile-version) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
+[All projects](../../README.md) · [Project home](README.md) · [Story](build-log.md) · [Features](features.md) · [Screenshots](photos.md) · [Desktop view](photos.md#website-version) · [Mobile view](photos.md#mobile-version) · [Results](results.md) · [Sources](sources.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
 
 ## Technical documentation
 

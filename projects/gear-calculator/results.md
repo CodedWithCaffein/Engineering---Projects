@@ -16,4 +16,4 @@ Calculation checks run on the JavaScript extracted from the downloadable HTML fi
 
 Run the repeatable checks with `node check.cjs` from this folder. Node is only needed for these checks, not to use the calculator.
 
-Browser interaction and appearance have not been verified because the available browser capture tool was blocked. These automated checks validate the calculation function, not every browser control. No physical torque or speed measurements have been made for this version.
+These automated checks validate the calculation function, not every browser control. Browser interaction and appearance have not yet been verified. No physical torque or speed measurements have been made for this version.

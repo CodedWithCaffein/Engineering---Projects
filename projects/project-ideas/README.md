@@ -1,6 +1,6 @@
 # Project Ideas
 
-[All projects](../../README.md) · [Project home](README.md) · [Wind tunnel](#small-wind-tunnel) · [Structure testing](#lightweight-structure-testing) · [Macro rail](#motorized-macro-photography-rail) · [FPV drone](#lightweight-fpv-drone) · [Blowdart concept](#blowdart-target-shooting-concept) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
+[All projects](../../README.md) · [Project home](README.md) · [Wind tunnel](#small-wind-tunnel) · [Structure testing](#lightweight-structure-testing) · [Macro rail](#motorized-macro-photography-rail) · [FPV drone](#lightweight-fpv-drone) · [Blowdart concept](#blowdart-target-shooting-concept) · [Rocketry L1](rocketry-l1.md) · [Portfolio](https://github.com/CodedWithCaffein/Michael-Polanczyk-Portfolio)
 
 Rough ideas for projects I would like to explore, bringing together my interests in engineering, aerospace, programming, and photography.
 
@@ -22,6 +22,7 @@ Rough ideas for projects I would like to explore, bringing together my interests
 | [Motorized macro photography rail](#motorized-macro-photography-rail) | Build a tool for making small camera movements during close-up photography. |
 | [Lightweight FPV drone](#lightweight-fpv-drone) | Explore a low-cost, lightweight 21700-powered drone focused on flight efficiency. |
 | [Blowdart target-shooting concept](#blowdart-target-shooting-concept) | An early interest in a metal-dart blowgun for controlled target shooting. |
+| [Level 1 rocketry certification](rocketry-l1.md) | Research NAR and Tripoli routes, find a mentor, and plan a certification attempt. |
 
 ## Background
 
@@ -94,6 +95,12 @@ I would like to begin after this school year and work on it slowly through gradu
 ## Blowdart target-shooting concept
 
 I’m interested in exploring a metal blowdart shooter as a future project. I would like to start with homemade prototypes and potentially explore a compressed-air version, with the goal of accurately hitting stationary targets at a distance. For now, this is just an idea; the design, feasibility, and suitable testing arrangements are still undecided.
+
+## Level 1 rocketry certification
+
+I want to research and work toward Level 1 high-power rocketry certification. The first steps would be finding a club, comparing NAR and Tripoli, and deciding whether to use a junior program or prepare for adult certification after 18. From there, I would choose a rocket, build it with guidance, and arrange a certification flight.
+
+[Read the rough plan](rocketry-l1.md) — program comparison, requirements, main steps, and things still to decide.
 
 ## Next steps
 

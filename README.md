@@ -28,7 +28,7 @@ Choose a project below for the story, media, costs, and results. My [personal po
 
 | Collection | Focus | Status |
 | --- | --- | --- |
-| [Project Ideas](projects/project-ideas/README.md) | Rough concepts in aerospace, structures, photography, and controlled target shooting. | Rough concepts |
+| [Project Ideas](projects/project-ideas/README.md) | Rough concepts in aerospace, rocketry certification, structures, photography, and controlled target shooting. | Rough concepts |
 
 ## How the projects are organized
 

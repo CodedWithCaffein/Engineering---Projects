@@ -87,15 +87,7 @@ Once built, I would test flight time and handling and revise the design. A compa
 
 ## Blowdart target-shooting concept
 
-**The idea**
-
-I am interested in exploring a metal-dart blowgun as a possible future project for controlled target shooting. My initial idea is to investigate simple homemade prototypes before considering whether a compressed-air version would be appropriate. I am interested in the challenge of accurately hitting stationary targets at a distance.
-
-**Rough scope**
-
-This is an early concept, with no design or testing completed. Before deciding whether to pursue it, I would need to consider feasibility, appropriate supervision, and a suitable controlled setting with secure dart containment.
-
-**Still to decide:** Whether to pursue the project, what a responsible scope would be, and where supervised testing could take place.
+I’m interested in exploring a metal blowdart shooter as a future project. I would like to start with homemade prototypes and potentially explore a compressed-air version, with the goal of accurately hitting stationary targets at a distance. For now, this is just an idea; the design, feasibility, and suitable testing arrangements are still undecided.
 
 ## Next steps
 

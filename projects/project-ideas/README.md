@@ -100,7 +100,7 @@ I’m interested in exploring a metal blowdart shooter as a future project. I wo
 
 I want to research and work toward Level 1 high-power rocketry certification. The first steps would be finding a club, comparing NAR and Tripoli, and deciding whether to use a junior program or prepare for adult certification after 18. From there, I would choose a rocket, build it with guidance, and arrange a certification flight.
 
-[Read the rough plan](rocketry-l1.md) — program comparison, requirements, main steps, and things still to decide.
+[Read my planning notes](rocketry-l1.md) — my notes on the two programs, what I need to do, and what I’m still figuring out.
 
 ## Next steps
 

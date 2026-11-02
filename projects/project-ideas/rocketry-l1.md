@@ -4,6 +4,8 @@
 
 I want to get more involved in rocketry and eventually earn my Level 1 certification. For now, I’m figuring out which organization to go through, where I could launch, and what I would need to learn and build.
 
+One of my friends is also interested in rocketry and has already launched quite a few rockets. I know I can turn to him for help or questions as I get started.
+
 ## At a glance
 
 | Field | Notes |

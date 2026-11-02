@@ -20,12 +20,12 @@ Rough ideas for projects I would like to explore, bringing together my interests
 | [Small wind tunnel](#small-wind-tunnel) | Revisit my science fair wing experiment with the skills and tools I have gained since then. |
 | [Lightweight structure testing](#lightweight-structure-testing) | Compare how different shapes and construction choices affect strength and weight. |
 | [Motorized macro photography rail](#motorized-macro-photography-rail) | Build a tool for making small camera movements during close-up photography. |
-| [Lightweight FPV drone](#lightweight-fpv-drone) | Build a custom drone around a 21700 lithium-ion power source. |
+| [Lightweight FPV drone](#lightweight-fpv-drone) | Explore a low-cost, lightweight 21700-powered drone focused on flight efficiency. |
 | [Blowdart target-shooting concept](#blowdart-target-shooting-concept) | An early interest in a metal-dart blowgun for controlled target shooting. |
 
 ## Background
 
-I want to use future projects to build on earlier work and try ideas that connect my different interests. These notes describe possible directions; parts, budgets, dimensions, and schedules have not been finalized.
+I want to use future projects to build on earlier work and try ideas that connect my different interests. These notes describe possible directions; parts, budgets, dimensions, and any suggested timelines remain preliminary.
 
 ## Small wind tunnel
 
@@ -75,15 +75,21 @@ I would begin with manual camera triggering between movements. Automatic trigger
 
 **The idea**
 
-I want to build a custom lightweight FPV drone powered by a 21700 lithium-ion battery rather than a typical LiPo pack. I would focus on efficient flight, low weight, and a design that is easy to repair.
+I want to build a custom lightweight FPV drone powered by a 21700 lithium-ion battery rather than a typical LiPo pack. I have watched a few YouTube videos about similar builds, but most of the ones I have seen use name-brand parts and seem focused on getting the best feel while flying.
+
+My priority would be keeping weight and cost as low as practical, with the goal of maximizing flight efficiency. I want to explore custom frames and very lightweight components, accepting a simpler finish and less refined handling in the early prototypes.
 
 **Rough approach**
 
-Research the battery and compatible electronics, then choose motors and propellers around the expected weight and power needs. I could design a custom frame or mounts in Inventor and use printed parts where suitable.
+Start with an inexpensive prototype, research compatible electronics, and design a lightweight frame and mounts in Inventor. I would choose parts around their weight, cost, and suitability for the power system, then test whether the weight savings actually improve efficiency.
 
-Once built, I would test flight time and handling and revise the design. A comparison with a LiPo setup could be a later part of the project.
+I would gradually revise the frame and component choices based on flight time, power use, and basic handling. Higher-quality parts could come later where testing shows they would make a useful difference.
 
-**Still to decide:** One cell or a multicell pack, frame size, FPV equipment, and a realistic weight target. Battery connections, charging, protection, and mounting would need to be worked out before building.
+**Possible timeline**
+
+I would like to begin after this school year and work on it slowly through graduation, making improvements as time and money allow.
+
+**Still to decide:** One cell or a multicell pack, frame size, FPV equipment, budget, and a realistic weight target. Battery connections, charging, protection, and mounting would need to be worked out before building.
 
 ## Blowdart target-shooting concept
 
